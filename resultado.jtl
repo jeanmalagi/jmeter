@@ -1,0 +1,1351 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1623089813776,989,Acessar Google,200,OK,Acessos 1-92,text,true,,14339,119,100,100,https://www.google.com/,969,0,871
+1623089813352,1417,Acessar Google,200,OK,Acessos 1-52,text,true,,14477,119,100,100,https://www.google.com/,1406,0,1298
+1623089813029,1740,Acessar Google,200,OK,Acessos 1-20,text,true,,14439,119,100,100,https://www.google.com/,1737,0,1616
+1623089813073,1696,Acessar Google,200,OK,Acessos 1-26,text,true,,14448,119,100,100,https://www.google.com/,1687,0,1578
+1623089813768,1002,Acessar Google,200,OK,Acessos 1-89,text,true,,14396,119,100,100,https://www.google.com/,979,0,884
+1623089813312,1458,Acessar Google,200,OK,Acessos 1-49,text,true,,14451,119,100,100,https://www.google.com/,1433,0,1334
+1623089813052,1718,Acessar Google,200,OK,Acessos 1-23,text,true,,14483,119,100,100,https://www.google.com/,1710,0,1599
+1623089813778,993,Acessar Google,200,OK,Acessos 1-93,text,true,,14482,119,100,100,https://www.google.com/,987,0,877
+1623089813831,941,Acessar Google,200,OK,Acessos 1-100,text,true,,14426,119,100,100,https://www.google.com/,929,0,822
+1623089813811,962,Acessar Google,200,OK,Acessos 1-98,text,true,,14443,119,100,100,https://www.google.com/,946,0,844
+1623089812989,1784,Acessar Google,200,OK,Acessos 1-10,text,true,,14450,119,100,100,https://www.google.com/,1781,0,1684
+1623089813617,1157,Acessar Google,200,OK,Acessos 1-78,text,true,,14497,119,100,100,https://www.google.com/,1139,0,1032
+1623089813640,1134,Acessar Google,200,OK,Acessos 1-79,text,true,,14485,119,100,100,https://www.google.com/,1112,0,1008
+1623089813586,1189,Acessar Google,200,OK,Acessos 1-74,text,true,,14443,119,100,100,https://www.google.com/,1159,0,1058
+1623089813192,1583,Acessar Google,200,OK,Acessos 1-38,text,true,,14440,119,100,100,https://www.google.com/,1559,0,1452
+1623089813588,1187,Acessar Google,200,OK,Acessos 1-75,text,true,,14464,119,100,100,https://www.google.com/,1175,0,1060
+1623089813649,1155,Acessar Google,200,OK,Acessos 1-81,text,true,,14514,119,100,100,https://www.google.com/,1152,0,1055
+1623089813005,1839,Acessar Google,200,OK,Acessos 1-18,text,true,,14445,119,100,100,https://www.google.com/,1837,0,1716
+1623089813255,1591,Acessar Google,200,OK,Acessos 1-44,text,true,,14468,119,100,100,https://www.google.com/,1589,0,1474
+1623089813262,1590,Acessar Google,200,OK,Acessos 1-45,text,true,,14434,119,100,100,https://www.google.com/,1586,0,1460
+1623089813566,1286,Acessar Google,200,OK,Acessos 1-73,text,true,,14445,119,100,100,https://www.google.com/,1282,0,1144
+1623089812995,1862,Acessar Google,200,OK,Acessos 1-12,text,true,,14419,119,100,100,https://www.google.com/,1860,0,1733
+1623089813391,1470,Acessar Google,200,OK,Acessos 1-56,text,true,,14476,119,100,100,https://www.google.com/,1468,0,1341
+1623089813093,1771,Acessar Google,200,OK,Acessos 1-28,text,true,,14377,119,100,100,https://www.google.com/,1769,0,1640
+1623089813066,1804,Acessar Google,200,OK,Acessos 1-25,text,true,,14503,119,100,100,https://www.google.com/,1802,0,1675
+1623089813242,1632,Acessar Google,200,OK,Acessos 1-43,text,true,,14438,119,100,100,https://www.google.com/,1630,0,1484
+1623089813282,1596,Acessar Google,200,OK,Acessos 1-47,text,true,,14424,119,100,100,https://www.google.com/,1594,0,1426
+1623089813784,1125,Acessar Google,200,OK,Acessos 1-94,text,true,,14486,119,100,100,https://www.google.com/,1122,0,979
+1623089812989,1931,Acessar Google,200,OK,Acessos 1-15,text,true,,14453,119,100,100,https://www.google.com/,1928,0,1797
+1623089812988,1939,Acessar Google,200,OK,Acessos 1-14,text,true,,14425,119,100,100,https://www.google.com/,1937,0,1810
+1623089813056,1889,Acessar Google,200,OK,Acessos 1-24,text,true,,14433,119,100,100,https://www.google.com/,1888,0,1782
+1623089812993,2019,Acessar Google,200,OK,Acessos 1-8,text,true,,14495,119,100,100,https://www.google.com/,2013,0,1926
+1623089813782,1232,Acessar Google,200,OK,Acessos 1-95,text,true,,14460,119,100,100,https://www.google.com/,1227,0,1138
+1623089813594,1439,Acessar Google,200,OK,Acessos 1-76,text,true,,14435,119,100,100,https://www.google.com/,1429,0,1336
+1623089813151,1884,Acessar Google,200,OK,Acessos 1-34,text,true,,14461,119,100,100,https://www.google.com/,1873,0,1778
+1623089813136,1931,Acessar Google,200,OK,Acessos 1-32,text,true,,14433,119,100,100,https://www.google.com/,1916,0,1795
+1623089814777,325,Acessar Amazon,503,Service Unavailable,Acessos 1-38,text,false,,2549,119,100,100,https://www.amazon.com/,324,0,140
+1623089814777,328,Acessar Amazon,503,Service Unavailable,Acessos 1-79,text,false,,2552,119,100,100,https://www.amazon.com/,328,0,140
+1623089814772,334,Acessar Amazon,503,Service Unavailable,Acessos 1-93,text,false,,2547,119,100,100,https://www.amazon.com/,334,0,158
+1623089814770,338,Acessar Amazon,503,Service Unavailable,Acessos 1-52,text,false,,2553,119,100,100,https://www.amazon.com/,338,0,161
+1623089814770,340,Acessar Amazon,503,Service Unavailable,Acessos 1-26,text,false,,2551,119,100,100,https://www.amazon.com/,340,0,162
+1623089814909,238,Acessar Amazon,503,Service Unavailable,Acessos 1-94,text,false,,2550,119,100,100,https://www.amazon.com/,238,0,68
+1623089814928,222,Acessar Amazon,503,Service Unavailable,Acessos 1-14,text,false,,2551,119,100,100,https://www.amazon.com/,222,0,67
+1623089813559,1624,Acessar Google,200,OK,Acessos 1-71,text,true,,14415,119,100,100,https://www.google.com/,1620,0,1514
+1623089813108,2078,Acessar Google,200,OK,Acessos 1-29,text,true,,14427,119,100,100,https://www.google.com/,2077,0,1964
+1623089812981,2230,Acessar Google,200,OK,Acessos 1-6,text,true,,14459,119,100,100,https://www.google.com/,2229,0,2129
+1623089813300,1926,Acessar Google,200,OK,Acessos 1-48,text,true,,14420,119,100,100,https://www.google.com/,1924,0,1802
+1623089814770,469,Acessar Amazon,503,Service Unavailable,Acessos 1-89,text,false,,2553,119,100,100,https://www.amazon.com/,469,0,302
+1623089815034,222,Acessar Amazon,503,Service Unavailable,Acessos 1-76,text,false,,2552,119,100,100,https://www.amazon.com/,222,0,78
+1623089815068,217,Acessar Amazon,503,Service Unavailable,Acessos 1-32,text,false,,2552,119,100,100,https://www.amazon.com/,216,0,75
+1623089814805,551,Acessar Amazon,503,Service Unavailable,Acessos 1-81,text,false,,2550,119,100,100,https://www.amazon.com/,551,0,153
+1623089814773,593,Acessar Amazon,503,Service Unavailable,Acessos 1-100,text,false,,2550,119,100,100,https://www.amazon.com/,593,0,416
+1623089815109,271,Acessar Globo,200,OK,Acessos 1-52,text,true,,625405,118,100,100,https://www.globo.com/,104,0,81
+1623089814776,638,Acessar Amazon,503,Service Unavailable,Acessos 1-74,text,false,,2551,119,99,99,https://www.amazon.com/,638,0,480
+1623089815187,232,Acessar Amazon,503,Service Unavailable,Acessos 1-29,text,false,,2550,119,99,99,https://www.amazon.com/,232,0,69
+1623089814774,647,Acessar Amazon,503,Service Unavailable,Acessos 1-49,text,false,,2553,119,99,99,https://www.amazon.com/,647,0,499
+1623089814921,502,Acessar Amazon,503,Service Unavailable,Acessos 1-15,text,false,,2552,119,99,99,https://www.amazon.com/,502,0,69
+1623089815213,213,Acessar Amazon,503,Service Unavailable,Acessos 1-6,text,false,,2548,119,99,99,https://www.amazon.com/,213,0,53
+1623089813800,1627,Acessar Google,200,OK,Acessos 1-97,text,true,,14478,119,99,99,https://www.google.com/,1625,0,1516
+1623089813517,1912,Acessar Google,200,OK,Acessos 1-68,text,true,,14447,119,99,99,https://www.google.com/,1401,0,1269
+1623089812991,2438,Acessar Google,200,OK,Acessos 1-16,text,true,,14448,119,99,99,https://www.google.com/,2438,0,1801
+1623089814775,714,Acessar Amazon,503,Service Unavailable,Acessos 1-78,text,false,,2552,119,99,99,https://www.amazon.com/,714,0,539
+1623089815227,263,Acessar Amazon,503,Service Unavailable,Acessos 1-48,text,false,,2549,119,99,99,https://www.amazon.com/,263,0,48
+1623089814775,724,Acessar Amazon,503,Service Unavailable,Acessos 1-98,text,false,,2553,119,99,99,https://www.amazon.com/,724,0,540
+1623089814776,738,Acessar Amazon,503,Service Unavailable,Acessos 1-75,text,false,,2550,119,99,99,https://www.amazon.com/,738,0,554
+1623089815184,341,Acessar Amazon,503,Service Unavailable,Acessos 1-71,text,false,,2551,119,99,99,https://www.amazon.com/,341,0,144
+1623089815014,535,Acessar Amazon,503,Service Unavailable,Acessos 1-8,text,false,,2551,119,99,99,https://www.amazon.com/,535,0,369
+1623089815036,514,Acessar Amazon,503,Service Unavailable,Acessos 1-34,text,false,,2550,119,99,99,https://www.amazon.com/,514,0,352
+1623089813201,2397,Acessar Google,200,OK,Acessos 1-39,text,true,,14458,119,99,99,https://www.google.com/,2396,0,1910
+1623089813083,2518,Acessar Google,200,OK,Acessos 1-27,text,true,,14414,119,99,99,https://www.google.com/,2517,0,2034
+1623089814770,831,Acessar Amazon,503,Service Unavailable,Acessos 1-20,text,false,,2550,119,99,99,https://www.amazon.com/,831,0,647
+1623089813773,1830,Acessar Google,200,OK,Acessos 1-91,text,true,,14479,119,99,99,https://www.google.com/,1829,0,1339
+1623089815015,597,Acessar Amazon,503,Service Unavailable,Acessos 1-95,text,false,,2554,119,99,99,https://www.amazon.com/,597,0,430
+1623089813411,2226,Acessar Google,200,OK,Acessos 1-58,text,true,,14506,119,99,99,https://www.google.com/,2225,0,2102
+1623089813523,2116,Acessar Google,200,OK,Acessos 1-69,text,true,,14443,119,99,99,https://www.google.com/,2116,0,1975
+1623089814771,871,Acessar Amazon,503,Service Unavailable,Acessos 1-23,text,false,,2551,119,99,99,https://www.amazon.com/,870,0,699
+1623089813792,1888,Acessar Google,200,OK,Acessos 1-96,text,true,,14445,119,99,99,https://www.google.com/,1883,0,1737
+1623089814871,826,Acessar Amazon,503,Service Unavailable,Acessos 1-25,text,false,,2551,119,99,99,https://www.amazon.com/,826,0,640
+1623089814862,835,Acessar Amazon,503,Service Unavailable,Acessos 1-56,text,false,,2550,119,99,99,https://www.amazon.com/,835,0,667
+1623089814879,830,Acessar Amazon,503,Service Unavailable,Acessos 1-47,text,false,,2549,119,99,99,https://www.amazon.com/,830,0,647
+1623089814853,859,Acessar Amazon,503,Service Unavailable,Acessos 1-45,text,false,,2551,119,99,99,https://www.amazon.com/,859,0,683
+1623089813642,2072,Acessar Google,200,OK,Acessos 1-80,text,true,,14442,119,99,99,https://www.google.com/,2071,0,1962
+1623089815428,318,Acessar Amazon,503,Service Unavailable,Acessos 1-97,text,false,,2552,119,99,99,https://www.amazon.com/,317,0,135
+1623089814853,908,Acessar Amazon,503,Service Unavailable,Acessos 1-73,text,false,,2547,119,99,99,https://www.amazon.com/,908,0,690
+1623089815430,333,Acessar Amazon,503,Service Unavailable,Acessos 1-68,text,false,,2552,119,99,99,https://www.amazon.com/,333,0,136
+1623089813383,2387,Acessar Google,200,OK,Acessos 1-55,text,true,,14417,119,99,99,https://www.google.com/,2362,0,2225
+1623089815430,340,Acessar Amazon,503,Service Unavailable,Acessos 1-16,text,false,,2552,119,99,99,https://www.amazon.com/,340,0,133
+1623089813032,2741,Acessar Google,200,OK,Acessos 1-21,text,true,,14471,119,99,99,https://www.google.com/,2740,0,2613
+1623089813172,2602,Acessar Google,200,OK,Acessos 1-36,text,true,,14465,119,99,99,https://www.google.com/,2601,0,2463
+1623089813400,2381,Acessar Google,200,OK,Acessos 1-57,text,true,,14471,119,99,99,https://www.google.com/,2380,0,2252
+1623089814946,849,Acessar Amazon,200,OK,Acessos 1-24,text,true,,83259,119,99,99,https://www.amazon.com/,542,0,67
+1623089815285,523,Acessar Globo,200,OK,Acessos 1-32,text,true,,625405,118,99,99,https://www.globo.com/,83,0,61
+1623089812989,2907,Acessar Google,200,OK,Acessos 1-9,text,true,,14456,119,98,98,https://www.google.com/,2907,0,2780
+1623089813666,2232,Acessar Google,200,OK,Acessos 1-83,text,true,,14442,119,98,98,https://www.google.com/,2231,0,2103
+1623089813499,2405,Acessar Google,200,OK,Acessos 1-66,text,true,,14448,119,98,98,https://www.google.com/,2403,0,2278
+1623089812988,2924,Acessar Google,200,OK,Acessos 1-2,text,true,,14471,119,98,98,https://www.google.com/,2758,0,2617
+1623089812996,2942,Acessar Google,200,OK,Acessos 1-17,text,true,,14436,119,98,98,https://www.google.com/,2897,0,2767
+1623089813211,2739,Acessar Google,200,OK,Acessos 1-40,text,true,,15229,119,98,98,https://www.google.com/,2739,0,2598
+1623089813762,2203,Acessar Google,200,OK,Acessos 1-85,text,true,,14434,119,98,98,https://www.google.com/,2202,0,2045
+1623089815603,364,Acessar Amazon,503,Service Unavailable,Acessos 1-27,text,false,,2550,119,98,98,https://www.amazon.com/,364,0,173
+1623089812993,2975,Acessar Google,200,OK,Acessos 1-1,text,true,,14509,119,98,98,https://www.google.com/,2974,0,2843
+1623089812994,2985,Acessar Google,200,OK,Acessos 1-4,text,true,,14461,119,98,98,https://www.google.com/,2985,0,2832
+1623089813339,2645,Acessar Google,200,OK,Acessos 1-51,text,true,,14414,119,98,98,https://www.google.com/,2645,0,2495
+1623089813765,2222,Acessar Google,200,OK,Acessos 1-87,text,true,,14447,119,98,98,https://www.google.com/,2221,0,2080
+1623089814847,1175,Acessar Amazon,200,OK,Acessos 1-44,text,true,,82779,119,98,98,https://www.amazon.com/,309,0,121
+1623089814845,1181,Acessar Amazon,503,Service Unavailable,Acessos 1-18,text,false,,2548,119,98,98,https://www.amazon.com/,1181,0,926
+1623089813604,2424,Acessar Google,200,OK,Acessos 1-77,text,true,,14445,119,98,98,https://www.google.com/,2424,0,2289
+1623089813564,2478,Acessar Google,200,OK,Acessos 1-72,text,true,,14443,119,98,98,https://www.google.com/,2478,0,2329
+1623089812991,3054,Acessar Google,200,OK,Acessos 1-7,text,true,,14488,119,98,98,https://www.google.com/,3054,0,2901
+1623089813451,2598,Acessar Google,200,OK,Acessos 1-62,text,true,,14427,119,98,98,https://www.google.com/,2597,0,2450
+1623089814768,1282,Acessar Amazon,503,Service Unavailable,Acessos 1-92,text,false,,2548,119,98,98,https://www.amazon.com/,1282,0,1079
+1623089815640,411,Acessar Amazon,503,Service Unavailable,Acessos 1-69,text,false,,2549,119,98,98,https://www.amazon.com/,411,0,196
+1623089815638,414,Acessar Amazon,503,Service Unavailable,Acessos 1-58,text,false,,2551,119,98,98,https://www.amazon.com/,414,0,227
+1623089813147,2906,Acessar Google,200,OK,Acessos 1-33,text,true,,14476,119,98,98,https://www.google.com/,2865,0,2725
+1623089813038,3027,Acessar Google,200,OK,Acessos 1-22,text,true,,14419,119,98,98,https://www.google.com/,2950,0,2810
+1623089815771,337,Acessar Amazon,503,Service Unavailable,Acessos 1-55,text,false,,2552,119,98,98,https://www.amazon.com/,337,0,137
+1623089813461,2648,Acessar Google,200,OK,Acessos 1-63,text,true,,14450,119,98,98,https://www.google.com/,2648,0,2514
+1623089815775,350,Acessar Amazon,503,Service Unavailable,Acessos 1-36,text,false,,2554,119,98,98,https://www.amazon.com/,350,0,154
+1623089812981,3144,Acessar Google,200,OK,Acessos 1-5,text,true,,14401,119,98,98,https://www.google.com/,3144,0,3012
+1623089813655,2472,Acessar Google,200,OK,Acessos 1-82,text,true,,14441,119,98,98,https://www.google.com/,2472,0,2343
+1623089815782,365,Acessar Amazon,503,Service Unavailable,Acessos 1-57,text,false,,2553,119,98,98,https://www.amazon.com/,365,0,158
+1623089813027,3135,Acessar Google,200,OK,Acessos 1-19,text,true,,14451,119,98,98,https://www.google.com/,3094,0,2957
+1623089813118,3045,Acessar Google,200,OK,Acessos 1-30,text,true,,14476,119,98,98,https://www.google.com/,3044,0,2913
+1623089815774,391,Acessar Amazon,503,Service Unavailable,Acessos 1-21,text,false,,2547,119,98,98,https://www.amazon.com/,391,0,186
+1623089815599,567,Acessar Amazon,503,Service Unavailable,Acessos 1-39,text,false,,2550,119,98,98,https://www.amazon.com/,567,0,372
+1623089815606,562,Acessar Amazon,503,Service Unavailable,Acessos 1-91,text,false,,2552,119,98,98,https://www.amazon.com/,562,0,391
+1623089813821,2350,Acessar Google,200,OK,Acessos 1-99,text,true,,14443,119,98,98,https://www.google.com/,2350,0,2236
+1623089813371,2803,Acessar Google,200,OK,Acessos 1-54,text,true,,14463,119,98,98,https://www.google.com/,2802,0,2687
+1623089813552,2649,Acessar Google,200,OK,Acessos 1-70,text,true,,14429,119,98,98,https://www.google.com/,2648,0,2515
+1623089813474,2747,Acessar Google,200,OK,Acessos 1-64,text,true,,14416,119,98,98,https://www.google.com/,2747,0,2618
+1623089813233,2990,Acessar Google,200,OK,Acessos 1-42,text,true,,14426,119,98,98,https://www.google.com/,2990,0,2859
+1623089812991,3235,Acessar Google,200,OK,Acessos 1-11,text,true,,14404,119,98,98,https://www.google.com/,3235,0,3115
+1623089813487,2742,Acessar Google,200,OK,Acessos 1-65,text,true,,14456,119,98,98,https://www.google.com/,2742,0,2621
+1623089813271,2959,Acessar Google,200,OK,Acessos 1-46,text,true,,14440,119,98,98,https://www.google.com/,2958,0,2835
+1623089814858,1389,Acessar Amazon,200,OK,Acessos 1-12,text,true,,84474,119,98,98,https://www.amazon.com/,918,0,680
+1623089815367,879,Acessar Globo,200,OK,Acessos 1-100,text,true,,625405,118,98,98,https://www.globo.com/,127,0,81
+1623089815914,352,Acessar Amazon,503,Service Unavailable,Acessos 1-2,text,false,,2551,119,97,97,https://www.amazon.com/,352,0,161
+1623089815905,365,Acessar Amazon,503,Service Unavailable,Acessos 1-66,text,false,,2550,119,97,97,https://www.amazon.com/,365,0,167
+1623089815916,358,Acessar Amazon,503,Service Unavailable,Acessos 1-80,text,false,,2550,119,97,97,https://www.amazon.com/,357,0,166
+1623089815939,368,Acessar Amazon,503,Service Unavailable,Acessos 1-17,text,false,,2551,119,97,97,https://www.amazon.com/,368,0,166
+1623089815987,324,Acessar Amazon,503,Service Unavailable,Acessos 1-87,text,false,,2550,119,97,97,https://www.amazon.com/,324,0,171
+1623089815985,326,Acessar Amazon,503,Service Unavailable,Acessos 1-51,text,false,,2553,119,97,97,https://www.amazon.com/,326,0,172
+1623089815966,351,Acessar Amazon,503,Service Unavailable,Acessos 1-85,text,false,,2550,119,97,97,https://www.amazon.com/,351,0,146
+1623089815951,376,Acessar Amazon,503,Service Unavailable,Acessos 1-40,text,false,,2552,119,97,97,https://www.amazon.com/,376,0,158
+1623089815500,832,Acessar Globo,200,OK,Acessos 1-98,text,true,,625405,118,97,97,https://www.globo.com/,145,0,101
+1623089815981,353,Acessar Amazon,503,Service Unavailable,Acessos 1-4,text,false,,2550,119,96,96,https://www.amazon.com/,353,0,165
+1623089815111,1256,Acessar Globo,200,OK,Acessos 1-26,text,true,,625405,118,96,96,https://www.globo.com/,80,0,66
+1623089816044,325,Acessar Amazon,503,Service Unavailable,Acessos 1-72,text,false,,2550,119,95,95,https://www.amazon.com/,325,0,142
+1623089816054,341,Acessar Amazon,503,Service Unavailable,Acessos 1-33,text,false,,2547,119,95,95,https://www.amazon.com/,341,0,149
+1623089814776,1637,Acessar Amazon,200,OK,Acessos 1-10,text,true,,83598,119,95,95,https://www.amazon.com/,773,0,594
+1623089816050,374,Acessar Amazon,503,Service Unavailable,Acessos 1-62,text,false,,2551,119,95,95,https://www.amazon.com/,374,0,163
+1623089816110,335,Acessar Amazon,503,Service Unavailable,Acessos 1-63,text,false,,2552,119,95,95,https://www.amazon.com/,335,0,130
+1623089813512,2935,Acessar Google,200,OK,Acessos 1-67,text,true,,14447,119,95,95,https://www.google.com/,2935,0,2780
+1623089816066,406,Acessar Amazon,503,Service Unavailable,Acessos 1-22,text,false,,2551,119,95,95,https://www.amazon.com/,405,0,163
+1623089815851,621,Acessar Amazon,503,Service Unavailable,Acessos 1-96,text,false,,2551,119,95,95,https://www.amazon.com/,621,0,398
+1623089816127,363,Acessar Amazon,503,Service Unavailable,Acessos 1-5,text,false,,2551,119,95,95,https://www.amazon.com/,363,0,181
+1623089816128,373,Acessar Amazon,503,Service Unavailable,Acessos 1-82,text,false,,2550,119,95,95,https://www.amazon.com/,373,0,189
+1623089816222,330,Acessar Amazon,503,Service Unavailable,Acessos 1-64,text,false,,2551,119,95,95,https://www.amazon.com/,330,0,134
+1623089815902,657,Acessar Amazon,503,Service Unavailable,Acessos 1-9,text,false,,2550,119,95,95,https://www.amazon.com/,657,0,478
+1623089815108,1469,Acessar Globo,200,OK,Acessos 1-93,text,true,,625405,118,95,95,https://www.globo.com/,278,0,265
+1623089816202,383,Acessar Amazon,503,Service Unavailable,Acessos 1-70,text,false,,2550,119,94,94,https://www.amazon.com/,383,0,162
+1623089815969,619,Acessar Amazon,503,Service Unavailable,Acessos 1-1,text,false,,2549,119,94,94,https://www.amazon.com/,619,0,411
+1623089815104,1492,Acessar Globo,200,OK,Acessos 1-38,text,true,,625405,118,94,94,https://www.globo.com/,289,0,274
+1623089816190,414,Acessar Amazon,503,Service Unavailable,Acessos 1-54,text,false,,2549,119,93,93,https://www.amazon.com/,414,0,197
+1623089816172,437,Acessar Amazon,503,Service Unavailable,Acessos 1-99,text,false,,2553,119,93,93,https://www.amazon.com/,437,0,238
+1623089812989,3631,Acessar Google,200,OK,Acessos 1-3,text,true,,14406,119,93,93,https://www.google.com/,3629,0,3490
+1623089813440,3182,Acessar Google,200,OK,Acessos 1-61,text,true,,14440,119,93,93,https://www.google.com/,3177,0,3046
+1623089813430,3196,Acessar Google,200,OK,Acessos 1-60,text,true,,14406,119,93,93,https://www.google.com/,3196,0,3057
+1623089813184,3447,Acessar Google,200,OK,Acessos 1-37,text,true,,14364,119,93,93,https://www.google.com/,3445,0,3302
+1623089813323,3310,Acessar Google,200,OK,Acessos 1-50,text,true,,14436,119,93,93,https://www.google.com/,3310,0,3170
+1623089813221,3429,Acessar Google,200,OK,Acessos 1-41,text,true,,14502,119,93,93,https://www.google.com/,3422,0,3288
+1623089813682,2970,Acessar Google,200,OK,Acessos 1-84,text,true,,14458,119,93,93,https://www.google.com/,2965,0,2828
+1623089816231,434,Acessar Amazon,503,Service Unavailable,Acessos 1-65,text,false,,2551,119,93,93,https://www.amazon.com/,434,0,240
+1623089816029,637,Acessar Amazon,503,Service Unavailable,Acessos 1-77,text,false,,2550,119,93,93,https://www.amazon.com/,637,0,450
+1623089814865,1804,Acessar Amazon,503,Service Unavailable,Acessos 1-28,text,false,,2551,119,93,93,https://www.amazon.com/,1804,0,680
+1623089816227,448,Acessar Amazon,503,Service Unavailable,Acessos 1-11,text,false,,2551,119,93,93,https://www.amazon.com/,448,0,248
+1623089813770,2921,Acessar Google,200,OK,Acessos 1-90,text,true,,14437,119,93,93,https://www.google.com/,2921,0,2719
+1623089815106,1588,Acessar Globo,200,OK,Acessos 1-79,text,true,,625405,118,93,93,https://www.globo.com/,285,0,272
+1623089816224,472,Acessar Amazon,503,Service Unavailable,Acessos 1-42,text,false,,2550,119,92,92,https://www.amazon.com/,471,0,251
+1623089813361,3377,Acessar Google,200,OK,Acessos 1-53,text,true,,14457,119,92,92,https://www.google.com/,3183,0,3052
+1623089813421,3320,Acessar Google,200,OK,Acessos 1-59,text,true,,14448,119,92,92,https://www.google.com/,3208,0,3071
+1623089813771,2978,Acessar Google,200,OK,Acessos 1-88,text,true,,14468,119,92,92,https://www.google.com/,2851,0,2717
+1623089816163,602,Acessar Amazon,503,Service Unavailable,Acessos 1-19,text,false,,2551,119,92,92,https://www.amazon.com/,602,0,422
+1623089816448,321,Acessar Amazon,503,Service Unavailable,Acessos 1-67,text,false,,2549,119,92,92,https://www.amazon.com/,321,0,153
+1623089816047,726,Acessar Amazon,200,OK,Acessos 1-7,text,true,,84583,119,92,92,https://www.amazon.com/,430,0,152
+1623089813164,3621,Acessar Google,200,OK,Acessos 1-35,text,true,,14431,119,92,92,https://www.google.com/,3519,0,3325
+1623089812982,3835,Acessar Google,200,OK,Acessos 1-13,text,true,,14471,119,92,92,https://www.google.com/,3643,0,3499
+1623089815899,960,Acessar Amazon,200,OK,Acessos 1-83,text,true,,84827,119,92,92,https://www.amazon.com/,666,0,451
+1623089813128,3790,Acessar Google,200,OK,Acessos 1-31,text,true,,14411,119,92,92,https://www.google.com/,3491,0,3353
+1623089816625,315,Acessar Amazon,503,Service Unavailable,Acessos 1-3,text,false,,2549,119,92,92,https://www.amazon.com/,315,0,150
+1623089816651,317,Acessar Amazon,503,Service Unavailable,Acessos 1-41,text,false,,2551,119,92,92,https://www.amazon.com/,317,0,140
+1623089816634,336,Acessar Amazon,503,Service Unavailable,Acessos 1-50,text,false,,2547,119,92,92,https://www.amazon.com/,336,0,161
+1623089816163,816,Acessar Amazon,503,Service Unavailable,Acessos 1-30,text,false,,2549,119,92,92,https://www.amazon.com/,815,0,658
+1623089813766,3224,Acessar Google,200,OK,Acessos 1-86,text,true,,14465,119,92,92,https://www.google.com/,2870,0,2727
+1623089816762,294,Acessar Amazon,503,Service Unavailable,Acessos 1-88,text,false,,2554,119,92,92,https://www.amazon.com/,294,0,123
+1623089816741,322,Acessar Amazon,503,Service Unavailable,Acessos 1-59,text,false,,2550,119,92,92,https://www.amazon.com/,322,0,147
+1623089816739,350,Acessar Amazon,503,Service Unavailable,Acessos 1-53,text,false,,2549,119,92,92,https://www.amazon.com/,350,0,170
+1623089816052,1039,Acessar Globo,200,OK,Acessos 1-69,text,true,,625405,118,92,92,https://www.globo.com/,169,0,123
+1623089816231,890,Acessar Amazon,503,Service Unavailable,Acessos 1-46,text,false,,2549,119,91,91,https://www.amazon.com/,890,0,240
+1623089816818,316,Acessar Amazon,503,Service Unavailable,Acessos 1-13,text,false,,2549,119,91,91,https://www.amazon.com/,316,0,136
+1623089815605,1595,Acessar Globo,200,OK,Acessos 1-20,text,true,,625405,118,91,91,https://www.globo.com/,213,0,167
+1623089816632,599,Acessar Amazon,503,Service Unavailable,Acessos 1-37,text,false,,2552,119,90,90,https://www.amazon.com/,599,0,424
+1623089816627,639,Acessar Amazon,200,OK,Acessos 1-60,text,true,,83925,119,90,90,https://www.amazon.com/,343,0,148
+1623089816023,1416,Acessar Globo,200,OK,Acessos 1-44,text,true,,625405,118,90,90,https://www.globo.com/,189,0,144
+1623089816918,569,Acessar Amazon,503,Service Unavailable,Acessos 1-31,text,false,,2549,119,89,89,https://www.amazon.com/,569,0,399
+1623089816623,866,Acessar Amazon,200,OK,Acessos 1-61,text,true,,85081,119,89,89,https://www.amazon.com/,402,0,223
+1623089816692,843,Acessar Amazon,503,Service Unavailable,Acessos 1-90,text,false,,2550,119,89,89,https://www.amazon.com/,843,0,347
+1623089816653,1077,Acessar Amazon,200,OK,Acessos 1-84,text,true,,85144,119,89,89,https://www.amazon.com/,499,0,287
+1623089815356,2560,Acessar Globo,200,OK,Acessos 1-81,text,true,,625405,118,89,89,https://www.globo.com/,107,0,62
+1623089816785,1263,Acessar Amazon,503,Service Unavailable,Acessos 1-35,text,false,,2553,119,88,88,https://www.amazon.com/,1263,0,1104
+1623089814875,3216,Acessar Amazon,503,Service Unavailable,Acessos 1-43,text,false,,2552,119,88,88,https://www.amazon.com/,3216,0,595
+1623089817232,947,Acessar Globo,200,OK,Acessos 1-37,text,true,,625405,118,88,88,https://www.globo.com/,132,0,95
+1623089815922,2291,Acessar Globo,200,OK,Acessos 1-45,text,true,,625405,118,87,87,https://www.globo.com/,389,0,149
+1623089816051,2200,Acessar Globo,200,OK,Acessos 1-92,text,true,,625405,118,86,86,https://www.globo.com/,170,0,125
+1623089815148,3106,Acessar Globo,200,OK,Acessos 1-94,text,true,,625405,118,85,85,https://www.globo.com/,206,0,188
+1623089816991,1270,Acessar Amazon,503,Service Unavailable,Acessos 1-86,text,false,,2552,119,84,84,https://www.amazon.com/,1270,0,1098
+1623089815490,2823,Acessar Globo,200,OK,Acessos 1-78,text,true,,625405,118,84,84,https://www.globo.com/,192,0,117
+1623089816971,1536,Acessar Globo,200,OK,Acessos 1-50,text,true,,625405,118,83,83,https://www.globo.com/,131,0,100
+1623089815764,2815,Acessar Globo,200,OK,Acessos 1-68,text,true,,625405,118,82,82,https://www.globo.com/,216,0,156
+1623089816167,2517,Acessar Globo,200,OK,Acessos 1-39,text,true,,625405,118,81,81,https://www.globo.com/,221,0,162
+1623089815151,3641,Acessar Globo,200,OK,Acessos 1-14,text,true,,625405,118,80,80,https://www.globo.com/,485,0,446
+1623089815422,3437,Acessar Globo,200,OK,Acessos 1-49,text,true,,625405,118,79,79,https://www.globo.com/,156,0,123
+1623089815850,3030,Acessar Globo,200,OK,Acessos 1-16,text,true,,625405,118,78,78,https://www.globo.com/,465,0,393
+1623089816502,2416,Acessar Globo,200,OK,Acessos 1-82,text,true,,625405,118,77,77,https://www.globo.com/,1122,0,1085
+1623089816696,2274,Acessar Globo,200,OK,Acessos 1-42,text,true,,625405,118,76,76,https://www.globo.com/,170,0,132
+1623089816027,2973,Acessar Globo,200,OK,Acessos 1-18,text,true,,625405,118,75,75,https://www.globo.com/,176,0,140
+1623089816589,2430,Acessar Globo,200,OK,Acessos 1-1,text,true,,625405,118,74,74,https://www.globo.com/,200,0,166
+1623089815552,3589,Acessar Globo,200,OK,Acessos 1-34,text,true,,625405,118,73,73,https://www.globo.com/,443,0,354
+1623089818087,1052,Acessar Globo,200,OK,Acessos 1-43,text,true,,625405,118,72,72,https://www.globo.com/,116,0,88
+1623089816312,2833,Acessar Globo,200,OK,Acessos 1-51,text,true,,625405,118,72,72,https://www.globo.com/,263,0,215
+1623089817488,1737,Acessar Globo,200,OK,Acessos 1-31,text,true,,625405,118,70,70,https://www.globo.com/,119,0,94
+1623089816979,2268,Acessar Globo,200,OK,Acessos 1-30,text,true,,625405,118,69,69,https://www.globo.com/,115,0,89
+1623089816586,2700,Acessar Globo,200,OK,Acessos 1-70,text,true,,625405,118,68,68,https://www.globo.com/,201,0,162
+1623089815420,3887,Acessar Globo,200,OK,Acessos 1-29,text,true,,625405,118,67,67,https://www.globo.com/,153,0,123
+1623089816941,2435,Acessar Globo,200,OK,Acessos 1-3,text,true,,625405,118,66,66,https://www.globo.com/,132,0,103
+1623089816109,3332,Acessar Globo,200,OK,Acessos 1-55,text,true,,625405,118,65,65,https://www.globo.com/,208,0,131
+1623089816275,3170,Acessar Globo,200,OK,Acessos 1-80,text,true,,625405,118,64,64,https://www.globo.com/,222,0,171
+1623089816774,2745,Acessar Globo,200,OK,Acessos 1-7,text,true,,625405,118,63,63,https://www.globo.com/,166,0,122
+1623089816340,3207,Acessar Globo,200,OK,Acessos 1-40,text,true,,625405,118,62,62,https://www.globo.com/,540,0,443
+1623089815515,4056,Acessar Globo,200,OK,Acessos 1-75,text,true,,625405,118,61,61,https://www.globo.com/,169,0,103
+1623089815762,3887,Acessar Globo,200,OK,Acessos 1-73,text,true,,625405,118,60,60,https://www.globo.com/,190,0,138
+1623089816165,3524,Acessar Globo,200,OK,Acessos 1-21,text,true,,625405,118,59,59,https://www.globo.com/,199,0,151
+1623089816425,3280,Acessar Globo,200,OK,Acessos 1-62,text,true,,625405,118,58,58,https://www.globo.com/,549,0,149
+1623089816169,3545,Acessar Globo,200,OK,Acessos 1-91,text,true,,625405,118,57,57,https://www.globo.com/,486,0,335
+1623089816473,3275,Acessar Globo,200,OK,Acessos 1-96,text,true,,625405,118,56,56,https://www.globo.com/,225,0,163
+1623089817121,2671,Acessar Globo,200,OK,Acessos 1-46,text,true,,625405,118,55,55,https://www.globo.com/,141,0,110
+1623089817063,2746,Acessar Globo,200,OK,Acessos 1-59,text,true,,625405,118,54,54,https://www.globo.com/,181,0,113
+1623089816318,3493,Acessar Globo,200,OK,Acessos 1-85,text,true,,625405,118,53,53,https://www.globo.com/,227,0,181
+1623089816667,3226,Acessar Globo,200,OK,Acessos 1-77,text,true,,625405,118,52,52,https://www.globo.com/,269,0,223
+1623089817489,2415,Acessar Globo,200,OK,Acessos 1-61,text,true,,625405,118,51,51,https://www.globo.com/,121,0,93
+1623089815743,4189,Acessar Globo,200,OK,Acessos 1-56,text,true,,625405,118,50,50,https://www.globo.com/,207,0,150
+1623089817731,2260,Acessar Globo,200,OK,Acessos 1-84,text,true,,625405,118,49,49,https://www.globo.com/,247,0,90
+1623089818257,1734,Acessar Globo,200,OK,Acessos 1-86,text,true,,625405,118,48,48,https://www.globo.com/,130,0,97
+1623089816969,3098,Acessar Globo,200,OK,Acessos 1-41,text,true,,625405,118,47,47,https://www.globo.com/,125,0,99
+1623089815415,4652,Acessar Globo,200,OK,Acessos 1-74,text,true,,625405,118,47,47,https://www.globo.com/,317,0,129
+1623089818044,2069,Acessar Globo,200,OK,Acessos 1-35,text,true,,625405,118,45,45,https://www.globo.com/,119,0,92
+1623089817090,3146,Acessar Globo,200,OK,Acessos 1-53,text,true,,625405,118,44,44,https://www.globo.com/,155,0,124
+1623089815491,4796,Acessar Globo,200,OK,Acessos 1-48,text,true,,625405,118,43,43,https://www.globo.com/,144,0,101
+1623089816491,3855,Acessar Globo,200,OK,Acessos 1-5,text,true,,625405,118,42,42,https://www.globo.com/,321,0,168
+1623089816446,3940,Acessar Globo,200,OK,Acessos 1-63,text,true,,625405,118,41,41,https://www.globo.com/,208,0,154
+1623089816249,4137,Acessar Globo,200,OK,Acessos 1-12,text,true,,625405,118,41,41,https://www.globo.com/,424,0,362
+1623089815257,5153,Acessar Globo,200,OK,Acessos 1-76,text,true,,625405,118,39,39,https://www.globo.com/,77,0,64
+1623089815526,4898,Acessar Globo,200,OK,Acessos 1-71,text,true,,625405,118,38,38,https://www.globo.com/,170,0,129
+1623089815240,5257,Acessar Globo,200,OK,Acessos 1-89,text,true,,625405,118,37,37,https://www.globo.com/,74,0,50
+1623089816267,4250,Acessar Globo,200,OK,Acessos 1-2,text,true,,625405,118,36,36,https://www.globo.com/,259,0,207
+1623089816370,4172,Acessar Globo,200,OK,Acessos 1-72,text,true,,625405,118,35,35,https://www.globo.com/,522,0,451
+1623089815796,4752,Acessar Globo,200,OK,Acessos 1-24,text,true,,625405,118,34,34,https://www.globo.com/,176,0,119
+1623089815739,4826,Acessar Globo,200,OK,Acessos 1-25,text,true,,625405,118,33,33,https://www.globo.com/,214,0,162
+1623089816312,4333,Acessar Globo,200,OK,Acessos 1-87,text,true,,625405,118,32,32,https://www.globo.com/,233,0,188
+1623089817267,3399,Acessar Globo,200,OK,Acessos 1-60,text,true,,625405,118,31,31,https://www.globo.com/,398,0,320
+1623089816771,3896,Acessar Globo,200,OK,Acessos 1-67,text,true,,625405,118,30,30,https://www.globo.com/,160,0,111
+1623089816766,3941,Acessar Globo,200,OK,Acessos 1-19,text,true,,625405,118,29,29,https://www.globo.com/,170,0,116
+1623089816670,4054,Acessar Globo,200,OK,Acessos 1-28,text,true,,625405,118,28,28,https://www.globo.com/,1083,0,1020
+1623089817536,3196,Acessar Globo,200,OK,Acessos 1-90,text,true,,625405,118,27,27,https://www.globo.com/,147,0,98
+1623089816666,4079,Acessar Globo,200,OK,Acessos 1-65,text,true,,625405,118,26,26,https://www.globo.com/,1154,0,216
+1623089815967,4865,Acessar Globo,200,OK,Acessos 1-27,text,true,,625405,118,25,25,https://www.globo.com/,520,0,408
+1623089816413,4494,Acessar Globo,200,OK,Acessos 1-10,text,true,,625405,118,24,24,https://www.globo.com/,567,0,157
+1623089815613,5302,Acessar Globo,200,OK,Acessos 1-95,text,true,,625405,118,23,23,https://www.globo.com/,792,0,222
+1623089816553,4363,Acessar Globo,200,OK,Acessos 1-64,text,true,,625405,118,23,23,https://www.globo.com/,293,0,252
+1623089816396,4522,Acessar Globo,200,OK,Acessos 1-33,text,true,,625405,118,21,21,https://www.globo.com/,233,0,169
+1623089816860,4089,Acessar Globo,200,OK,Acessos 1-83,text,true,,625405,118,20,20,https://www.globo.com/,161,0,130
+1623089816472,4495,Acessar Globo,200,OK,Acessos 1-22,text,true,,625405,118,19,19,https://www.globo.com/,477,0,394
+1623089817135,3865,Acessar Globo,200,OK,Acessos 1-13,text,true,,625405,118,18,18,https://www.globo.com/,141,0,109
+1623089817057,3963,Acessar Globo,200,OK,Acessos 1-88,text,true,,625405,118,17,17,https://www.globo.com/,156,0,111
+1623089815550,5497,Acessar Globo,200,OK,Acessos 1-8,text,true,,625405,118,16,16,https://www.globo.com/,4325,0,4273
+1623089815424,5640,Acessar Globo,200,OK,Acessos 1-15,text,true,,625405,118,15,15,https://www.globo.com/,153,0,123
+1623089815643,5426,Acessar Globo,200,OK,Acessos 1-23,text,true,,625405,118,14,14,https://www.globo.com/,687,0,193
+1623089816308,4773,Acessar Globo,200,OK,Acessos 1-17,text,true,,625405,118,13,13,https://www.globo.com/,220,0,174
+1623089815709,5432,Acessar Globo,200,OK,Acessos 1-47,text,true,,625405,118,12,12,https://www.globo.com/,381,0,161
+1623089816272,4911,Acessar Globo,200,OK,Acessos 1-66,text,true,,625405,118,11,11,https://www.globo.com/,400,0,339
+1623089816563,4736,Acessar Globo,200,OK,Acessos 1-9,text,true,,625405,118,10,10,https://www.globo.com/,449,0,379
+1623089816126,5225,Acessar Globo,200,OK,Acessos 1-36,text,true,,625405,118,9,9,https://www.globo.com/,247,0,196
+1623089816605,4798,Acessar Globo,200,OK,Acessos 1-54,text,true,,625405,118,8,8,https://www.globo.com/,280,0,240
+1623089815427,5997,Acessar Globo,200,OK,Acessos 1-6,text,true,,625405,118,7,7,https://www.globo.com/,153,0,120
+1623089816148,5297,Acessar Globo,200,OK,Acessos 1-57,text,true,,625405,118,6,6,https://www.globo.com/,216,0,169
+1623089815751,5720,Acessar Globo,200,OK,Acessos 1-97,text,true,,625405,118,5,5,https://www.globo.com/,267,0,220
+1623089816676,4841,Acessar Globo,200,OK,Acessos 1-11,text,true,,625405,118,4,4,https://www.globo.com/,2031,0,112
+1623089816610,4923,Acessar Globo,200,OK,Acessos 1-99,text,true,,625405,118,3,3,https://www.globo.com/,1161,0,1132
+1623089816343,5484,Acessar Globo,200,OK,Acessos 1-4,text,true,,625405,118,2,2,https://www.globo.com/,620,0,187
+1623089816053,5958,Acessar Globo,200,OK,Acessos 1-58,text,true,,625405,118,1,1,https://www.globo.com/,1044,0,426
+1623090673592,2830,Acessar Google,200,OK,Acessos 1-33,text,true,,14466,119,100,100,https://www.google.com/,2813,0,2701
+1623090673753,2671,Acessar Google,200,OK,Acessos 1-49,text,true,,14449,119,100,100,https://www.google.com/,2655,0,2454
+1623090674180,2156,Acessar Google,200,OK,Acessos 1-94,text,true,,14449,119,100,100,https://www.google.com/,2155,0,2036
+1623090673402,3005,Acessar Google,200,OK,Acessos 1-4,text,true,,14490,119,100,100,https://www.google.com/,3004,0,2808
+1623090673683,2745,Acessar Google,200,OK,Acessos 1-42,text,true,,14492,119,100,100,https://www.google.com/,2682,0,2550
+1623090673558,2870,Acessar Google,200,OK,Acessos 1-29,text,true,,14439,119,100,100,https://www.google.com/,2854,0,2718
+1623090674093,2241,Acessar Google,200,OK,Acessos 1-80,text,true,,14438,119,100,100,https://www.google.com/,2240,0,2122
+1623090673476,2930,Acessar Google,200,OK,Acessos 1-21,text,true,,14451,119,100,100,https://www.google.com/,2842,0,2738
+1623090673402,3030,Acessar Google,200,OK,Acessos 1-9,text,true,,14434,119,100,100,https://www.google.com/,2978,0,2859
+1623090673401,3032,Acessar Google,200,OK,Acessos 1-5,text,true,,14486,119,100,100,https://www.google.com/,3019,0,2871
+1623090673401,3033,Acessar Google,200,OK,Acessos 1-2,text,true,,14506,119,100,100,https://www.google.com/,3020,0,2861
+1623090673662,2774,Acessar Google,200,OK,Acessos 1-40,text,true,,14475,119,100,100,https://www.google.com/,2702,0,2576
+1623090673866,2573,Acessar Google,200,OK,Acessos 1-62,text,true,,14511,119,100,100,https://www.google.com/,2520,0,2404
+1623090674133,2306,Acessar Google,200,OK,Acessos 1-88,text,true,,14482,119,100,100,https://www.google.com/,2276,0,2160
+1623090673603,2838,Acessar Google,200,OK,Acessos 1-34,text,true,,14514,119,100,100,https://www.google.com/,2809,0,2688
+1623090674131,2310,Acessar Google,200,OK,Acessos 1-87,text,true,,14423,119,100,100,https://www.google.com/,2254,0,2129
+1623090674129,2315,Acessar Google,200,OK,Acessos 1-85,text,true,,15264,119,100,100,https://www.google.com/,2288,0,2170
+1623090674136,2308,Acessar Google,200,OK,Acessos 1-89,text,true,,14474,119,100,100,https://www.google.com/,2255,0,2125
+1623090673425,3020,Acessar Google,200,OK,Acessos 1-15,text,true,,14476,119,100,100,https://www.google.com/,2992,0,2870
+1623090673574,2872,Acessar Google,200,OK,Acessos 1-31,text,true,,14458,119,100,100,https://www.google.com/,2795,0,2665
+1623090674244,2203,Acessar Google,200,OK,Acessos 1-100,text,true,,14424,119,100,100,https://www.google.com/,2149,0,2031
+1623090673956,2491,Acessar Google,200,OK,Acessos 1-71,text,true,,14422,119,100,100,https://www.google.com/,2458,0,2338
+1623090674031,2417,Acessar Google,200,OK,Acessos 1-78,text,true,,14501,119,100,100,https://www.google.com/,2378,0,2263
+1623090674149,2300,Acessar Google,200,OK,Acessos 1-91,text,true,,14472,119,100,100,https://www.google.com/,2277,0,2123
+1623090673484,2965,Acessar Google,200,OK,Acessos 1-22,text,true,,14470,119,100,100,https://www.google.com/,2929,0,2810
+1623090673975,2475,Acessar Google,200,OK,Acessos 1-73,text,true,,14570,119,100,100,https://www.google.com/,2435,0,2322
+1623090673923,2527,Acessar Google,200,OK,Acessos 1-67,text,true,,14442,119,100,100,https://www.google.com/,2467,0,2346
+1623090673790,2615,Acessar Google,200,OK,Acessos 1-54,text,true,,14461,119,100,100,https://www.google.com/,2533,0,2423
+1623090673767,2687,Acessar Google,200,OK,Acessos 1-52,text,true,,14441,119,100,100,https://www.google.com/,2686,0,2441
+1623090673622,2835,Acessar Google,200,OK,Acessos 1-36,text,true,,14488,119,100,100,https://www.google.com/,2835,0,2586
+1623090673583,2823,Acessar Google,200,OK,Acessos 1-32,text,true,,14480,119,100,100,https://www.google.com/,2737,0,2626
+1623090673928,2532,Acessar Google,200,OK,Acessos 1-68,text,true,,14459,119,100,100,https://www.google.com/,2531,0,2282
+1623090673984,2421,Acessar Google,200,OK,Acessos 1-74,text,true,,14520,119,100,100,https://www.google.com/,2337,0,2224
+1623090674219,2244,Acessar Google,200,OK,Acessos 1-98,text,true,,14471,119,100,100,https://www.google.com/,2244,0,1991
+1623090673642,2763,Acessar Google,200,OK,Acessos 1-38,text,true,,14446,119,100,100,https://www.google.com/,2670,0,2567
+1623090673693,2729,Acessar Google,200,OK,Acessos 1-43,text,true,,14474,119,100,100,https://www.google.com/,2715,0,2510
+1623090674116,2289,Acessar Google,200,OK,Acessos 1-86,text,true,,14522,119,100,100,https://www.google.com/,2207,0,2100
+1623090673876,2594,Acessar Google,200,OK,Acessos 1-63,text,true,,14478,119,100,100,https://www.google.com/,2540,0,2408
+1623090673401,3119,Acessar Google,200,OK,Acessos 1-1,text,true,,14451,119,100,100,https://www.google.com/,2998,0,2876
+1623090674143,2262,Acessar Google,200,OK,Acessos 1-90,text,true,,14481,119,100,100,https://www.google.com/,2261,0,2134
+1623090673762,2571,Acessar Google,200,OK,Acessos 1-50,text,true,,14465,119,100,100,https://www.google.com/,2550,0,2446
+1623090674170,2235,Acessar Google,200,OK,Acessos 1-93,text,true,,14473,119,100,100,https://www.google.com/,2231,0,2113
+1623090673570,2843,Acessar Google,200,OK,Acessos 1-30,text,true,,14469,119,100,100,https://www.google.com/,2821,0,2704
+1623090673526,2878,Acessar Google,200,OK,Acessos 1-26,text,true,,14458,119,100,100,https://www.google.com/,2875,0,2759
+1623090673633,2767,Acessar Google,200,OK,Acessos 1-37,text,true,,14451,119,100,100,https://www.google.com/,2748,0,2621
+1623090673778,2637,Acessar Google,200,OK,Acessos 1-53,text,true,,14479,119,100,100,https://www.google.com/,2637,0,2516
+1623090673520,2880,Acessar Google,200,OK,Acessos 1-25,text,true,,14427,119,100,100,https://www.google.com/,2879,0,2758
+1623090673886,2530,Acessar Google,200,OK,Acessos 1-64,text,true,,14482,119,100,100,https://www.google.com/,2506,0,2375
+1623090673826,2573,Acessar Google,200,OK,Acessos 1-58,text,true,,14470,119,100,100,https://www.google.com/,2571,0,2450
+1623090673732,2687,Acessar Google,200,OK,Acessos 1-47,text,true,,14476,119,100,100,https://www.google.com/,2686,0,2530
+1623090673401,2997,Acessar Google,200,OK,Acessos 1-10,text,true,,14483,119,100,100,https://www.google.com/,2997,0,2883
+1623090673401,3017,Acessar Google,200,OK,Acessos 1-6,text,true,,14443,119,100,100,https://www.google.com/,2987,0,2866
+1623090674209,2187,Acessar Google,200,OK,Acessos 1-97,text,true,,14532,119,100,100,https://www.google.com/,2186,0,2065
+1623090674091,2329,Acessar Google,200,OK,Acessos 1-81,text,true,,14508,119,100,100,https://www.google.com/,2302,0,2181
+1623090673906,2489,Acessar Google,200,OK,Acessos 1-66,text,true,,14469,119,100,100,https://www.google.com/,2488,0,2371
+1623090673816,2605,Acessar Google,200,OK,Acessos 1-57,text,true,,14464,119,100,100,https://www.google.com/,2568,0,2452
+1623090673401,2982,Acessar Google,200,OK,Acessos 1-3,text,true,,14494,119,100,100,https://www.google.com/,2976,0,2853
+1623090673858,2563,Acessar Google,200,OK,Acessos 1-61,text,true,,14450,119,100,100,https://www.google.com/,2504,0,2382
+1623090673402,3019,Acessar Google,200,OK,Acessos 1-12,text,true,,14467,119,100,100,https://www.google.com/,2961,0,2834
+1623090673722,2873,Acessar Google,200,OK,Acessos 1-46,text,true,,14466,119,100,100,https://www.google.com/,2642,0,2519
+1623090673797,2805,Acessar Google,200,OK,Acessos 1-55,text,true,,14534,119,100,100,https://www.google.com/,2567,0,2431
+1623090673896,2526,Acessar Google,200,OK,Acessos 1-65,text,true,,14455,119,100,100,https://www.google.com/,2489,0,2366
+1623090673445,2939,Acessar Google,200,OK,Acessos 1-18,text,true,,14437,119,100,100,https://www.google.com/,2938,0,2817
+1623090674091,2541,Acessar Google,200,OK,Acessos 1-83,text,true,,14481,119,100,100,https://www.google.com/,2273,0,2146
+1623090673401,3230,Acessar Google,200,OK,Acessos 1-7,text,true,,14482,119,100,100,https://www.google.com/,2966,0,2841
+1623090674160,2474,Acessar Google,200,OK,Acessos 1-92,text,true,,14455,119,100,100,https://www.google.com/,2223,0,2109
+1623090673937,2446,Acessar Google,200,OK,Acessos 1-69,text,true,,14423,119,100,100,https://www.google.com/,2445,0,2325
+1623090673406,2977,Acessar Google,200,OK,Acessos 1-14,text,true,,14489,119,100,100,https://www.google.com/,2955,0,2832
+1623090673455,3214,Acessar Google,200,OK,Acessos 1-19,text,true,,14498,119,100,100,https://www.google.com/,2959,0,2782
+1623090673702,2678,Acessar Google,200,OK,Acessos 1-44,text,true,,14508,119,100,100,https://www.google.com/,2677,0,2557
+1623090673548,2833,Acessar Google,200,OK,Acessos 1-28,text,true,,14498,119,100,100,https://www.google.com/,2832,0,2694
+1623090673401,2979,Acessar Google,200,OK,Acessos 1-11,text,true,,14491,119,100,100,https://www.google.com/,2978,0,2853
+1623090673430,2948,Acessar Google,200,OK,Acessos 1-16,text,true,,14459,119,100,100,https://www.google.com/,2947,0,2830
+1623090676464,349,Acessar Amazon,503,Service Unavailable,Acessos 1-74,text,false,,2516,119,100,100,https://www.amazon.com/,349,0,175
+1623090676526,290,Acessar Amazon,503,Service Unavailable,Acessos 1-50,text,false,,2516,119,100,100,https://www.amazon.com/,290,0,94
+1623090674191,2186,Acessar Google,200,OK,Acessos 1-95,text,true,,14480,119,100,100,https://www.google.com/,2185,0,2068
+1623090676522,339,Acessar Amazon,503,Service Unavailable,Acessos 1-1,text,false,,2517,119,100,100,https://www.amazon.com/,339,0,98
+1623090676466,397,Acessar Amazon,503,Service Unavailable,Acessos 1-38,text,false,,2516,119,100,100,https://www.amazon.com/,397,0,182
+1623090673836,2539,Acessar Google,200,OK,Acessos 1-59,text,true,,14501,119,100,100,https://www.google.com/,2538,0,2425
+1623090673465,2907,Acessar Google,200,OK,Acessos 1-20,text,true,,14557,119,100,100,https://www.google.com/,2906,0,2788
+1623090673944,2419,Acessar Google,200,OK,Acessos 1-70,text,true,,14433,119,100,100,https://www.google.com/,2405,0,2292
+1623090674229,2134,Acessar Google,200,OK,Acessos 1-99,text,true,,14371,119,100,100,https://www.google.com/,2133,0,2000
+1623090674090,2272,Acessar Google,200,OK,Acessos 1-82,text,true,,14458,119,100,100,https://www.google.com/,2271,0,2147
+1623090676458,496,Acessar Amazon,503,Service Unavailable,Acessos 1-49,text,false,,2517,119,100,100,https://www.amazon.com/,496,0,334
+1623090673996,2366,Acessar Google,200,OK,Acessos 1-75,text,true,,14461,119,100,100,https://www.google.com/,2365,0,2219
+1623090676748,248,Acessar Amazon,503,Service Unavailable,Acessos 1-46,text,false,,2517,119,100,100,https://www.amazon.com/,248,0,76
+1623090673400,2960,Acessar Google,200,OK,Acessos 1-8,text,true,,14477,119,100,100,https://www.google.com/,2920,0,2810
+1623090673743,2618,Acessar Google,200,OK,Acessos 1-48,text,true,,14470,119,100,100,https://www.google.com/,2616,0,2491
+1623090673536,2828,Acessar Google,200,OK,Acessos 1-27,text,true,,14490,119,100,100,https://www.google.com/,2825,0,2699
+1623090673504,2856,Acessar Google,200,OK,Acessos 1-24,text,true,,14447,119,100,100,https://www.google.com/,2855,0,2726
+1623090673758,2601,Acessar Google,200,OK,Acessos 1-51,text,true,,14398,119,100,100,https://www.google.com/,2600,0,2470
+1623090673808,2551,Acessar Google,200,OK,Acessos 1-56,text,true,,14461,119,100,100,https://www.google.com/,2550,0,2424
+1623090673653,2714,Acessar Google,200,OK,Acessos 1-39,text,true,,14456,119,100,100,https://www.google.com/,2713,0,2588
+1623090673403,2935,Acessar Google,200,OK,Acessos 1-13,text,true,,14467,119,100,100,https://www.google.com/,2934,0,2808
+1623090674007,2349,Acessar Google,200,OK,Acessos 1-76,text,true,,14498,119,100,100,https://www.google.com/,2348,0,2227
+1623090674041,2313,Acessar Google,200,OK,Acessos 1-79,text,true,,14485,119,100,100,https://www.google.com/,2308,0,2190
+1623090673497,2873,Acessar Google,200,OK,Acessos 1-23,text,true,,14462,119,100,100,https://www.google.com/,2872,0,2758
+1623090673966,2386,Acessar Google,200,OK,Acessos 1-72,text,true,,14514,119,100,100,https://www.google.com/,2383,0,2264
+1623090673673,2676,Acessar Google,200,OK,Acessos 1-41,text,true,,14477,119,100,100,https://www.google.com/,2675,0,2533
+1623090673713,2633,Acessar Google,200,OK,Acessos 1-45,text,true,,14481,119,100,100,https://www.google.com/,2599,0,2495
+1623090673847,2500,Acessar Google,200,OK,Acessos 1-60,text,true,,14504,119,100,100,https://www.google.com/,2499,0,2365
+1623090673612,2733,Acessar Google,200,OK,Acessos 1-35,text,true,,14474,119,100,100,https://www.google.com/,2731,0,2619
+1623090674120,2223,Acessar Google,200,OK,Acessos 1-84,text,true,,14449,119,100,100,https://www.google.com/,2208,0,2088
+1623090674200,2143,Acessar Google,200,OK,Acessos 1-96,text,true,,14468,119,100,100,https://www.google.com/,2141,0,2010
+1623090676443,658,Acessar Amazon,503,Service Unavailable,Acessos 1-87,text,false,,2517,119,100,100,https://www.amazon.com/,658,0,478
+1623090673437,2905,Acessar Google,200,OK,Acessos 1-17,text,true,,14478,119,100,100,https://www.google.com/,2904,0,2778
+1623090676815,301,Acessar Globo,200,OK,Acessos 1-74,text,true,,625405,118,100,100,https://www.globo.com/,65,0,55
+1623090676636,481,Acessar Amazon,503,Service Unavailable,Acessos 1-69,text,false,,2517,119,100,100,https://www.amazon.com/,481,0,261
+1623090676467,670,Acessar Amazon,503,Service Unavailable,Acessos 1-43,text,false,,2515,119,99,99,https://www.amazon.com/,670,0,215
+1623090676462,683,Acessar Amazon,503,Service Unavailable,Acessos 1-68,text,false,,2518,119,99,99,https://www.amazon.com/,683,0,172
+1623090676864,284,Acessar Globo,200,OK,Acessos 1-38,text,true,,625405,118,99,99,https://www.globo.com/,60,0,51
+1623090676526,625,Acessar Amazon,503,Service Unavailable,Acessos 1-93,text,false,,2516,119,98,98,https://www.amazon.com/,625,0,157
+1623090676449,710,Acessar Amazon,503,Service Unavailable,Acessos 1-78,text,false,,2516,119,98,98,https://www.amazon.com/,710,0,268
+1623090676633,528,Acessar Amazon,503,Service Unavailable,Acessos 1-7,text,false,,2514,119,98,98,https://www.amazon.com/,528,0,347
+1623090676459,703,Acessar Amazon,503,Service Unavailable,Acessos 1-32,text,false,,2519,119,98,98,https://www.amazon.com/,702,0,232
+1623090676447,729,Acessar Amazon,503,Service Unavailable,Acessos 1-100,text,false,,2515,119,98,98,https://www.amazon.com/,729,0,301
+1623090676442,741,Acessar Amazon,503,Service Unavailable,Acessos 1-34,text,false,,2516,119,98,98,https://www.amazon.com/,741,0,498
+1623090676657,531,Acessar Amazon,503,Service Unavailable,Acessos 1-18,text,false,,2518,119,98,98,https://www.amazon.com/,531,0,71
+1623090676531,661,Acessar Amazon,503,Service Unavailable,Acessos 1-30,text,false,,2514,119,98,98,https://www.amazon.com/,661,0,224
+1623090676568,632,Acessar Amazon,503,Service Unavailable,Acessos 1-64,text,false,,2517,119,98,98,https://www.amazon.com/,632,0,150
+1623090676679,524,Acessar Amazon,503,Service Unavailable,Acessos 1-19,text,false,,2520,119,98,98,https://www.amazon.com/,523,0,53
+1623090676577,684,Acessar Amazon,503,Service Unavailable,Acessos 1-6,text,false,,2517,119,98,98,https://www.amazon.com/,684,0,484
+1623090676749,519,Acessar Amazon,503,Service Unavailable,Acessos 1-11,text,false,,2516,119,98,98,https://www.amazon.com/,519,0,67
+1623090676446,854,Acessar Amazon,200,OK,Acessos 1-15,text,true,,83547,119,98,98,https://www.amazon.com/,575,0,353
+1623090676573,729,Acessar Amazon,503,Service Unavailable,Acessos 1-10,text,false,,2517,119,98,98,https://www.amazon.com/,729,0,284
+1623090676448,855,Acessar Amazon,503,Service Unavailable,Acessos 1-71,text,false,,2519,119,98,98,https://www.amazon.com/,855,0,315
+1623090676537,768,Acessar Amazon,503,Service Unavailable,Acessos 1-37,text,false,,2518,119,98,98,https://www.amazon.com/,768,0,251
+1623090677065,251,Acessar Amazon,503,Service Unavailable,Acessos 1-76,text,false,,2518,119,98,98,https://www.amazon.com/,251,0,76
+1623090676436,883,Acessar Amazon,503,Service Unavailable,Acessos 1-21,text,false,,2520,119,98,98,https://www.amazon.com/,883,0,660
+1623090676774,546,Acessar Amazon,503,Service Unavailable,Acessos 1-16,text,false,,2519,119,98,98,https://www.amazon.com/,545,0,48
+1623090676440,926,Acessar Amazon,503,Service Unavailable,Acessos 1-88,text,false,,2517,119,98,98,https://www.amazon.com/,926,0,433
+1623090677071,300,Acessar Amazon,503,Service Unavailable,Acessos 1-45,text,false,,2515,119,98,98,https://www.amazon.com/,300,0,93
+1623090676451,922,Acessar Amazon,503,Service Unavailable,Acessos 1-31,text,false,,2520,119,98,98,https://www.amazon.com/,922,0,649
+1623090676458,916,Acessar Amazon,503,Service Unavailable,Acessos 1-36,text,false,,2519,119,98,98,https://www.amazon.com/,916,0,681
+1623090676870,525,Acessar Amazon,503,Service Unavailable,Acessos 1-3,text,false,,2516,119,98,98,https://www.amazon.com/,525,0,60
+1623090677077,319,Acessar Amazon,503,Service Unavailable,Acessos 1-35,text,false,,2517,119,98,98,https://www.amazon.com/,319,0,88
+1623090676445,953,Acessar Amazon,503,Service Unavailable,Acessos 1-89,text,false,,2517,119,98,98,https://www.amazon.com/,951,0,428
+1623090677071,328,Acessar Amazon,503,Service Unavailable,Acessos 1-60,text,false,,2517,119,98,98,https://www.amazon.com/,328,0,87
+1623090676769,630,Acessar Amazon,503,Service Unavailable,Acessos 1-12,text,false,,2516,119,98,98,https://www.amazon.com/,630,0,70
+1623090676872,528,Acessar Amazon,503,Service Unavailable,Acessos 1-59,text,false,,2517,119,98,98,https://www.amazon.com/,527,0,58
+1623090677045,368,Acessar Amazon,503,Service Unavailable,Acessos 1-66,text,false,,2519,119,98,98,https://www.amazon.com/,368,0,66
+1623090677078,340,Acessar Amazon,503,Service Unavailable,Acessos 1-96,text,false,,2516,119,98,98,https://www.amazon.com/,340,0,94
+1623090677075,344,Acessar Amazon,503,Service Unavailable,Acessos 1-79,text,false,,2516,119,98,98,https://www.amazon.com/,344,0,88
+1623090677070,351,Acessar Amazon,503,Service Unavailable,Acessos 1-41,text,false,,2515,119,98,98,https://www.amazon.com/,351,0,96
+1623090676564,861,Acessar Amazon,503,Service Unavailable,Acessos 1-26,text,false,,2517,119,98,98,https://www.amazon.com/,861,0,295
+1623090676633,797,Acessar Amazon,503,Service Unavailable,Acessos 1-83,text,false,,2519,119,98,98,https://www.amazon.com/,797,0,252
+1623090674026,2314,Acessar Google,200,OK,Acessos 1-77,text,true,,14467,119,100,100,https://www.google.com/,2313,0,2202
+1623090676567,867,Acessar Amazon,503,Service Unavailable,Acessos 1-25,text,false,,2515,119,98,98,https://www.amazon.com/,867,0,441
+1623090677068,382,Acessar Amazon,503,Service Unavailable,Acessos 1-23,text,false,,2517,119,98,98,https://www.amazon.com/,382,0,76
+1623090676571,881,Acessar Amazon,503,Service Unavailable,Acessos 1-58,text,false,,2519,119,98,98,https://www.amazon.com/,881,0,368
+1623090676634,837,Acessar Amazon,503,Service Unavailable,Acessos 1-92,text,false,,2515,119,98,98,https://www.amazon.com/,836,0,342
+1623090676440,1032,Acessar Amazon,503,Service Unavailable,Acessos 1-62,text,false,,2517,119,98,98,https://www.amazon.com/,1032,0,541
+1623090676470,1003,Acessar Amazon,503,Service Unavailable,Acessos 1-86,text,false,,2519,119,98,98,https://www.amazon.com/,1002,0,523
+1623090676471,1011,Acessar Amazon,503,Service Unavailable,Acessos 1-63,text,false,,2519,119,98,98,https://www.amazon.com/,1010,0,304
+1623090676450,1036,Acessar Amazon,503,Service Unavailable,Acessos 1-85,text,false,,2517,119,98,98,https://www.amazon.com/,1036,0,575
+1623090676450,1052,Acessar Amazon,503,Service Unavailable,Acessos 1-22,text,false,,2517,119,98,98,https://www.amazon.com/,1052,0,553
+1623090676665,852,Acessar Amazon,200,OK,Acessos 1-14,text,true,,82969,119,98,98,https://www.amazon.com/,602,0,53
+1623090676862,656,Acessar Globo,200,OK,Acessos 1-1,text,true,,625405,118,98,98,https://www.globo.com/,296,0,266
+1623090676429,1106,Acessar Amazon,503,Service Unavailable,Acessos 1-42,text,false,,2517,119,97,97,https://www.amazon.com/,1106,0,648
+1623090676879,664,Acessar Amazon,503,Service Unavailable,Acessos 1-20,text,false,,2517,119,97,97,https://www.amazon.com/,664,0,118
+1623090676435,1108,Acessar Amazon,503,Service Unavailable,Acessos 1-5,text,false,,2517,119,97,97,https://www.amazon.com/,1108,0,574
+1623090676721,825,Acessar Amazon,503,Service Unavailable,Acessos 1-28,text,false,,2516,119,97,97,https://www.amazon.com/,825,0,111
+1623090676817,766,Acessar Globo,200,OK,Acessos 1-50,text,true,,625405,118,97,97,https://www.globo.com/,278,0,256
+1623090676822,839,Acessar Amazon,200,OK,Acessos 1-61,text,true,,84744,119,96,96,https://www.amazon.com/,554,0,46
+1623090676436,1236,Acessar Amazon,200,OK,Acessos 1-2,text,true,,84479,119,96,96,https://www.amazon.com/,842,0,643
+1623090676458,1256,Acessar Amazon,503,Service Unavailable,Acessos 1-52,text,false,,2516,119,96,96,https://www.amazon.com/,1256,0,526
+1623090676464,1256,Acessar Amazon,200,OK,Acessos 1-98,text,true,,83300,119,96,96,https://www.amazon.com/,801,0,253
+1623090676695,1026,Acessar Amazon,503,Service Unavailable,Acessos 1-44,text,false,,2516,119,96,96,https://www.amazon.com/,1026,0,55
+1623090676677,1046,Acessar Amazon,503,Service Unavailable,Acessos 1-65,text,false,,2516,119,96,96,https://www.amazon.com/,1045,0,65
+1623090676451,1272,Acessar Amazon,503,Service Unavailable,Acessos 1-73,text,false,,2516,119,96,96,https://www.amazon.com/,1272,0,612
+1623090676522,1208,Acessar Amazon,503,Service Unavailable,Acessos 1-90,text,false,,2518,119,96,96,https://www.amazon.com/,1208,0,505
+1623090676449,1281,Acessar Amazon,503,Service Unavailable,Acessos 1-91,text,false,,2516,119,96,96,https://www.amazon.com/,1281,0,599
+1623090677069,666,Acessar Amazon,503,Service Unavailable,Acessos 1-72,text,false,,2516,119,96,96,https://www.amazon.com/,665,0,95
+1623090676563,1179,Acessar Amazon,503,Service Unavailable,Acessos 1-53,text,false,,2518,119,96,96,https://www.amazon.com/,1179,0,306
+1623090676686,1078,Acessar Amazon,503,Service Unavailable,Acessos 1-55,text,false,,2517,119,96,96,https://www.amazon.com/,1078,0,56
+1623090677081,688,Acessar Amazon,200,OK,Acessos 1-84,text,true,,84533,119,96,96,https://www.amazon.com/,408,0,96
+1623090676438,1332,Acessar Amazon,200,OK,Acessos 1-40,text,true,,83670,119,96,96,https://www.amazon.com/,957,0,726
+1623090677162,652,Acessar Globo,200,OK,Acessos 1-7,text,true,,625405,118,96,96,https://www.globo.com/,127,0,90
+1623090676455,1374,Acessar Amazon,200,OK,Acessos 1-54,text,true,,83285,119,95,95,https://www.amazon.com/,822,0,332
+1623090676433,1435,Acessar Amazon,503,Service Unavailable,Acessos 1-9,text,false,,2520,119,95,95,https://www.amazon.com/,1434,0,609
+1623090676578,1300,Acessar Amazon,200,OK,Acessos 1-47,text,true,,84462,119,95,95,https://www.amazon.com/,1294,0,473
+1623090677595,333,Acessar Amazon,503,Service Unavailable,Acessos 1-8,text,false,,2518,119,95,95,https://www.amazon.com/,333,0,117
+1623090677436,507,Acessar Amazon,503,Service Unavailable,Acessos 1-77,text,false,,2518,119,95,95,https://www.amazon.com/,507,0,141
+1623090677583,361,Acessar Amazon,503,Service Unavailable,Acessos 1-39,text,false,,2517,119,95,95,https://www.amazon.com/,360,0,135
+1623090677505,481,Acessar Amazon,503,Service Unavailable,Acessos 1-13,text,false,,2516,119,95,95,https://www.amazon.com/,481,0,260
+1623090676429,1565,Acessar Amazon,200,OK,Acessos 1-29,text,true,,83285,119,95,95,https://www.amazon.com/,1447,0,648
+1623090676833,1169,Acessar Amazon,200,OK,Acessos 1-95,text,true,,83385,119,95,95,https://www.amazon.com/,896,0,93
+1623090676430,1575,Acessar Amazon,200,OK,Acessos 1-80,text,true,,83144,119,95,95,https://www.amazon.com/,1299,0,592
+1623090677714,371,Acessar Amazon,503,Service Unavailable,Acessos 1-24,text,false,,2518,119,95,95,https://www.amazon.com/,371,0,137
+1623090677717,368,Acessar Amazon,503,Service Unavailable,Acessos 1-51,text,false,,2518,119,95,95,https://www.amazon.com/,368,0,133
+1623090677697,393,Acessar Amazon,503,Service Unavailable,Acessos 1-70,text,false,,2517,119,95,95,https://www.amazon.com/,393,0,154
+1623090677719,374,Acessar Amazon,503,Service Unavailable,Acessos 1-99,text,false,,2516,119,95,95,https://www.amazon.com/,374,0,132
+1623090676425,1686,Acessar Amazon,200,OK,Acessos 1-33,text,true,,83197,119,95,95,https://www.amazon.com/,818,0,346
+1623090676628,1494,Acessar Amazon,503,Service Unavailable,Acessos 1-81,text,false,,2518,119,95,95,https://www.amazon.com/,1493,0,390
+1623090676453,1669,Acessar Amazon,503,Service Unavailable,Acessos 1-94,text,false,,2516,119,95,95,https://www.amazon.com/,1669,0,590
+1623090677597,527,Acessar Amazon,503,Service Unavailable,Acessos 1-75,text,false,,2516,119,95,95,https://www.amazon.com/,527,0,173
+1623090676452,1672,Acessar Amazon,503,Service Unavailable,Acessos 1-67,text,false,,2518,119,95,95,https://www.amazon.com/,1672,0,611
+1623090676875,1270,Acessar Amazon,503,Service Unavailable,Acessos 1-57,text,false,,2517,119,95,95,https://www.amazon.com/,1270,0,65
+1623090677326,861,Acessar Amazon,200,OK,Acessos 1-17,text,true,,82770,119,95,95,https://www.amazon.com/,481,0,216
+1623090677505,697,Acessar Amazon,503,Service Unavailable,Acessos 1-56,text,false,,2515,119,95,95,https://www.amazon.com/,697,0,441
+1623090677719,486,Acessar Amazon,503,Service Unavailable,Acessos 1-48,text,false,,2515,119,95,95,https://www.amazon.com/,485,0,205
+1623090676426,1942,Acessar Amazon,503,Service Unavailable,Acessos 1-4,text,false,,2519,119,95,95,https://www.amazon.com/,1942,0,600
+1623090677596,831,Acessar Amazon,200,OK,Acessos 1-27,text,true,,88889,119,95,95,https://www.amazon.com/,413,0,171
+1623090677848,639,Acessar Globo,200,OK,Acessos 1-91,text,true,,625405,118,95,95,https://www.globo.com/,128,0,98
+1623090677177,1509,Acessar Globo,200,OK,Acessos 1-100,text,true,,625405,118,94,94,https://www.globo.com/,146,0,112
+1623090677433,1531,Acessar Amazon,503,Service Unavailable,Acessos 1-97,text,false,,2517,119,93,93,https://www.amazon.com/,1531,0,1320
+1623090677599,1519,Acessar Amazon,503,Service Unavailable,Acessos 1-82,text,false,,2517,119,93,93,https://www.amazon.com/,1519,0,1275
+1623090677307,2140,Acessar Globo,200,OK,Acessos 1-37,text,true,,625405,118,93,93,https://www.globo.com/,465,0,435
+1623090677701,1768,Acessar Globo,200,OK,Acessos 1-86,text,true,,625405,118,92,92,https://www.globo.com/,1286,0,1254
+1623090677756,1765,Acessar Globo,200,OK,Acessos 1-72,text,true,,625405,118,91,91,https://www.globo.com/,157,0,114
+1623090678112,1451,Acessar Globo,200,OK,Acessos 1-33,text,true,,625405,118,90,90,https://www.globo.com/,166,0,105
+1623090677995,1676,Acessar Globo,200,OK,Acessos 1-29,text,true,,625405,118,89,89,https://www.globo.com/,122,0,92
+1623090677716,2031,Acessar Globo,200,OK,Acessos 1-52,text,true,,625405,118,88,88,https://www.globo.com/,147,0,119
+1623090677537,2460,Acessar Globo,200,OK,Acessos 1-42,text,true,,625405,118,87,87,https://www.globo.com/,154,0,124
+1623090677118,2884,Acessar Globo,200,OK,Acessos 1-69,text,true,,625405,118,86,86,https://www.globo.com/,126,0,87
+1623090677458,2645,Acessar Globo,200,OK,Acessos 1-23,text,true,,625405,118,85,85,https://www.globo.com/,1152,0,1119
+1623090678091,2135,Acessar Globo,200,OK,Acessos 1-70,text,true,,625405,118,84,84,https://www.globo.com/,186,0,125
+1623090677302,2961,Acessar Globo,200,OK,Acessos 1-15,text,true,,625405,118,83,83,https://www.globo.com/,220,0,174
+1623090678146,2143,Acessar Globo,200,OK,Acessos 1-57,text,true,,625405,118,82,82,https://www.globo.com/,165,0,116
+1623090677194,3277,Acessar Globo,200,OK,Acessos 1-30,text,true,,625405,118,81,81,https://www.globo.com/,242,0,125
+1623090677504,3064,Acessar Globo,200,OK,Acessos 1-60,text,true,,625405,118,80,80,https://www.globo.com/,332,0,308
+1623090677160,3432,Acessar Globo,200,OK,Acessos 1-78,text,true,,625405,118,79,79,https://www.globo.com/,140,0,93
+1623090677883,2867,Acessar Globo,200,OK,Acessos 1-44,text,true,,625405,118,78,78,https://www.globo.com/,1101,0,1071
+1623090677868,2916,Acessar Globo,200,OK,Acessos 1-9,text,true,,625405,118,77,77,https://www.globo.com/,1111,0,1084
+1623090678206,2594,Acessar Globo,200,OK,Acessos 1-48,text,true,,625405,118,76,76,https://www.globo.com/,190,0,148
+1623090678427,2394,Acessar Globo,200,OK,Acessos 1-27,text,true,,625405,118,75,75,https://www.globo.com/,625,0,119
+1623090677317,3532,Acessar Globo,200,OK,Acessos 1-76,text,true,,625405,118,74,74,https://www.globo.com/,274,0,180
+1623090677585,3274,Acessar Globo,200,OK,Acessos 1-22,text,true,,625405,118,73,73,https://www.globo.com/,167,0,134
+1623090677518,3391,Acessar Globo,200,OK,Acessos 1-14,text,true,,625405,118,72,72,https://www.globo.com/,316,0,263
+1623090678095,2854,Acessar Globo,200,OK,Acessos 1-99,text,true,,625405,118,71,71,https://www.globo.com/,183,0,122
+1623090677102,3880,Acessar Globo,200,OK,Acessos 1-87,text,true,,625405,118,70,70,https://www.globo.com/,102,0,75
+1623090677303,3699,Acessar Globo,200,OK,Acessos 1-10,text,true,,625405,118,69,69,https://www.globo.com/,147,0,112
+1623090677711,3293,Acessar Globo,200,OK,Acessos 1-46,text,true,,625405,118,68,68,https://www.globo.com/,152,0,122
+1623090677304,3701,Acessar Globo,200,OK,Acessos 1-71,text,true,,625405,118,67,67,https://www.globo.com/,282,0,197
+1623090677496,3524,Acessar Globo,200,OK,Acessos 1-3,text,true,,625405,118,66,66,https://www.globo.com/,190,0,161
+1623090677438,3598,Acessar Globo,200,OK,Acessos 1-83,text,true,,625405,118,65,65,https://www.globo.com/,600,0,141
+1623090677879,3200,Acessar Globo,200,OK,Acessos 1-47,text,true,,625405,118,64,64,https://www.globo.com/,1107,0,1075
+1623090678006,3078,Acessar Globo,200,OK,Acessos 1-80,text,true,,625405,118,63,63,https://www.globo.com/,198,0,95
+1623090678086,3006,Acessar Globo,200,OK,Acessos 1-51,text,true,,625405,118,62,62,https://www.globo.com/,564,0,104
+1623090677465,3675,Acessar Globo,200,OK,Acessos 1-59,text,true,,625405,118,61,61,https://www.globo.com/,725,0,653
+1623090677599,3554,Acessar Globo,200,OK,Acessos 1-5,text,true,,625405,118,60,60,https://www.globo.com/,181,0,153
+1623090677473,3691,Acessar Globo,200,OK,Acessos 1-12,text,true,,625405,118,59,59,https://www.globo.com/,759,0,687
+1623090678125,3090,Acessar Globo,200,OK,Acessos 1-75,text,true,,625405,118,58,58,https://www.globo.com/,162,0,116
+1623090677184,4151,Acessar Globo,200,OK,Acessos 1-34,text,true,,625405,118,57,57,https://www.globo.com/,163,0,116
+1623090677722,3660,Acessar Globo,200,OK,Acessos 1-98,text,true,,625405,118,56,56,https://www.globo.com/,665,0,362
+1623090677987,3432,Acessar Globo,200,OK,Acessos 1-13,text,true,,625405,118,55,55,https://www.globo.com/,408,0,327
+1623090677145,4285,Acessar Globo,200,OK,Acessos 1-68,text,true,,625405,118,54,54,https://www.globo.com/,128,0,94
+1623090677269,4189,Acessar Globo,200,OK,Acessos 1-11,text,true,,625405,118,53,53,https://www.globo.com/,245,0,200
+1623090677716,3799,Acessar Globo,200,OK,Acessos 1-45,text,true,,625405,118,52,52,https://www.globo.com/,149,0,118
+1623090677437,4085,Acessar Globo,200,OK,Acessos 1-26,text,true,,625405,118,51,51,https://www.globo.com/,1480,0,1110
+1623090677944,3610,Acessar Globo,200,OK,Acessos 1-77,text,true,,625405,118,50,50,https://www.globo.com/,123,0,86
+1623090677491,4081,Acessar Globo,200,OK,Acessos 1-85,text,true,,625405,118,49,49,https://www.globo.com/,741,0,669
+1623090677152,4526,Acessar Globo,200,OK,Acessos 1-93,text,true,,625405,118,48,48,https://www.globo.com/,152,0,112
+1623090677756,3974,Acessar Globo,200,OK,Acessos 1-90,text,true,,625405,118,47,47,https://www.globo.com/,142,0,106
+1623090678003,3739,Acessar Globo,200,OK,Acessos 1-95,text,true,,625405,118,46,46,https://www.globo.com/,135,0,89
+1623090677466,4283,Acessar Globo,200,OK,Acessos 1-66,text,true,,625405,118,45,45,https://www.globo.com/,464,0,429
+1623090677201,4628,Acessar Globo,200,OK,Acessos 1-64,text,true,,625405,118,44,44,https://www.globo.com/,228,0,119
+1623090677831,4113,Acessar Globo,200,OK,Acessos 1-54,text,true,,625405,118,43,43,https://www.globo.com/,131,0,100
+1623090677718,4240,Acessar Globo,200,OK,Acessos 1-28,text,true,,625405,118,42,42,https://www.globo.com/,670,0,369
+1623090677462,4511,Acessar Globo,200,OK,Acessos 1-58,text,true,,625405,118,41,41,https://www.globo.com/,370,0,319
+1623090678085,3921,Acessar Globo,200,OK,Acessos 1-24,text,true,,625405,118,40,40,https://www.globo.com/,146,0,104
+1623090678964,3054,Acessar Globo,200,OK,Acessos 1-97,text,true,,625405,118,39,39,https://www.globo.com/,1150,0,1115
+1623090677138,4921,Acessar Globo,200,OK,Acessos 1-43,text,true,,625405,118,38,38,https://www.globo.com/,134,0,100
+1623090678125,4058,Acessar Globo,200,OK,Acessos 1-67,text,true,,625405,118,37,37,https://www.globo.com/,418,0,338
+1623090677448,4760,Acessar Globo,200,OK,Acessos 1-79,text,true,,625405,118,36,36,https://www.globo.com/,991,0,356
+1623090677262,4967,Acessar Globo,200,OK,Acessos 1-6,text,true,,625405,118,35,35,https://www.globo.com/,156,0,114
+1623090677515,4758,Acessar Globo,200,OK,Acessos 1-88,text,true,,625405,118,34,34,https://www.globo.com/,171,0,140
+1623090677324,4957,Acessar Globo,200,OK,Acessos 1-21,text,true,,625405,118,33,33,https://www.globo.com/,171,0,131
+1623090677771,4538,Acessar Globo,200,OK,Acessos 1-84,text,true,,625405,118,32,32,https://www.globo.com/,498,0,110
+1623090678123,4198,Acessar Globo,200,OK,Acessos 1-94,text,true,,625405,118,31,31,https://www.globo.com/,164,0,117
+1623090677458,4870,Acessar Globo,200,OK,Acessos 1-96,text,true,,625405,118,30,30,https://www.globo.com/,1464,0,416
+1623090677435,4920,Acessar Globo,200,OK,Acessos 1-25,text,true,,625405,118,29,29,https://www.globo.com/,689,0,393
+1623090677729,4689,Acessar Globo,200,OK,Acessos 1-73,text,true,,625405,118,28,28,https://www.globo.com/,895,0,825
+1623090677771,4668,Acessar Globo,200,OK,Acessos 1-55,text,true,,625405,118,27,27,https://www.globo.com/,493,0,103
+1623090679117,3324,Acessar Globo,200,OK,Acessos 1-82,text,true,,625405,118,26,26,https://www.globo.com/,145,0,105
+1623090677321,5155,Acessar Globo,200,OK,Acessos 1-16,text,true,,625405,118,25,25,https://www.globo.com/,1209,0,1170
+1623090677473,5005,Acessar Globo,200,OK,Acessos 1-62,text,true,,625405,118,24,24,https://www.globo.com/,1455,0,426
+1623090677495,5003,Acessar Globo,200,OK,Acessos 1-35,text,true,,625405,118,23,23,https://www.globo.com/,238,0,167
+1623090677471,5033,Acessar Globo,200,OK,Acessos 1-92,text,true,,625405,118,22,22,https://www.globo.com/,458,0,427
+1623090677771,4750,Acessar Globo,200,OK,Acessos 1-40,text,true,,625405,118,21,21,https://www.globo.com/,1147,0,110
+1623090677772,4759,Acessar Globo,200,OK,Acessos 1-53,text,true,,625405,118,20,20,https://www.globo.com/,1127,0,1102
+1623090677945,4593,Acessar Globo,200,OK,Acessos 1-39,text,true,,625405,118,19,19,https://www.globo.com/,161,0,99
+1623090677205,5338,Acessar Globo,200,OK,Acessos 1-19,text,true,,625405,118,18,18,https://www.globo.com/,163,0,117
+1623090678122,4433,Acessar Globo,200,OK,Acessos 1-81,text,true,,625405,118,17,17,https://www.globo.com/,422,0,344
+1623090677722,4897,Acessar Globo,200,OK,Acessos 1-61,text,true,,625405,118,16,16,https://www.globo.com/,665,0,362
+1623090677506,5168,Acessar Globo,200,OK,Acessos 1-63,text,true,,625405,118,15,15,https://www.globo.com/,410,0,384
+1623090678203,4472,Acessar Globo,200,OK,Acessos 1-56,text,true,,625405,118,14,14,https://www.globo.com/,418,0,351
+1623090678187,4507,Acessar Globo,200,OK,Acessos 1-17,text,true,,625405,118,13,13,https://www.globo.com/,174,0,127
+1623090677595,5124,Acessar Globo,200,OK,Acessos 1-49,text,true,,625405,118,12,12,https://www.globo.com/,649,0,346
+1623090677495,5289,Acessar Globo,200,OK,Acessos 1-36,text,true,,625405,118,11,11,https://www.globo.com/,664,0,168
+1623090677163,5634,Acessar Globo,200,OK,Acessos 1-32,text,true,,625405,118,10,10,https://www.globo.com/,142,0,103
+1623090677190,5668,Acessar Globo,200,OK,Acessos 1-18,text,true,,625405,118,9,9,https://www.globo.com/,410,0,342
+1623090677929,4992,Acessar Globo,200,OK,Acessos 1-8,text,true,,625405,118,8,8,https://www.globo.com/,4434,0,1166
+1623090678370,4575,Acessar Globo,200,OK,Acessos 1-4,text,true,,625405,118,7,7,https://www.globo.com/,160,0,118
+1623090677884,5087,Acessar Globo,200,OK,Acessos 1-2,text,true,,625405,118,6,6,https://www.globo.com/,4601,0,1212
+1623090677445,5562,Acessar Globo,200,OK,Acessos 1-41,text,true,,625405,118,5,5,https://www.globo.com/,173,0,137
+1623090677585,5436,Acessar Globo,200,OK,Acessos 1-20,text,true,,625405,118,4,4,https://www.globo.com/,2333,0,352
+1623090677724,5306,Acessar Globo,200,OK,Acessos 1-65,text,true,,625405,118,3,3,https://www.globo.com/,421,0,356
+1623090677488,5574,Acessar Globo,200,OK,Acessos 1-89,text,true,,625405,118,2,2,https://www.globo.com/,2328,0,439
+1623090677503,5569,Acessar Globo,200,OK,Acessos 1-31,text,true,,625405,118,1,1,https://www.globo.com/,655,0,368
+1623179966585,1204,Acessar Google,200,OK,Acessos 1-28,text,true,,15272,119,30,30,https://www.google.com/,1195,0,1089
+1623179965810,1993,Acessar Google,200,OK,Acessos 1-2,text,true,,15208,119,30,30,https://www.google.com/,1991,0,1873
+1623179966295,1497,Acessar Google,200,OK,Acessos 1-19,text,true,,15282,119,30,30,https://www.google.com/,1492,0,1387
+1623179966651,1181,Acessar Google,200,OK,Acessos 1-30,text,true,,15216,119,30,30,https://www.google.com/,1171,0,1035
+1623179966035,1771,Acessar Google,200,OK,Acessos 1-11,text,true,,15319,119,30,30,https://www.google.com/,1767,0,1648
+1623179966163,1669,Acessar Google,200,OK,Acessos 1-15,text,true,,15217,119,30,30,https://www.google.com/,1658,0,1526
+1623179966197,1610,Acessar Google,200,OK,Acessos 1-16,text,true,,15256,119,30,30,https://www.google.com/,1607,0,1487
+1623179966004,1805,Acessar Google,200,OK,Acessos 1-10,text,true,,15200,119,30,30,https://www.google.com/,1803,0,1677
+1623179966395,1416,Acessar Google,200,OK,Acessos 1-22,text,true,,15241,119,30,30,https://www.google.com/,1414,0,1285
+1623179966521,1292,Acessar Google,200,OK,Acessos 1-26,text,true,,15262,119,30,30,https://www.google.com/,1290,0,1160
+1623179965810,2004,Acessar Google,200,OK,Acessos 1-3,text,true,,15238,119,30,30,https://www.google.com/,2002,0,1879
+1623179966260,1531,Acessar Google,200,OK,Acessos 1-18,text,true,,15226,119,30,30,https://www.google.com/,1519,0,1415
+1623179966100,1719,Acessar Google,200,OK,Acessos 1-13,text,true,,15302,119,30,30,https://www.google.com/,1717,0,1588
+1623179966324,1496,Acessar Google,200,OK,Acessos 1-20,text,true,,15247,119,30,30,https://www.google.com/,1494,0,1356
+1623179965969,1852,Acessar Google,200,OK,Acessos 1-9,text,true,,15223,119,30,30,https://www.google.com/,1851,0,1719
+1623179965872,1950,Acessar Google,200,OK,Acessos 1-6,text,true,,15271,119,30,30,https://www.google.com/,1949,0,1816
+1623179966069,1775,Acessar Google,200,OK,Acessos 1-12,text,true,,15242,119,30,30,https://www.google.com/,1751,0,1620
+1623179966132,1669,Acessar Google,200,OK,Acessos 1-14,text,true,,15276,119,30,30,https://www.google.com/,1665,0,1553
+1623179966552,1249,Acessar Google,200,OK,Acessos 1-27,text,true,,15249,119,30,30,https://www.google.com/,1241,0,1127
+1623179966433,1391,Acessar Google,200,OK,Acessos 1-23,text,true,,15301,119,30,30,https://www.google.com/,1386,0,1255
+1623179965840,1984,Acessar Google,200,OK,Acessos 1-5,text,true,,15238,119,30,30,https://www.google.com/,1983,0,1850
+1623179965938,1886,Acessar Google,200,OK,Acessos 1-8,text,true,,15243,119,30,30,https://www.google.com/,1879,0,1749
+1623179966362,1467,Acessar Google,200,OK,Acessos 1-21,text,true,,15252,119,30,30,https://www.google.com/,1418,0,1314
+1623179965811,1985,Acessar Google,200,OK,Acessos 1-4,text,true,,15285,119,30,30,https://www.google.com/,1974,0,1864
+1623179966618,1210,Acessar Google,200,OK,Acessos 1-29,text,true,,15270,119,30,30,https://www.google.com/,1209,0,1057
+1623179966231,1595,Acessar Google,200,OK,Acessos 1-17,text,true,,15273,119,30,30,https://www.google.com/,1594,0,1458
+1623179965906,1920,Acessar Google,200,OK,Acessos 1-7,text,true,,15224,119,30,30,https://www.google.com/,1916,0,1768
+1623179966459,1370,Acessar Google,200,OK,Acessos 1-24,text,true,,15275,119,30,30,https://www.google.com/,1361,0,1231
+1623179966489,1341,Acessar Google,200,OK,Acessos 1-25,text,true,,15206,119,30,30,https://www.google.com/,1332,0,1198
+1623179965810,2016,Acessar Google,200,OK,Acessos 1-1,text,true,,15269,119,30,30,https://www.google.com/,2014,0,1878
+1623179967838,623,Acessar Gov,200,OK,Acessos 1-22,text,true,,154163,235,30,30,https://www.gov.br/pt-br,304,0,209
+1623179967838,304,Acessar Gov-0,301,Moved Permanently,Acessos 1-22,,true,,776,115,30,30,https://www.gov.br/,304,0,209
+1623179968142,319,Acessar Gov-1,200,OK,Acessos 1-22,text,true,,153387,120,30,30,https://www.gov.br/pt-br,69,0,0
+1623179967841,636,Acessar Gov,200,OK,Acessos 1-6,text,true,,154163,235,30,30,https://www.gov.br/pt-br,317,0,215
+1623179967841,317,Acessar Gov-0,301,Moved Permanently,Acessos 1-6,,true,,776,115,30,30,https://www.gov.br/,317,0,215
+1623179968158,319,Acessar Gov-1,200,OK,Acessos 1-6,text,true,,153387,120,30,30,https://www.gov.br/pt-br,68,0,0
+1623179967834,647,Acessar Gov,200,OK,Acessos 1-3,text,true,,154162,235,30,30,https://www.gov.br/pt-br,315,0,213
+1623179967834,315,Acessar Gov-0,301,Moved Permanently,Acessos 1-3,,true,,775,115,30,30,https://www.gov.br/,315,0,213
+1623179968149,332,Acessar Gov-1,200,OK,Acessos 1-3,text,true,,153387,120,30,30,https://www.gov.br/pt-br,77,0,0
+1623179967842,649,Acessar Gov,200,OK,Acessos 1-15,text,true,,154163,235,30,30,https://www.gov.br/pt-br,315,0,215
+1623179967842,315,Acessar Gov-0,301,Moved Permanently,Acessos 1-15,,true,,776,115,30,30,https://www.gov.br/,315,0,215
+1623179968157,334,Acessar Gov-1,200,OK,Acessos 1-15,text,true,,153387,120,30,30,https://www.gov.br/pt-br,69,0,0
+1623179967840,669,Acessar Gov,200,OK,Acessos 1-11,text,true,,154163,235,30,30,https://www.gov.br/pt-br,298,0,210
+1623179967840,298,Acessar Gov-0,301,Moved Permanently,Acessos 1-11,,true,,776,115,30,30,https://www.gov.br/,298,0,210
+1623179968138,371,Acessar Gov-1,200,OK,Acessos 1-11,text,true,,153387,120,30,30,https://www.gov.br/pt-br,72,0,0
+1623179967853,664,Acessar Gov,200,OK,Acessos 1-25,text,true,,154162,235,30,30,https://www.gov.br/pt-br,325,0,242
+1623179967853,325,Acessar Gov-0,301,Moved Permanently,Acessos 1-25,,true,,775,115,30,30,https://www.gov.br/,325,0,242
+1623179968178,339,Acessar Gov-1,200,OK,Acessos 1-25,text,true,,153387,120,30,30,https://www.gov.br/pt-br,72,0,0
+1623179967844,726,Acessar Gov,200,OK,Acessos 1-12,text,true,,154163,235,30,30,https://www.gov.br/pt-br,312,0,215
+1623179967844,312,Acessar Gov-0,301,Moved Permanently,Acessos 1-12,,true,,776,115,30,30,https://www.gov.br/,312,0,215
+1623179968156,414,Acessar Gov-1,200,OK,Acessos 1-12,text,true,,153387,120,30,30,https://www.gov.br/pt-br,72,0,0
+1623179967851,724,Acessar Gov,200,OK,Acessos 1-17,text,true,,154162,235,30,30,https://www.gov.br/pt-br,338,0,242
+1623179967851,338,Acessar Gov-0,301,Moved Permanently,Acessos 1-17,,true,,775,115,30,30,https://www.gov.br/,338,0,242
+1623179968189,386,Acessar Gov-1,200,OK,Acessos 1-17,text,true,,153387,120,30,30,https://www.gov.br/pt-br,70,0,0
+1623179967840,740,Acessar Gov,200,OK,Acessos 1-10,text,true,,154162,235,30,30,https://www.gov.br/pt-br,300,0,208
+1623179967840,300,Acessar Gov-0,301,Moved Permanently,Acessos 1-10,,true,,775,115,30,30,https://www.gov.br/,300,0,208
+1623179968140,440,Acessar Gov-1,200,OK,Acessos 1-10,text,true,,153387,120,30,30,https://www.gov.br/pt-br,77,0,0
+1623179967835,758,Acessar Gov,200,OK,Acessos 1-9,text,true,,154163,235,30,30,https://www.gov.br/pt-br,325,0,238
+1623179967835,325,Acessar Gov-0,301,Moved Permanently,Acessos 1-9,,true,,776,115,30,30,https://www.gov.br/,325,0,238
+1623179968160,433,Acessar Gov-1,200,OK,Acessos 1-9,text,true,,153387,120,30,30,https://www.gov.br/pt-br,78,0,0
+1623179967849,775,Acessar Gov,200,OK,Acessos 1-21,text,true,,154163,235,30,30,https://www.gov.br/pt-br,310,0,225
+1623179967838,786,Acessar Gov,200,OK,Acessos 1-30,text,true,,154161,235,30,30,https://www.gov.br/pt-br,305,0,207
+1623179967849,310,Acessar Gov-0,301,Moved Permanently,Acessos 1-21,,true,,776,115,30,30,https://www.gov.br/,310,0,225
+1623179967838,305,Acessar Gov-0,301,Moved Permanently,Acessos 1-30,,true,,774,115,30,30,https://www.gov.br/,305,0,207
+1623179968159,465,Acessar Gov-1,200,OK,Acessos 1-21,text,true,,153387,120,30,30,https://www.gov.br/pt-br,70,0,0
+1623179968143,481,Acessar Gov-1,200,OK,Acessos 1-30,text,true,,153387,120,30,30,https://www.gov.br/pt-br,75,0,0
+1623179967837,792,Acessar Gov,200,OK,Acessos 1-19,text,true,,154162,235,30,30,https://www.gov.br/pt-br,318,0,221
+1623179967837,318,Acessar Gov-0,301,Moved Permanently,Acessos 1-19,,true,,775,115,30,30,https://www.gov.br/,318,0,221
+1623179968156,473,Acessar Gov-1,200,OK,Acessos 1-19,text,true,,153387,120,30,30,https://www.gov.br/pt-br,63,0,0
+1623179967840,794,Acessar Gov,200,OK,Acessos 1-2,text,true,,154162,235,30,30,https://www.gov.br/pt-br,314,0,218
+1623179967840,314,Acessar Gov-0,301,Moved Permanently,Acessos 1-2,,true,,775,115,30,30,https://www.gov.br/,314,0,218
+1623179968154,480,Acessar Gov-1,200,OK,Acessos 1-2,text,true,,153387,120,30,30,https://www.gov.br/pt-br,73,0,0
+1623179967844,827,Acessar Gov,200,OK,Acessos 1-26,text,true,,154163,235,30,30,https://www.gov.br/pt-br,311,0,215
+1623179967844,311,Acessar Gov-0,301,Moved Permanently,Acessos 1-26,,true,,776,115,30,30,https://www.gov.br/,311,0,215
+1623179968155,516,Acessar Gov-1,200,OK,Acessos 1-26,text,true,,153387,120,30,30,https://www.gov.br/pt-br,65,0,0
+1623179967835,843,Acessar Gov,200,OK,Acessos 1-20,text,true,,154161,235,30,30,https://www.gov.br/pt-br,319,0,216
+1623179967835,319,Acessar Gov-0,301,Moved Permanently,Acessos 1-20,,true,,774,115,30,30,https://www.gov.br/,319,0,216
+1623179968154,524,Acessar Gov-1,200,OK,Acessos 1-20,text,true,,153387,120,30,30,https://www.gov.br/pt-br,66,0,0
+1623179967847,885,Acessar Gov,200,OK,Acessos 1-23,text,true,,154163,235,30,30,https://www.gov.br/pt-br,305,0,223
+1623179967847,306,Acessar Gov-0,301,Moved Permanently,Acessos 1-23,,true,,776,115,30,30,https://www.gov.br/,305,0,223
+1623179968153,579,Acessar Gov-1,200,OK,Acessos 1-23,text,true,,153387,120,30,30,https://www.gov.br/pt-br,74,0,0
+1623179967852,936,Acessar Gov,200,OK,Acessos 1-7,text,true,,154163,235,30,30,https://www.gov.br/pt-br,370,0,260
+1623179967852,370,Acessar Gov-0,301,Moved Permanently,Acessos 1-7,,true,,776,115,30,30,https://www.gov.br/,370,0,260
+1623179968222,566,Acessar Gov-1,200,OK,Acessos 1-7,text,true,,153387,120,30,30,https://www.gov.br/pt-br,66,0,0
+1623179967842,977,Acessar Gov,200,OK,Acessos 1-28,text,true,,154162,235,30,30,https://www.gov.br/pt-br,293,0,207
+1623179967842,293,Acessar Gov-0,301,Moved Permanently,Acessos 1-28,,true,,775,115,30,30,https://www.gov.br/,293,0,207
+1623179968137,682,Acessar Gov-1,200,OK,Acessos 1-28,text,true,,153387,120,30,30,https://www.gov.br/pt-br,73,0,0
+1623179967848,976,Acessar Gov,200,OK,Acessos 1-5,text,true,,154161,235,30,30,https://www.gov.br/pt-br,334,0,239
+1623179967848,334,Acessar Gov-0,301,Moved Permanently,Acessos 1-5,,true,,774,115,30,30,https://www.gov.br/,334,0,239
+1623179968182,642,Acessar Gov-1,200,OK,Acessos 1-5,text,true,,153387,120,30,30,https://www.gov.br/pt-br,71,0,0
+1623179967845,1030,Acessar Gov,200,OK,Acessos 1-14,text,true,,154163,235,30,30,https://www.gov.br/pt-br,364,0,258
+1623179967845,364,Acessar Gov-0,301,Moved Permanently,Acessos 1-14,,true,,776,115,30,30,https://www.gov.br/,364,0,258
+1623179968209,666,Acessar Gov-1,200,OK,Acessos 1-14,text,true,,153387,120,30,30,https://www.gov.br/pt-br,79,0,0
+1623179967841,1051,Acessar Gov,200,OK,Acessos 1-16,text,true,,154163,235,30,30,https://www.gov.br/pt-br,334,0,232
+1623179967841,334,Acessar Gov-0,301,Moved Permanently,Acessos 1-16,,true,,776,115,30,30,https://www.gov.br/,334,0,232
+1623179968175,717,Acessar Gov-1,200,OK,Acessos 1-16,text,true,,153387,120,30,30,https://www.gov.br/pt-br,70,0,0
+1623179968510,395,Acessar Correios,200,OK,Acessos 1-11,text,true,,81265,124,30,30,https://www.correios.com.br/,220,0,138
+1623179967854,1053,Acessar Gov,200,OK,Acessos 1-24,text,true,,154163,235,30,30,https://www.gov.br/pt-br,353,0,255
+1623179967854,353,Acessar Gov-0,301,Moved Permanently,Acessos 1-24,,true,,776,115,30,30,https://www.gov.br/,353,0,255
+1623179968208,699,Acessar Gov-1,200,OK,Acessos 1-24,text,true,,153387,120,30,30,https://www.gov.br/pt-br,80,0,0
+1623179967850,1059,Acessar Gov,200,OK,Acessos 1-4,text,true,,154162,235,29,29,https://www.gov.br/pt-br,365,0,257
+1623179967850,365,Acessar Gov-0,301,Moved Permanently,Acessos 1-4,,true,,775,115,29,29,https://www.gov.br/,365,0,257
+1623179968215,694,Acessar Gov-1,200,OK,Acessos 1-4,text,true,,153387,120,29,29,https://www.gov.br/pt-br,90,0,0
+1623179968491,422,Acessar Correios,200,OK,Acessos 1-15,text,true,,81265,124,29,29,https://www.correios.com.br/,222,0,137
+1623179968462,454,Acessar Correios,200,OK,Acessos 1-22,text,true,,81265,124,28,28,https://www.correios.com.br/,268,0,170
+1623179968477,471,Acessar Correios,200,OK,Acessos 1-6,text,true,,81265,124,27,27,https://www.correios.com.br/,237,0,154
+1623179968594,358,Acessar Correios,200,OK,Acessos 1-9,text,true,,81265,124,26,26,https://www.correios.com.br/,189,0,114
+1623179968581,375,Acessar Correios,200,OK,Acessos 1-10,text,true,,81265,124,25,25,https://www.correios.com.br/,193,0,112
+1623179968630,342,Acessar Correios,200,OK,Acessos 1-19,text,true,,81265,124,24,24,https://www.correios.com.br/,182,0,112
+1623179967834,1145,Acessar Gov,200,OK,Acessos 1-13,text,true,,154162,235,23,23,https://www.gov.br/pt-br,311,0,218
+1623179967834,311,Acessar Gov-0,301,Moved Permanently,Acessos 1-13,,true,,775,115,23,23,https://www.gov.br/,311,0,218
+1623179968145,834,Acessar Gov-1,200,OK,Acessos 1-13,text,true,,153387,120,23,23,https://www.gov.br/pt-br,66,0,0
+1623179968643,346,Acessar Correios,200,OK,Acessos 1-2,text,true,,81265,124,23,23,https://www.correios.com.br/,206,0,119
+1623179968628,366,Acessar Correios,200,OK,Acessos 1-30,text,true,,81265,124,22,22,https://www.correios.com.br/,193,0,114
+1623179968625,385,Acessar Correios,200,OK,Acessos 1-21,text,true,,81265,124,21,21,https://www.correios.com.br/,196,0,117
+1623179968679,385,Acessar Correios,200,OK,Acessos 1-20,text,true,,81265,124,20,20,https://www.correios.com.br/,201,0,114
+1623179968571,515,Acessar Correios,200,OK,Acessos 1-12,text,true,,81265,124,19,19,https://www.correios.com.br/,197,0,117
+1623179968482,610,Acessar Correios,200,OK,Acessos 1-3,text,true,,81265,124,18,18,https://www.correios.com.br/,220,0,151
+1623179968576,530,Acessar Correios,200,OK,Acessos 1-17,text,true,,81265,124,17,17,https://www.correios.com.br/,188,0,113
+1623179967851,1308,Acessar Gov,200,OK,Acessos 1-29,text,true,,154163,235,16,16,https://www.gov.br/pt-br,412,0,273
+1623179967851,412,Acessar Gov-0,301,Moved Permanently,Acessos 1-29,,true,,776,115,16,16,https://www.gov.br/,412,0,273
+1623179968263,896,Acessar Gov-1,200,OK,Acessos 1-29,text,true,,153387,120,16,16,https://www.gov.br/pt-br,88,0,0
+1623179968820,379,Acessar Correios,200,OK,Acessos 1-28,text,true,,81265,124,16,16,https://www.correios.com.br/,217,0,141
+1623179968875,360,Acessar Correios,200,OK,Acessos 1-14,text,true,,81265,124,15,15,https://www.correios.com.br/,214,0,133
+1623179967847,1408,Acessar Gov,200,OK,Acessos 1-8,text,true,,154163,235,14,14,https://www.gov.br/pt-br,318,0,218
+1623179967847,318,Acessar Gov-0,301,Moved Permanently,Acessos 1-8,,true,,776,115,14,14,https://www.gov.br/,318,0,218
+1623179968166,1089,Acessar Gov-1,200,OK,Acessos 1-8,text,true,,153387,120,14,14,https://www.gov.br/pt-br,69,0,0
+1623179968908,358,Acessar Correios,200,OK,Acessos 1-24,text,true,,81265,124,14,14,https://www.correios.com.br/,192,0,119
+1623179968789,477,Acessar Correios,200,OK,Acessos 1-7,text,true,,81265,124,14,14,https://www.correios.com.br/,227,0,135
+1623179968518,748,Acessar Correios,200,OK,Acessos 1-25,text,true,,81265,124,14,14,https://www.correios.com.br/,208,0,130
+1623179968892,375,Acessar Correios,200,OK,Acessos 1-16,text,true,,81265,124,14,14,https://www.correios.com.br/,196,0,124
+1623179968910,384,Acessar Correios,200,OK,Acessos 1-4,text,true,,81265,124,10,10,https://www.correios.com.br/,209,0,122
+1623179968733,591,Acessar Correios,200,OK,Acessos 1-23,text,true,,81265,124,9,9,https://www.correios.com.br/,200,0,127
+1623179967853,1482,Acessar Gov,200,OK,Acessos 1-1,text,true,,154162,235,8,8,https://www.gov.br/pt-br,358,0,254
+1623179967853,358,Acessar Gov-0,301,Moved Permanently,Acessos 1-1,,true,,775,115,8,8,https://www.gov.br/,358,0,254
+1623179968212,1123,Acessar Gov-1,200,OK,Acessos 1-1,text,true,,153387,120,8,8,https://www.gov.br/pt-br,93,0,0
+1623179968672,672,Acessar Correios,200,OK,Acessos 1-26,text,true,,81265,124,8,8,https://www.correios.com.br/,213,0,118
+1623179968980,367,Acessar Correios,200,OK,Acessos 1-13,text,true,,81265,124,7,7,https://www.correios.com.br/,200,0,124
+1623179967837,1587,Acessar Gov,200,OK,Acessos 1-18,text,true,,154161,235,6,6,https://www.gov.br/pt-br,377,0,269
+1623179967837,377,Acessar Gov-0,301,Moved Permanently,Acessos 1-18,,true,,774,115,6,6,https://www.gov.br/,377,0,269
+1623179968214,1210,Acessar Gov-1,200,OK,Acessos 1-18,text,true,,153387,120,6,6,https://www.gov.br/pt-br,91,0,0
+1623179968825,725,Acessar Correios,200,OK,Acessos 1-5,text,true,,81265,124,6,6,https://www.correios.com.br/,227,0,136
+1623179969336,297,Acessar Correios,200,OK,Acessos 1-1,text,true,,81265,124,5,5,https://www.correios.com.br/,170,0,113
+1623179969160,494,Acessar Correios,200,OK,Acessos 1-29,text,true,,81265,124,4,4,https://www.correios.com.br/,210,0,133
+1623179969256,424,Acessar Correios,200,OK,Acessos 1-8,text,true,,81265,124,3,3,https://www.correios.com.br/,187,0,122
+1623179969433,326,Acessar Correios,200,OK,Acessos 1-18,text,true,,81265,124,2,2,https://www.correios.com.br/,200,0,109
+1623179967846,2007,Acessar Gov,200,OK,Acessos 1-27,text,true,,154162,235,1,1,https://www.gov.br/pt-br,317,0,220
+1623179967846,317,Acessar Gov-0,301,Moved Permanently,Acessos 1-27,,true,,775,115,1,1,https://www.gov.br/,317,0,220
+1623179968164,1689,Acessar Gov-1,200,OK,Acessos 1-27,text,true,,153387,120,1,1,https://www.gov.br/pt-br,66,0,0
+1623179969854,351,Acessar Correios,200,OK,Acessos 1-27,text,true,,81265,124,1,1,https://www.correios.com.br/,199,0,106
+1623180176766,1522,Acessar Google,200,OK,Acessos 1-3,text,true,,15322,119,30,30,https://www.google.com/,1512,0,1408
+1623180177403,898,Acessar Google,200,OK,Acessos 1-24,text,true,,15275,119,30,30,https://www.google.com/,888,0,771
+1623180176823,1469,Acessar Google,200,OK,Acessos 1-6,text,true,,15248,119,30,30,https://www.google.com/,1456,0,1353
+1623180177468,826,Acessar Google,200,OK,Acessos 1-26,text,true,,15304,119,30,30,https://www.google.com/,809,0,707
+1623180176919,1396,Acessar Google,200,OK,Acessos 1-9,text,true,,15264,119,30,30,https://www.google.com/,1385,0,1254
+1623180177184,1132,Acessar Google,200,OK,Acessos 1-17,text,true,,15256,119,30,30,https://www.google.com/,1120,0,992
+1623180176766,1550,Acessar Google,200,OK,Acessos 1-2,text,true,,15265,119,30,30,https://www.google.com/,1543,0,1407
+1623180177271,1048,Acessar Google,200,OK,Acessos 1-20,text,true,,15244,119,30,30,https://www.google.com/,1018,0,909
+1623180177084,1236,Acessar Google,200,OK,Acessos 1-14,text,true,,15248,119,30,30,https://www.google.com/,1218,0,1091
+1623180177149,1174,Acessar Google,200,OK,Acessos 1-16,text,true,,15263,119,30,30,https://www.google.com/,1149,0,1024
+1623180177567,756,Acessar Google,200,OK,Acessos 1-29,text,true,,15357,119,30,30,https://www.google.com/,746,0,605
+1623180177246,1078,Acessar Google,200,OK,Acessos 1-19,text,true,,15265,119,30,30,https://www.google.com/,1049,0,930
+1623180177600,725,Acessar Google,200,OK,Acessos 1-30,text,true,,15266,119,30,30,https://www.google.com/,700,0,572
+1623180177213,1113,Acessar Google,200,OK,Acessos 1-18,text,true,,15250,119,30,30,https://www.google.com/,1100,0,963
+1623180176984,1345,Acessar Google,200,OK,Acessos 1-11,text,true,,15298,119,30,30,https://www.google.com/,1325,0,1195
+1623180176860,1470,Acessar Google,200,OK,Acessos 1-7,text,true,,15292,119,30,30,https://www.google.com/,1425,0,1313
+1623180177436,897,Acessar Google,200,OK,Acessos 1-25,text,true,,15262,119,30,30,https://www.google.com/,894,0,737
+1623180177533,804,Acessar Google,200,OK,Acessos 1-28,text,true,,15226,119,30,30,https://www.google.com/,788,0,641
+1623180176888,1450,Acessar Google,200,OK,Acessos 1-8,text,true,,15298,119,30,30,https://www.google.com/,1389,0,1286
+1623180176767,1574,Acessar Google,200,OK,Acessos 1-4,text,true,,15258,119,30,30,https://www.google.com/,1510,0,1410
+1623180177343,999,Acessar Google,200,OK,Acessos 1-22,text,true,,15281,119,30,30,https://www.google.com/,934,0,832
+1623180177303,1040,Acessar Google,200,OK,Acessos 1-21,text,true,,15284,119,30,30,https://www.google.com/,987,0,872
+1623180176951,1393,Acessar Google,200,OK,Acessos 1-10,text,true,,15276,119,30,30,https://www.google.com/,1343,0,1223
+1623180177050,1295,Acessar Google,200,OK,Acessos 1-13,text,true,,15309,119,30,30,https://www.google.com/,1291,0,1127
+1623180177117,1231,Acessar Google,200,OK,Acessos 1-15,text,true,,15250,119,30,30,https://www.google.com/,1228,0,1059
+1623180177389,1147,Acessar Google,200,OK,Acessos 1-23,text,true,,15260,119,30,30,https://www.google.com/,909,0,782
+1623180176766,1780,Acessar Google,200,OK,Acessos 1-1,text,true,,15306,119,30,30,https://www.google.com/,1532,0,1406
+1623180176789,1764,Acessar Google,200,OK,Acessos 1-5,text,true,,15269,119,30,30,https://www.google.com/,1538,0,1386
+1623180177017,1597,Acessar Google,200,OK,Acessos 1-12,text,true,,15290,119,30,30,https://www.google.com/,1279,0,1158
+1623180177500,1116,Acessar Google,200,OK,Acessos 1-27,text,true,,15292,119,30,30,https://www.google.com/,846,0,675
+1623180178343,621,Acessar Gov,200,OK,Acessos 1-22,text,true,,154163,235,30,30,https://www.gov.br/pt-br,315,0,238
+1623180178343,315,Acessar Gov-0,301,Moved Permanently,Acessos 1-22,,true,,776,115,30,30,https://www.gov.br/,315,0,238
+1623180178659,305,Acessar Gov-1,200,OK,Acessos 1-22,text,true,,153387,120,30,30,https://www.gov.br/pt-br,74,0,0
+1623180178330,696,Acessar Gov,200,OK,Acessos 1-11,text,true,,154162,235,30,30,https://www.gov.br/pt-br,363,0,275
+1623180178330,363,Acessar Gov-0,301,Moved Permanently,Acessos 1-11,,true,,775,115,30,30,https://www.gov.br/,363,0,275
+1623180178694,332,Acessar Gov-1,200,OK,Acessos 1-11,text,true,,153387,120,30,30,https://www.gov.br/pt-br,70,0,0
+1623180178348,714,Acessar Gov,200,OK,Acessos 1-15,text,true,,154162,235,30,30,https://www.gov.br/pt-br,403,0,328
+1623180178348,403,Acessar Gov-0,301,Moved Permanently,Acessos 1-15,,true,,775,115,30,30,https://www.gov.br/,403,0,328
+1623180178751,311,Acessar Gov-1,200,OK,Acessos 1-15,text,true,,153387,120,30,30,https://www.gov.br/pt-br,72,0,0
+1623180178336,744,Acessar Gov,200,OK,Acessos 1-7,text,true,,154163,235,30,30,https://www.gov.br/pt-br,364,0,252
+1623180178336,364,Acessar Gov-0,301,Moved Permanently,Acessos 1-7,,true,,776,115,30,30,https://www.gov.br/,364,0,252
+1623180178700,380,Acessar Gov-1,200,OK,Acessos 1-7,text,true,,153387,120,30,30,https://www.gov.br/pt-br,72,0,0
+1623180178325,790,Acessar Gov,200,OK,Acessos 1-19,text,true,,154163,235,30,30,https://www.gov.br/pt-br,388,0,301
+1623180178325,388,Acessar Gov-0,301,Moved Permanently,Acessos 1-19,,true,,776,115,30,30,https://www.gov.br/,388,0,301
+1623180178713,402,Acessar Gov-1,200,OK,Acessos 1-19,text,true,,153387,120,30,30,https://www.gov.br/pt-br,59,0,0
+1623180178316,803,Acessar Gov,200,OK,Acessos 1-17,text,true,,154162,235,30,30,https://www.gov.br/pt-br,385,0,285
+1623180178316,385,Acessar Gov-0,301,Moved Permanently,Acessos 1-17,,true,,775,115,30,30,https://www.gov.br/,385,0,285
+1623180178701,418,Acessar Gov-1,200,OK,Acessos 1-17,text,true,,153387,120,30,30,https://www.gov.br/pt-br,71,0,0
+1623180178335,789,Acessar Gov,200,OK,Acessos 1-25,text,true,,154162,235,30,30,https://www.gov.br/pt-br,360,0,271
+1623180178335,360,Acessar Gov-0,301,Moved Permanently,Acessos 1-25,,true,,775,115,30,30,https://www.gov.br/,360,0,271
+1623180178695,429,Acessar Gov-1,200,OK,Acessos 1-25,text,true,,153387,120,30,30,https://www.gov.br/pt-br,69,0,0
+1623180178345,784,Acessar Gov,200,OK,Acessos 1-10,text,true,,154161,235,30,30,https://www.gov.br/pt-br,358,0,268
+1623180178345,358,Acessar Gov-0,301,Moved Permanently,Acessos 1-10,,true,,774,115,30,30,https://www.gov.br/,358,0,268
+1623180178704,425,Acessar Gov-1,200,OK,Acessos 1-10,text,true,,153387,120,30,30,https://www.gov.br/pt-br,68,0,0
+1623180178548,593,Acessar Gov,200,OK,Acessos 1-1,text,true,,154162,235,30,30,https://www.gov.br/pt-br,300,0,180
+1623180178548,300,Acessar Gov-0,301,Moved Permanently,Acessos 1-1,,true,,775,115,30,30,https://www.gov.br/,300,0,180
+1623180178848,293,Acessar Gov-1,200,OK,Acessos 1-1,text,true,,153387,120,30,30,https://www.gov.br/pt-br,70,0,0
+1623180178339,834,Acessar Gov,200,OK,Acessos 1-8,text,true,,154162,235,30,30,https://www.gov.br/pt-br,387,0,279
+1623180178339,387,Acessar Gov-0,301,Moved Permanently,Acessos 1-8,,true,,775,115,30,30,https://www.gov.br/,387,0,279
+1623180178727,446,Acessar Gov-1,200,OK,Acessos 1-8,text,true,,153387,120,30,30,https://www.gov.br/pt-br,69,0,0
+1623180178615,586,Acessar Gov,200,OK,Acessos 1-12,text,true,,154162,235,30,30,https://www.gov.br/pt-br,303,0,189
+1623180178615,303,Acessar Gov-0,301,Moved Permanently,Acessos 1-12,,true,,775,115,30,30,https://www.gov.br/,303,0,189
+1623180178919,282,Acessar Gov-1,200,OK,Acessos 1-12,text,true,,153387,120,30,30,https://www.gov.br/pt-br,72,0,0
+1623180178303,908,Acessar Gov,200,OK,Acessos 1-3,text,true,,154163,235,30,30,https://www.gov.br/pt-br,456,0,370
+1623180178303,456,Acessar Gov-0,301,Moved Permanently,Acessos 1-3,,true,,776,115,30,30,https://www.gov.br/,456,0,370
+1623180178759,452,Acessar Gov-1,200,OK,Acessos 1-3,text,true,,153387,120,30,30,https://www.gov.br/pt-br,51,0,0
+1623180178345,869,Acessar Gov,200,OK,Acessos 1-13,text,true,,154162,235,30,30,https://www.gov.br/pt-br,384,0,274
+1623180178345,384,Acessar Gov-0,301,Moved Permanently,Acessos 1-13,,true,,775,115,30,30,https://www.gov.br/,384,0,274
+1623180178734,480,Acessar Gov-1,200,OK,Acessos 1-13,text,true,,153387,120,30,30,https://www.gov.br/pt-br,71,0,0
+1623180178323,891,Acessar Gov,200,OK,Acessos 1-16,text,true,,154162,235,30,30,https://www.gov.br/pt-br,407,0,316
+1623180178323,407,Acessar Gov-0,301,Moved Permanently,Acessos 1-16,,true,,775,115,30,30,https://www.gov.br/,407,0,316
+1623180178730,484,Acessar Gov-1,200,OK,Acessos 1-16,text,true,,153387,120,30,30,https://www.gov.br/pt-br,75,0,0
+1623180178338,880,Acessar Gov,200,OK,Acessos 1-28,text,true,,154163,235,30,30,https://www.gov.br/pt-br,389,0,276
+1623180178338,389,Acessar Gov-0,301,Moved Permanently,Acessos 1-28,,true,,776,115,30,30,https://www.gov.br/,389,0,276
+1623180178727,491,Acessar Gov-1,200,OK,Acessos 1-28,text,true,,153387,120,30,30,https://www.gov.br/pt-br,77,0,0
+1623180178342,878,Acessar Gov,200,OK,Acessos 1-4,text,true,,154163,235,30,30,https://www.gov.br/pt-br,354,0,240
+1623180178342,354,Acessar Gov-0,301,Moved Permanently,Acessos 1-4,,true,,776,115,30,30,https://www.gov.br/,354,0,240
+1623180178696,524,Acessar Gov-1,200,OK,Acessos 1-4,text,true,,153387,120,30,30,https://www.gov.br/pt-br,68,0,0
+1623180178345,875,Acessar Gov,200,OK,Acessos 1-24,text,true,,154163,235,30,30,https://www.gov.br/pt-br,417,0,335
+1623180178345,417,Acessar Gov-0,301,Moved Permanently,Acessos 1-24,,true,,776,115,30,30,https://www.gov.br/,417,0,335
+1623180178762,458,Acessar Gov-1,200,OK,Acessos 1-24,text,true,,153387,120,30,30,https://www.gov.br/pt-br,52,0,0
+1623180178343,882,Acessar Gov,200,OK,Acessos 1-21,text,true,,154163,235,30,30,https://www.gov.br/pt-br,405,0,329
+1623180178343,405,Acessar Gov-0,301,Moved Permanently,Acessos 1-21,,true,,776,115,30,30,https://www.gov.br/,405,0,329
+1623180178748,477,Acessar Gov-1,200,OK,Acessos 1-21,text,true,,153387,120,30,30,https://www.gov.br/pt-br,67,0,0
+1623180178317,909,Acessar Gov,200,OK,Acessos 1-2,text,true,,154162,235,30,30,https://www.gov.br/pt-br,436,0,349
+1623180178317,436,Acessar Gov-0,301,Moved Permanently,Acessos 1-2,,true,,775,115,30,30,https://www.gov.br/,436,0,349
+1623180178753,473,Acessar Gov-1,200,OK,Acessos 1-2,text,true,,153387,120,30,30,https://www.gov.br/pt-br,81,0,0
+1623180178554,691,Acessar Gov,200,OK,Acessos 1-5,text,true,,154163,235,30,30,https://www.gov.br/pt-br,268,0,174
+1623180178554,268,Acessar Gov-0,301,Moved Permanently,Acessos 1-5,,true,,776,115,30,30,https://www.gov.br/,268,0,174
+1623180178822,423,Acessar Gov-1,200,OK,Acessos 1-5,text,true,,153387,120,30,30,https://www.gov.br/pt-br,68,0,0
+1623180178320,941,Acessar Gov,200,OK,Acessos 1-20,text,true,,154163,235,30,30,https://www.gov.br/pt-br,436,0,341
+1623180178320,436,Acessar Gov-0,301,Moved Permanently,Acessos 1-20,,true,,776,115,30,30,https://www.gov.br/,436,0,341
+1623180178756,505,Acessar Gov-1,200,OK,Acessos 1-20,text,true,,153387,120,30,30,https://www.gov.br/pt-br,83,0,0
+1623180178321,943,Acessar Gov,200,OK,Acessos 1-14,text,true,,154163,235,30,30,https://www.gov.br/pt-br,429,0,336
+1623180178321,429,Acessar Gov-0,301,Moved Permanently,Acessos 1-14,,true,,776,115,30,30,https://www.gov.br/,429,0,336
+1623180178751,513,Acessar Gov-1,200,OK,Acessos 1-14,text,true,,153387,120,30,30,https://www.gov.br/pt-br,51,0,0
+1623180178342,985,Acessar Gov,200,OK,Acessos 1-6,text,true,,154162,235,30,30,https://www.gov.br/pt-br,350,0,239
+1623180178342,350,Acessar Gov-0,301,Moved Permanently,Acessos 1-6,,true,,775,115,30,30,https://www.gov.br/,350,0,239
+1623180178692,635,Acessar Gov-1,200,OK,Acessos 1-6,text,true,,153387,120,30,30,https://www.gov.br/pt-br,52,0,0
+1623180178965,371,Acessar Correios,200,OK,Acessos 1-22,text,true,,81265,124,30,30,https://www.correios.com.br/,223,0,157
+1623180178316,1052,Acessar Gov,200,OK,Acessos 1-9,text,true,,154163,235,29,29,https://www.gov.br/pt-br,399,0,314
+1623180178316,399,Acessar Gov-0,301,Moved Permanently,Acessos 1-9,,true,,776,115,29,29,https://www.gov.br/,399,0,314
+1623180178715,653,Acessar Gov-1,200,OK,Acessos 1-9,text,true,,153387,120,29,29,https://www.gov.br/pt-br,75,0,0
+1623180178324,1068,Acessar Gov,200,OK,Acessos 1-29,text,true,,154163,235,29,29,https://www.gov.br/pt-br,438,0,333
+1623180178324,438,Acessar Gov-0,301,Moved Permanently,Acessos 1-29,,true,,776,115,29,29,https://www.gov.br/,438,0,333
+1623180178763,629,Acessar Gov-1,200,OK,Acessos 1-29,text,true,,153387,120,29,29,https://www.gov.br/pt-br,86,0,0
+1623180179063,347,Acessar Correios,200,OK,Acessos 1-15,text,true,,81265,124,29,29,https://www.correios.com.br/,204,0,117
+1623180179081,368,Acessar Correios,200,OK,Acessos 1-7,text,true,,81265,124,28,28,https://www.correios.com.br/,204,0,130
+1623180179120,338,Acessar Correios,200,OK,Acessos 1-17,text,true,,81265,124,27,27,https://www.correios.com.br/,176,0,111
+1623180179126,342,Acessar Correios,200,OK,Acessos 1-25,text,true,,81265,124,26,26,https://www.correios.com.br/,205,0,137
+1623180179116,352,Acessar Correios,200,OK,Acessos 1-19,text,true,,81265,124,26,26,https://www.correios.com.br/,209,0,116
+1623180179130,341,Acessar Correios,200,OK,Acessos 1-10,text,true,,81265,124,24,24,https://www.correios.com.br/,196,0,136
+1623180179142,339,Acessar Correios,200,OK,Acessos 1-1,text,true,,81265,124,23,23,https://www.correios.com.br/,204,0,122
+1623180179215,337,Acessar Correios,200,OK,Acessos 1-13,text,true,,81265,124,22,22,https://www.correios.com.br/,198,0,118
+1623180179202,352,Acessar Correios,200,OK,Acessos 1-12,text,true,,81265,124,21,21,https://www.correios.com.br/,184,0,123
+1623180178617,952,Acessar Gov,200,OK,Acessos 1-27,text,true,,154163,235,20,20,https://www.gov.br/pt-br,302,0,181
+1623180178617,302,Acessar Gov-0,301,Moved Permanently,Acessos 1-27,,true,,776,115,20,20,https://www.gov.br/,302,0,181
+1623180178919,650,Acessar Gov-1,200,OK,Acessos 1-27,text,true,,153387,120,20,20,https://www.gov.br/pt-br,65,0,0
+1623180179223,370,Acessar Correios,200,OK,Acessos 1-24,text,true,,81265,124,20,20,https://www.correios.com.br/,202,0,122
+1623180179249,373,Acessar Correios,200,OK,Acessos 1-5,text,true,,81265,124,19,19,https://www.correios.com.br/,185,0,111
+1623180179262,373,Acessar Correios,200,OK,Acessos 1-20,text,true,,81265,124,18,18,https://www.correios.com.br/,188,0,120
+1623180178537,1115,Acessar Gov,200,OK,Acessos 1-23,text,true,,154163,235,17,17,https://www.gov.br/pt-br,313,0,192
+1623180178537,313,Acessar Gov-0,301,Moved Permanently,Acessos 1-23,,true,,776,115,17,17,https://www.gov.br/,313,0,192
+1623180178850,802,Acessar Gov-1,200,OK,Acessos 1-23,text,true,,153387,120,17,17,https://www.gov.br/pt-br,88,0,0
+1623180179226,434,Acessar Correios,200,OK,Acessos 1-2,text,true,,81265,124,17,17,https://www.correios.com.br/,201,0,121
+1623180179174,504,Acessar Correios,200,OK,Acessos 1-8,text,true,,81265,124,16,16,https://www.correios.com.br/,175,0,123
+1623180179215,468,Acessar Correios,200,OK,Acessos 1-16,text,true,,81265,124,15,15,https://www.correios.com.br/,207,0,129
+1623180179226,461,Acessar Correios,200,OK,Acessos 1-21,text,true,,81265,124,14,14,https://www.correios.com.br/,187,0,119
+1623180179027,678,Acessar Correios,200,OK,Acessos 1-11,text,true,,81265,124,13,13,https://www.correios.com.br/,213,0,137
+1623180179212,520,Acessar Correios,200,OK,Acessos 1-3,text,true,,81265,124,12,12,https://www.correios.com.br/,205,0,119
+1623180179369,365,Acessar Correios,200,OK,Acessos 1-9,text,true,,81265,124,11,11,https://www.correios.com.br/,198,0,119
+1623180179265,476,Acessar Correios,200,OK,Acessos 1-14,text,true,,81265,124,10,10,https://www.correios.com.br/,188,0,113
+1623180179221,614,Acessar Correios,200,OK,Acessos 1-4,text,true,,81265,124,9,9,https://www.correios.com.br/,202,0,126
+1623180179327,535,Acessar Correios,200,OK,Acessos 1-6,text,true,,81265,124,8,8,https://www.correios.com.br/,194,0,120
+1623180179570,314,Acessar Correios,200,OK,Acessos 1-27,text,true,,81265,124,7,7,https://www.correios.com.br/,188,0,121
+1623180179392,517,Acessar Correios,200,OK,Acessos 1-29,text,true,,81265,124,6,6,https://www.correios.com.br/,177,0,116
+1623180179219,697,Acessar Correios,200,OK,Acessos 1-28,text,true,,81265,124,5,5,https://www.correios.com.br/,185,0,126
+1623180179653,303,Acessar Correios,200,OK,Acessos 1-23,text,true,,81265,124,4,4,https://www.correios.com.br/,188,0,113
+1623180178340,2050,Acessar Gov,200,OK,Acessos 1-26,text,true,,154162,235,3,3,https://www.gov.br/pt-br,350,0,240
+1623180178340,350,Acessar Gov-0,301,Moved Permanently,Acessos 1-26,,true,,775,115,3,3,https://www.gov.br/,350,0,240
+1623180178691,1699,Acessar Gov-1,200,OK,Acessos 1-26,text,true,,153387,120,3,3,https://www.gov.br/pt-br,53,0,0
+1623180178326,2379,Acessar Gov,200,OK,Acessos 1-30,text,true,,154162,235,3,3,https://www.gov.br/pt-br,434,0,347
+1623180178326,434,Acessar Gov-0,301,Moved Permanently,Acessos 1-30,,true,,775,115,3,3,https://www.gov.br/,434,0,347
+1623180178760,1945,Acessar Gov-1,200,OK,Acessos 1-30,text,true,,153387,120,3,3,https://www.gov.br/pt-br,51,0,0
+1623180180394,338,Acessar Correios,200,OK,Acessos 1-26,text,true,,81265,124,3,3,https://www.correios.com.br/,203,0,111
+1623180178326,2474,Acessar Gov,200,OK,Acessos 1-18,text,true,,154162,235,2,2,https://www.gov.br/pt-br,388,0,295
+1623180178326,388,Acessar Gov-0,301,Moved Permanently,Acessos 1-18,,true,,775,115,2,2,https://www.gov.br/,388,0,295
+1623180178714,2086,Acessar Gov-1,200,OK,Acessos 1-18,text,true,,153387,120,2,2,https://www.gov.br/pt-br,60,0,0
+1623180180707,317,Acessar Correios,200,OK,Acessos 1-30,text,true,,81265,124,2,2,https://www.correios.com.br/,185,0,113
+1623180180801,350,Acessar Correios,200,OK,Acessos 1-18,text,true,,81265,124,1,1,https://www.correios.com.br/,195,0,113
+1623180473595,1108,Acessar Google,200,OK,Acessos 1-20,text,true,,15289,119,30,30,https://www.google.com/,1099,0,994
+1623180473882,850,Acessar Google,200,OK,Acessos 1-29,text,true,,15227,119,30,30,https://www.google.com/,848,0,705
+1623180473084,1649,Acessar Google,200,OK,Acessos 1-1,text,true,,15250,119,30,30,https://www.google.com/,1634,0,1509
+1623180473463,1272,Acessar Google,200,OK,Acessos 1-16,text,true,,15306,119,30,30,https://www.google.com/,1252,0,1125
+1623180473815,921,Acessar Google,200,OK,Acessos 1-27,text,true,,15262,119,30,30,https://www.google.com/,899,0,778
+1623180473085,1652,Acessar Google,200,OK,Acessos 1-4,text,true,,15252,119,30,30,https://www.google.com/,1631,0,1504
+1623180473562,1175,Acessar Google,200,OK,Acessos 1-19,text,true,,16027,119,30,30,https://www.google.com/,1134,0,1025
+1623180473430,1310,Acessar Google,200,OK,Acessos 1-15,text,true,,15225,119,30,30,https://www.google.com/,1308,0,1161
+1623180473496,1247,Acessar Google,200,OK,Acessos 1-17,text,true,,15224,119,30,30,https://www.google.com/,1227,0,1094
+1623180473298,1445,Acessar Google,200,OK,Acessos 1-11,text,true,,15259,119,30,30,https://www.google.com/,1444,0,1290
+1623180473915,829,Acessar Google,200,OK,Acessos 1-30,text,true,,15223,119,30,30,https://www.google.com/,802,0,673
+1623180473530,1216,Acessar Google,200,OK,Acessos 1-18,text,true,,15261,119,30,30,https://www.google.com/,1200,0,1060
+1623180473397,1350,Acessar Google,200,OK,Acessos 1-14,text,true,,15232,119,30,30,https://www.google.com/,1320,0,1198
+1623180473786,943,Acessar Google,200,OK,Acessos 1-26,text,true,,15229,119,30,30,https://www.google.com/,926,0,804
+1623180473084,1665,Acessar Google,200,OK,Acessos 1-3,text,true,,15197,119,30,30,https://www.google.com/,1645,0,1508
+1623180473664,1090,Acessar Google,200,OK,Acessos 1-22,text,true,,15230,119,30,30,https://www.google.com/,1031,0,925
+1623180473696,1033,Acessar Google,200,OK,Acessos 1-23,text,true,,15287,119,30,30,https://www.google.com/,1000,0,893
+1623180473166,1561,Acessar Google,200,OK,Acessos 1-7,text,true,,15238,119,30,30,https://www.google.com/,1550,0,1425
+1623180473264,1496,Acessar Google,200,OK,Acessos 1-10,text,true,,15316,119,30,30,https://www.google.com/,1431,0,1327
+1623180473366,1360,Acessar Google,200,OK,Acessos 1-13,text,true,,15256,119,30,30,https://www.google.com/,1352,0,1222
+1623180473756,969,Acessar Google,200,OK,Acessos 1-25,text,true,,15260,119,30,30,https://www.google.com/,968,0,837
+1623180473133,1591,Acessar Google,200,OK,Acessos 1-6,text,true,,15268,119,30,30,https://www.google.com/,1589,0,1458
+1623180473849,872,Acessar Google,200,OK,Acessos 1-28,text,true,,15189,119,30,30,https://www.google.com/,871,0,739
+1623180473201,1505,Acessar Google,200,OK,Acessos 1-8,text,true,,15214,119,30,30,https://www.google.com/,1499,0,1391
+1623180473628,1087,Acessar Google,200,OK,Acessos 1-21,text,true,,15243,119,30,30,https://www.google.com/,1085,0,963
+1623180473084,1629,Acessar Google,200,OK,Acessos 1-2,text,true,,15237,119,30,30,https://www.google.com/,1612,0,1507
+1623180473103,1609,Acessar Google,200,OK,Acessos 1-5,text,true,,15226,119,30,30,https://www.google.com/,1591,0,1489
+1623180473331,1380,Acessar Google,200,OK,Acessos 1-12,text,true,,15239,119,30,30,https://www.google.com/,1376,0,1259
+1623180473232,1696,Acessar Google,200,OK,Acessos 1-9,text,true,,15207,119,30,30,https://www.google.com/,1490,0,1356
+1623180473741,1248,Acessar Google,200,OK,Acessos 1-24,text,true,,15196,119,30,30,https://www.google.com/,983,0,852
+1623180474776,627,Acessar Gov,200,OK,Acessos 1-12,text,true,,154162,235,30,30,https://www.gov.br/pt-br,362,0,264
+1623180474776,362,Acessar Gov-0,301,Moved Permanently,Acessos 1-12,,true,,775,115,30,30,https://www.gov.br/,362,0,264
+1623180475138,265,Acessar Gov-1,200,OK,Acessos 1-12,text,true,,153387,120,30,30,https://www.gov.br/pt-br,76,0,0
+1623180474774,658,Acessar Gov,200,OK,Acessos 1-5,text,true,,154163,235,30,30,https://www.gov.br/pt-br,345,0,261
+1623180474774,345,Acessar Gov-0,301,Moved Permanently,Acessos 1-5,,true,,776,115,30,30,https://www.gov.br/,345,0,261
+1623180475119,313,Acessar Gov-1,200,OK,Acessos 1-5,text,true,,153387,120,30,30,https://www.gov.br/pt-br,75,0,0
+1623180474765,749,Acessar Gov,200,OK,Acessos 1-25,text,true,,154163,235,30,30,https://www.gov.br/pt-br,298,0,193
+1623180474765,298,Acessar Gov-0,301,Moved Permanently,Acessos 1-25,,true,,776,115,30,30,https://www.gov.br/,298,0,193
+1623180475064,450,Acessar Gov-1,200,OK,Acessos 1-25,text,true,,153387,120,30,30,https://www.gov.br/pt-br,73,0,0
+1623180474990,530,Acessar Gov,200,OK,Acessos 1-24,text,true,,154163,235,30,30,https://www.gov.br/pt-br,263,0,178
+1623180474990,263,Acessar Gov-0,301,Moved Permanently,Acessos 1-24,,true,,776,115,30,30,https://www.gov.br/,263,0,178
+1623180475253,267,Acessar Gov-1,200,OK,Acessos 1-24,text,true,,153387,120,30,30,https://www.gov.br/pt-br,69,0,0
+1623180474755,789,Acessar Gov,200,OK,Acessos 1-22,text,true,,154163,235,30,30,https://www.gov.br/pt-br,468,0,373
+1623180474755,468,Acessar Gov-0,301,Moved Permanently,Acessos 1-22,,true,,776,115,30,30,https://www.gov.br/,468,0,373
+1623180475224,320,Acessar Gov-1,200,OK,Acessos 1-22,text,true,,153387,120,30,30,https://www.gov.br/pt-br,71,0,0
+1623180474758,795,Acessar Gov,200,OK,Acessos 1-1,text,true,,154162,235,30,30,https://www.gov.br/pt-br,552,0,446
+1623180474758,552,Acessar Gov-0,301,Moved Permanently,Acessos 1-1,,true,,775,115,30,30,https://www.gov.br/,552,0,446
+1623180475310,243,Acessar Gov-1,200,OK,Acessos 1-1,text,true,,153387,120,30,30,https://www.gov.br/pt-br,49,0,0
+1623180474746,853,Acessar Gov,200,OK,Acessos 1-18,text,true,,154163,235,30,30,https://www.gov.br/pt-br,595,0,495
+1623180474746,595,Acessar Gov-0,301,Moved Permanently,Acessos 1-18,,true,,776,115,30,30,https://www.gov.br/,595,0,495
+1623180475341,258,Acessar Gov-1,200,OK,Acessos 1-18,text,true,,153387,120,30,30,https://www.gov.br/pt-br,62,0,0
+1623180474759,842,Acessar Gov,200,OK,Acessos 1-7,text,true,,154163,235,30,30,https://www.gov.br/pt-br,568,0,464
+1623180474759,568,Acessar Gov-0,301,Moved Permanently,Acessos 1-7,,true,,776,115,30,30,https://www.gov.br/,568,0,464
+1623180475327,274,Acessar Gov-1,200,OK,Acessos 1-7,text,true,,153387,120,30,30,https://www.gov.br/pt-br,71,0,0
+1623180474749,858,Acessar Gov,200,OK,Acessos 1-26,text,true,,154162,235,30,30,https://www.gov.br/pt-br,602,0,505
+1623180474749,602,Acessar Gov-0,301,Moved Permanently,Acessos 1-26,,true,,775,115,30,30,https://www.gov.br/,602,0,505
+1623180475351,256,Acessar Gov-1,200,OK,Acessos 1-26,text,true,,153387,120,30,30,https://www.gov.br/pt-br,63,0,0
+1623180474736,903,Acessar Gov,200,OK,Acessos 1-16,text,true,,154163,235,30,30,https://www.gov.br/pt-br,380,0,274
+1623180474736,380,Acessar Gov-0,301,Moved Permanently,Acessos 1-16,,true,,776,115,30,30,https://www.gov.br/,380,0,274
+1623180475118,521,Acessar Gov-1,200,OK,Acessos 1-16,text,true,,153387,120,30,30,https://www.gov.br/pt-br,69,0,0
+1623180474762,924,Acessar Gov,200,OK,Acessos 1-13,text,true,,154163,235,30,30,https://www.gov.br/pt-br,646,0,554
+1623180474762,646,Acessar Gov-0,301,Moved Permanently,Acessos 1-13,,true,,776,115,30,30,https://www.gov.br/,646,0,554
+1623180475408,278,Acessar Gov-1,200,OK,Acessos 1-13,text,true,,153387,120,30,30,https://www.gov.br/pt-br,76,0,0
+1623180474751,1026,Acessar Gov,200,OK,Acessos 1-30,text,true,,154162,235,30,30,https://www.gov.br/pt-br,380,0,283
+1623180474751,380,Acessar Gov-0,301,Moved Permanently,Acessos 1-30,,true,,775,115,30,30,https://www.gov.br/,380,0,283
+1623180475131,646,Acessar Gov-1,200,OK,Acessos 1-30,text,true,,153387,120,30,30,https://www.gov.br/pt-br,70,0,0
+1623180475404,380,Acessar Correios,200,OK,Acessos 1-12,text,true,,81265,124,30,30,https://www.correios.com.br/,220,0,147
+1623180474736,1049,Acessar Gov,200,OK,Acessos 1-27,text,true,,154163,235,30,30,https://www.gov.br/pt-br,310,0,214
+1623180474736,310,Acessar Gov-0,301,Moved Permanently,Acessos 1-27,,true,,776,115,30,30,https://www.gov.br/,310,0,214
+1623180475048,737,Acessar Gov-1,200,OK,Acessos 1-27,text,true,,153387,120,30,30,https://www.gov.br/pt-br,54,0,0
+1623180474757,1040,Acessar Gov,200,OK,Acessos 1-23,text,true,,154163,235,29,29,https://www.gov.br/pt-br,499,0,413
+1623180474757,499,Acessar Gov-0,301,Moved Permanently,Acessos 1-23,,true,,776,115,29,29,https://www.gov.br/,499,0,413
+1623180475256,541,Acessar Gov-1,200,OK,Acessos 1-23,text,true,,153387,120,29,29,https://www.gov.br/pt-br,65,0,0
+1623180475432,369,Acessar Correios,200,OK,Acessos 1-5,text,true,,81265,124,29,29,https://www.correios.com.br/,202,0,124
+1623180474765,1047,Acessar Gov,200,OK,Acessos 1-6,text,true,,154163,235,28,28,https://www.gov.br/pt-br,300,0,189
+1623180474765,300,Acessar Gov-0,301,Moved Permanently,Acessos 1-6,,true,,776,115,28,28,https://www.gov.br/,300,0,189
+1623180475065,747,Acessar Gov-1,200,OK,Acessos 1-6,text,true,,153387,120,28,28,https://www.gov.br/pt-br,76,0,0
+1623180475517,321,Acessar Correios,200,OK,Acessos 1-25,text,true,,81265,124,28,28,https://www.correios.com.br/,180,0,118
+1623180475605,320,Acessar Correios,200,OK,Acessos 1-7,text,true,,81265,124,27,27,https://www.correios.com.br/,186,0,113
+1623180474929,997,Acessar Gov,200,OK,Acessos 1-9,text,true,,154163,235,27,27,https://www.gov.br/pt-br,290,0,192
+1623180474929,290,Acessar Gov-0,301,Moved Permanently,Acessos 1-9,,true,,776,115,27,27,https://www.gov.br/,290,0,192
+1623180475219,707,Acessar Gov-1,200,OK,Acessos 1-9,text,true,,153387,120,27,27,https://www.gov.br/pt-br,62,0,0
+1623180474749,1212,Acessar Gov,200,OK,Acessos 1-17,text,true,,154163,235,26,26,https://www.gov.br/pt-br,348,0,250
+1623180474749,348,Acessar Gov-0,301,Moved Permanently,Acessos 1-17,,true,,776,115,26,26,https://www.gov.br/,348,0,250
+1623180475097,864,Acessar Gov-1,200,OK,Acessos 1-17,text,true,,153387,120,26,26,https://www.gov.br/pt-br,55,0,0
+1623180475602,367,Acessar Correios,200,OK,Acessos 1-18,text,true,,81265,124,26,26,https://www.correios.com.br/,189,0,111
+1623180474748,1232,Acessar Gov,200,OK,Acessos 1-14,text,true,,154162,235,25,25,https://www.gov.br/pt-br,640,0,547
+1623180474748,640,Acessar Gov-0,301,Moved Permanently,Acessos 1-14,,true,,775,115,25,25,https://www.gov.br/,640,0,547
+1623180475388,592,Acessar Gov-1,200,OK,Acessos 1-14,text,true,,153387,120,25,25,https://www.gov.br/pt-br,53,0,0
+1623180474761,1269,Acessar Gov,200,OK,Acessos 1-10,text,true,,154163,235,25,25,https://www.gov.br/pt-br,565,0,461
+1623180474761,565,Acessar Gov-0,301,Moved Permanently,Acessos 1-10,,true,,776,115,25,25,https://www.gov.br/,565,0,461
+1623180475326,704,Acessar Gov-1,200,OK,Acessos 1-10,text,true,,153387,120,25,25,https://www.gov.br/pt-br,63,0,0
+1623180474772,1289,Acessar Gov,200,OK,Acessos 1-21,text,true,,154163,235,25,25,https://www.gov.br/pt-br,398,0,300
+1623180474772,398,Acessar Gov-0,301,Moved Permanently,Acessos 1-21,,true,,776,115,25,25,https://www.gov.br/,398,0,300
+1623180475171,890,Acessar Gov-1,200,OK,Acessos 1-21,text,true,,153387,120,25,25,https://www.gov.br/pt-br,70,0,0
+1623180474738,1365,Acessar Gov,200,OK,Acessos 1-19,text,true,,154163,235,25,25,https://www.gov.br/pt-br,378,0,273
+1623180474738,378,Acessar Gov-0,301,Moved Permanently,Acessos 1-19,,true,,776,115,25,25,https://www.gov.br/,378,0,273
+1623180475118,985,Acessar Gov-1,200,OK,Acessos 1-19,text,true,,153387,120,25,25,https://www.gov.br/pt-br,65,0,0
+1623180475545,563,Acessar Correios,200,OK,Acessos 1-22,text,true,,81265,124,25,25,https://www.correios.com.br/,225,0,142
+1623180475650,481,Acessar Correios,200,OK,Acessos 1-16,text,true,,81265,124,24,24,https://www.correios.com.br/,202,0,112
+1623180475778,366,Acessar Correios,200,OK,Acessos 1-30,text,true,,81265,124,23,23,https://www.correios.com.br/,192,0,118
+1623180475608,537,Acessar Correios,200,OK,Acessos 1-26,text,true,,81265,124,23,23,https://www.correios.com.br/,183,0,112
+1623180475554,601,Acessar Correios,200,OK,Acessos 1-1,text,true,,81265,124,21,21,https://www.correios.com.br/,204,0,125
+1623180474767,1395,Acessar Gov,200,OK,Acessos 1-28,text,true,,154162,235,20,20,https://www.gov.br/pt-br,322,0,228
+1623180474767,322,Acessar Gov-0,301,Moved Permanently,Acessos 1-28,,true,,775,115,20,20,https://www.gov.br/,322,0,228
+1623180475089,1073,Acessar Gov-1,200,OK,Acessos 1-28,text,true,,153387,120,20,20,https://www.gov.br/pt-br,75,0,0
+1623180475686,477,Acessar Correios,200,OK,Acessos 1-13,text,true,,81265,124,20,20,https://www.correios.com.br/,207,0,119
+1623180475798,366,Acessar Correios,200,OK,Acessos 1-23,text,true,,81265,124,20,20,https://www.correios.com.br/,177,0,115
+1623180474774,1404,Acessar Gov,200,OK,Acessos 1-2,text,true,,154163,235,18,18,https://www.gov.br/pt-br,479,0,381
+1623180474774,479,Acessar Gov-0,301,Moved Permanently,Acessos 1-2,,true,,776,115,18,18,https://www.gov.br/,479,0,381
+1623180475253,925,Acessar Gov-1,200,OK,Acessos 1-2,text,true,,153387,120,18,18,https://www.gov.br/pt-br,70,0,0
+1623180475521,669,Acessar Correios,200,OK,Acessos 1-24,text,true,,81265,124,18,18,https://www.correios.com.br/,222,0,129
+1623180475813,403,Acessar Correios,200,OK,Acessos 1-6,text,true,,81265,124,17,17,https://www.correios.com.br/,217,0,124
+1623180474752,1486,Acessar Gov,200,OK,Acessos 1-3,text,true,,154163,235,16,16,https://www.gov.br/pt-br,500,0,401
+1623180474752,500,Acessar Gov-0,301,Moved Permanently,Acessos 1-3,,true,,776,115,16,16,https://www.gov.br/,500,0,401
+1623180475252,986,Acessar Gov-1,200,OK,Acessos 1-3,text,true,,153387,120,16,16,https://www.gov.br/pt-br,58,0,0
+1623180474744,1523,Acessar Gov,200,OK,Acessos 1-11,text,true,,154163,235,16,16,https://www.gov.br/pt-br,650,0,551
+1623180474744,650,Acessar Gov-0,301,Moved Permanently,Acessos 1-11,,true,,776,115,16,16,https://www.gov.br/,650,0,551
+1623180475394,873,Acessar Gov-1,200,OK,Acessos 1-11,text,true,,153387,120,16,16,https://www.gov.br/pt-br,65,0,0
+1623180474741,1565,Acessar Gov,200,OK,Acessos 1-15,text,true,,154162,235,16,16,https://www.gov.br/pt-br,338,0,274
+1623180474741,338,Acessar Gov-0,301,Moved Permanently,Acessos 1-15,,true,,775,115,16,16,https://www.gov.br/,338,0,274
+1623180475079,1227,Acessar Gov-1,200,OK,Acessos 1-15,text,true,,153387,120,16,16,https://www.gov.br/pt-br,68,0,0
+1623180475928,383,Acessar Correios,200,OK,Acessos 1-9,text,true,,81265,124,16,16,https://www.correios.com.br/,248,0,143
+1623180475786,546,Acessar Correios,200,OK,Acessos 1-27,text,true,,81265,124,15,15,https://www.correios.com.br/,196,0,123
+1623180475981,381,Acessar Correios,200,OK,Acessos 1-14,text,true,,81265,124,14,14,https://www.correios.com.br/,218,0,137
+1623180476062,315,Acessar Correios,200,OK,Acessos 1-21,text,true,,81265,124,13,13,https://www.correios.com.br/,191,0,115
+1623180474770,1624,Acessar Gov,200,OK,Acessos 1-8,text,true,,154163,235,12,12,https://www.gov.br/pt-br,629,0,543
+1623180474770,629,Acessar Gov-0,301,Moved Permanently,Acessos 1-8,,true,,776,115,12,12,https://www.gov.br/,629,0,543
+1623180475399,995,Acessar Gov-1,200,OK,Acessos 1-8,text,true,,153387,120,12,12,https://www.gov.br/pt-br,64,0,0
+1623180474756,1659,Acessar Gov,200,OK,Acessos 1-20,text,true,,154163,235,12,12,https://www.gov.br/pt-br,412,0,315
+1623180474756,412,Acessar Gov-0,301,Moved Permanently,Acessos 1-20,,true,,776,115,12,12,https://www.gov.br/,412,0,315
+1623180475169,1246,Acessar Gov-1,200,OK,Acessos 1-20,text,true,,153387,120,12,12,https://www.gov.br/pt-br,61,0,0
+1623180476031,390,Acessar Correios,200,OK,Acessos 1-10,text,true,,81265,124,12,12,https://www.correios.com.br/,235,0,147
+1623180476104,326,Acessar Correios,200,OK,Acessos 1-19,text,true,,81265,124,11,11,https://www.correios.com.br/,198,0,124
+1623180476179,329,Acessar Correios,200,OK,Acessos 1-2,text,true,,81265,124,10,10,https://www.correios.com.br/,194,0,110
+1623180474738,1770,Acessar Gov,200,OK,Acessos 1-4,text,true,,154163,235,10,10,https://www.gov.br/pt-br,609,0,517
+1623180474738,609,Acessar Gov-0,301,Moved Permanently,Acessos 1-4,,true,,776,115,10,10,https://www.gov.br/,609,0,517
+1623180475347,1161,Acessar Gov-1,200,OK,Acessos 1-4,text,true,,153387,120,10,10,https://www.gov.br/pt-br,70,0,0
+1623180475965,555,Acessar Correios,200,OK,Acessos 1-17,text,true,,81265,124,9,9,https://www.correios.com.br/,223,0,152
+1623180476163,409,Acessar Correios,200,OK,Acessos 1-28,text,true,,81265,124,8,8,https://www.correios.com.br/,199,0,121
+1623180476307,307,Acessar Correios,200,OK,Acessos 1-15,text,true,,81265,124,7,7,https://www.correios.com.br/,182,0,111
+1623180476239,385,Acessar Correios,200,OK,Acessos 1-3,text,true,,81265,124,6,6,https://www.correios.com.br/,181,0,117
+1623180476416,300,Acessar Correios,200,OK,Acessos 1-20,text,true,,81265,124,5,5,https://www.correios.com.br/,176,0,112
+1623180476269,453,Acessar Correios,200,OK,Acessos 1-11,text,true,,81265,124,4,4,https://www.correios.com.br/,180,0,110
+1623180474759,1973,Acessar Gov,200,OK,Acessos 1-29,text,true,,154163,235,3,3,https://www.gov.br/pt-br,666,0,557
+1623180474759,666,Acessar Gov-0,301,Moved Permanently,Acessos 1-29,,true,,776,115,3,3,https://www.gov.br/,666,0,557
+1623180475425,1307,Acessar Gov-1,200,OK,Acessos 1-29,text,true,,153387,120,3,3,https://www.gov.br/pt-br,61,0,0
+1623180476395,344,Acessar Correios,200,OK,Acessos 1-8,text,true,,81265,124,3,3,https://www.correios.com.br/,184,0,115
+1623180476508,309,Acessar Correios,200,OK,Acessos 1-4,text,true,,81265,124,2,2,https://www.correios.com.br/,187,0,107
+1623180476733,496,Acessar Correios,200,OK,Acessos 1-29,text,true,,81265,124,1,1,https://www.correios.com.br/,168,0,108
+1623180959587,1070,Acessar Google,200,OK,Acessos 1-20,text,true,,15235,119,30,30,https://www.google.com/,1062,0,954
+1623180959915,755,Acessar Google,200,OK,Acessos 1-30,text,true,,15256,119,30,30,https://www.google.com/,754,0,629
+1623180959753,918,Acessar Google,200,OK,Acessos 1-25,text,true,,15230,119,30,30,https://www.google.com/,895,0,788
+1623180959064,1609,Acessar Google,200,OK,Acessos 1-2,text,true,,15273,119,30,30,https://www.google.com/,1590,0,1475
+1623180959785,891,Acessar Google,200,OK,Acessos 1-26,text,true,,15290,119,30,30,https://www.google.com/,889,0,758
+1623180959657,1020,Acessar Google,200,OK,Acessos 1-22,text,true,,15236,119,30,30,https://www.google.com/,1019,0,890
+1623180959621,1058,Acessar Google,200,OK,Acessos 1-21,text,true,,15249,119,30,30,https://www.google.com/,1056,0,926
+1623180959070,1597,Acessar Google,200,OK,Acessos 1-4,text,true,,15225,119,30,30,https://www.google.com/,1579,0,1475
+1623180959523,1148,Acessar Google,200,OK,Acessos 1-18,text,true,,15202,119,30,30,https://www.google.com/,1146,0,1021
+1623180959884,785,Acessar Google,200,OK,Acessos 1-29,text,true,,15230,119,30,30,https://www.google.com/,765,0,658
+1623180959064,1618,Acessar Google,200,OK,Acessos 1-1,text,true,,15267,119,30,30,https://www.google.com/,1616,0,1478
+1623180959330,1352,Acessar Google,200,OK,Acessos 1-12,text,true,,15267,119,30,30,https://www.google.com/,1344,0,1215
+1623180959726,939,Acessar Google,200,OK,Acessos 1-23,text,true,,15254,119,30,30,https://www.google.com/,919,0,815
+1623180959229,1453,Acessar Google,200,OK,Acessos 1-9,text,true,,15280,119,30,30,https://www.google.com/,1445,0,1309
+1623180959734,949,Acessar Google,200,OK,Acessos 1-24,text,true,,15255,119,30,30,https://www.google.com/,944,0,806
+1623180959394,1289,Acessar Google,200,OK,Acessos 1-14,text,true,,15219,119,30,30,https://www.google.com/,1284,0,1153
+1623180959852,811,Acessar Google,200,OK,Acessos 1-28,text,true,,15261,119,30,30,https://www.google.com/,807,0,691
+1623180959457,1216,Acessar Google,200,OK,Acessos 1-16,text,true,,15235,119,30,30,https://www.google.com/,1215,0,1084
+1623180959423,1261,Acessar Google,200,OK,Acessos 1-15,text,true,,15221,119,30,30,https://www.google.com/,1257,0,1116
+1623180959292,1394,Acessar Google,200,OK,Acessos 1-11,text,true,,15242,119,30,30,https://www.google.com/,1383,0,1251
+1623180959264,1424,Acessar Google,200,OK,Acessos 1-10,text,true,,15253,119,30,30,https://www.google.com/,1423,0,1278
+1623180959818,872,Acessar Google,200,OK,Acessos 1-27,text,true,,15282,119,30,30,https://www.google.com/,858,0,720
+1623180959361,1329,Acessar Google,200,OK,Acessos 1-13,text,true,,15286,119,30,30,https://www.google.com/,1324,0,1177
+1623180959197,1494,Acessar Google,200,OK,Acessos 1-8,text,true,,15241,119,30,30,https://www.google.com/,1480,0,1349
+1623180959136,1557,Acessar Google,200,OK,Acessos 1-6,text,true,,15219,119,30,30,https://www.google.com/,1509,0,1404
+1623180959490,1210,Acessar Google,200,OK,Acessos 1-17,text,true,,15257,119,30,30,https://www.google.com/,1194,0,1054
+1623180959165,1535,Acessar Google,200,OK,Acessos 1-7,text,true,,15256,119,30,30,https://www.google.com/,1514,0,1379
+1623180959102,1609,Acessar Google,200,OK,Acessos 1-5,text,true,,15261,119,30,30,https://www.google.com/,1607,0,1446
+1623180959553,1253,Acessar Google,200,OK,Acessos 1-19,text,true,,15260,119,30,30,https://www.google.com/,1252,0,989
+1623180959064,1844,Acessar Google,200,OK,Acessos 1-3,text,true,,15166,119,30,30,https://www.google.com/,1843,0,1482
+1623180960692,614,Acessar Gov,200,OK,Acessos 1-8,text,true,,154163,235,30,30,https://www.gov.br/pt-br,306,0,218
+1623180960692,306,Acessar Gov-0,301,Moved Permanently,Acessos 1-8,,true,,776,115,30,30,https://www.gov.br/,306,0,218
+1623180961000,306,Acessar Gov-1,200,OK,Acessos 1-8,text,true,,153387,120,30,30,https://www.gov.br/pt-br,73,0,0
+1623180960690,662,Acessar Gov,200,OK,Acessos 1-1,text,true,,154163,235,30,30,https://www.gov.br/pt-br,312,0,226
+1623180960690,312,Acessar Gov-0,301,Moved Permanently,Acessos 1-1,,true,,776,115,30,30,https://www.gov.br/,312,0,226
+1623180961002,350,Acessar Gov-1,200,OK,Acessos 1-1,text,true,,153387,120,30,30,https://www.gov.br/pt-br,72,0,0
+1623180960701,656,Acessar Gov,200,OK,Acessos 1-17,text,true,,154162,235,30,30,https://www.gov.br/pt-br,297,0,216
+1623180960701,297,Acessar Gov-0,301,Moved Permanently,Acessos 1-17,,true,,775,115,30,30,https://www.gov.br/,297,0,216
+1623180961001,356,Acessar Gov-1,200,OK,Acessos 1-17,text,true,,153387,120,30,30,https://www.gov.br/pt-br,73,0,0
+1623180960681,679,Acessar Gov,200,OK,Acessos 1-18,text,true,,154163,235,30,30,https://www.gov.br/pt-br,349,0,241
+1623180960681,349,Acessar Gov-0,301,Moved Permanently,Acessos 1-18,,true,,776,115,30,30,https://www.gov.br/,349,0,241
+1623180961031,329,Acessar Gov-1,200,OK,Acessos 1-18,text,true,,153387,120,30,30,https://www.gov.br/pt-br,53,0,0
+1623180960701,699,Acessar Gov,200,OK,Acessos 1-7,text,true,,154162,235,30,30,https://www.gov.br/pt-br,341,0,244
+1623180960701,341,Acessar Gov-0,301,Moved Permanently,Acessos 1-7,,true,,775,115,30,30,https://www.gov.br/,341,0,244
+1623180961044,356,Acessar Gov-1,200,OK,Acessos 1-7,text,true,,153387,120,30,30,https://www.gov.br/pt-br,69,0,0
+1623180960679,723,Acessar Gov,200,OK,Acessos 1-21,text,true,,154163,235,30,30,https://www.gov.br/pt-br,370,0,289
+1623180960679,370,Acessar Gov-0,301,Moved Permanently,Acessos 1-21,,true,,776,115,30,30,https://www.gov.br/,370,0,289
+1623180961049,353,Acessar Gov-1,200,OK,Acessos 1-21,text,true,,153387,120,30,30,https://www.gov.br/pt-br,74,0,0
+1623180960683,767,Acessar Gov,200,OK,Acessos 1-29,text,true,,154162,235,30,30,https://www.gov.br/pt-br,381,0,265
+1623180960683,381,Acessar Gov-0,301,Moved Permanently,Acessos 1-29,,true,,776,115,30,30,https://www.gov.br/,381,0,265
+1623180961064,386,Acessar Gov-1,200,OK,Acessos 1-29,text,true,,153386,120,30,30,https://www.gov.br/pt-br,73,0,0
+1623180960688,796,Acessar Gov,200,OK,Acessos 1-11,text,true,,154161,235,30,30,https://www.gov.br/pt-br,326,0,227
+1623180960688,326,Acessar Gov-0,301,Moved Permanently,Acessos 1-11,,true,,775,115,30,30,https://www.gov.br/,326,0,227
+1623180961015,469,Acessar Gov-1,200,OK,Acessos 1-11,text,true,,153386,120,30,30,https://www.gov.br/pt-br,76,0,0
+1623180960692,835,Acessar Gov,200,OK,Acessos 1-9,text,true,,154163,235,30,30,https://www.gov.br/pt-br,342,0,228
+1623180960692,342,Acessar Gov-0,301,Moved Permanently,Acessos 1-9,,true,,776,115,30,30,https://www.gov.br/,342,0,228
+1623180961035,492,Acessar Gov-1,200,OK,Acessos 1-9,text,true,,153387,120,30,30,https://www.gov.br/pt-br,69,0,0
+1623180960684,890,Acessar Gov,200,OK,Acessos 1-12,text,true,,154162,235,30,30,https://www.gov.br/pt-br,364,0,264
+1623180960684,364,Acessar Gov-0,301,Moved Permanently,Acessos 1-12,,true,,775,115,30,30,https://www.gov.br/,364,0,264
+1623180961048,526,Acessar Gov-1,200,OK,Acessos 1-12,text,true,,153387,120,30,30,https://www.gov.br/pt-br,49,0,0
+1623180960679,919,Acessar Gov,200,OK,Acessos 1-4,text,true,,154162,235,30,30,https://www.gov.br/pt-br,392,0,294
+1623180960679,392,Acessar Gov-0,301,Moved Permanently,Acessos 1-4,,true,,775,115,30,30,https://www.gov.br/,392,0,294
+1623180961072,526,Acessar Gov-1,200,OK,Acessos 1-4,text,true,,153387,120,30,30,https://www.gov.br/pt-br,67,0,0
+1623180960691,908,Acessar Gov,200,OK,Acessos 1-14,text,true,,154161,235,30,30,https://www.gov.br/pt-br,331,0,228
+1623180960691,331,Acessar Gov-0,301,Moved Permanently,Acessos 1-14,,true,,775,115,30,30,https://www.gov.br/,331,0,228
+1623180961023,576,Acessar Gov-1,200,OK,Acessos 1-14,text,true,,153386,120,30,30,https://www.gov.br/pt-br,70,0,0
+1623180960677,926,Acessar Gov,200,OK,Acessos 1-26,text,true,,154163,235,30,30,https://www.gov.br/pt-br,390,0,292
+1623180960677,390,Acessar Gov-0,301,Moved Permanently,Acessos 1-26,,true,,776,115,30,30,https://www.gov.br/,390,0,292
+1623180961068,535,Acessar Gov-1,200,OK,Acessos 1-26,text,true,,153387,120,30,30,https://www.gov.br/pt-br,86,0,0
+1623180960692,963,Acessar Gov,200,OK,Acessos 1-20,text,true,,154163,235,30,30,https://www.gov.br/pt-br,322,0,219
+1623180960692,322,Acessar Gov-0,301,Moved Permanently,Acessos 1-20,,true,,776,115,30,30,https://www.gov.br/,322,0,219
+1623180961014,641,Acessar Gov-1,200,OK,Acessos 1-20,text,true,,153387,120,30,30,https://www.gov.br/pt-br,71,0,0
+1623180960678,978,Acessar Gov,200,OK,Acessos 1-22,text,true,,154163,235,30,30,https://www.gov.br/pt-br,394,0,290
+1623180960678,394,Acessar Gov-0,301,Moved Permanently,Acessos 1-22,,true,,776,115,30,30,https://www.gov.br/,394,0,290
+1623180961072,584,Acessar Gov-1,200,OK,Acessos 1-22,text,true,,153387,120,30,30,https://www.gov.br/pt-br,82,0,0
+1623180960686,973,Acessar Gov,200,OK,Acessos 1-24,text,true,,154163,235,30,30,https://www.gov.br/pt-br,323,0,237
+1623180960686,323,Acessar Gov-0,301,Moved Permanently,Acessos 1-24,,true,,776,115,30,30,https://www.gov.br/,323,0,237
+1623180961009,650,Acessar Gov-1,200,OK,Acessos 1-24,text,true,,153387,120,30,30,https://www.gov.br/pt-br,76,0,0
+1623180960671,991,Acessar Gov,200,OK,Acessos 1-30,text,true,,154156,235,30,30,https://www.gov.br/pt-br,453,0,346
+1623180960671,453,Acessar Gov-0,301,Moved Permanently,Acessos 1-30,,true,,775,115,30,30,https://www.gov.br/,453,0,346
+1623180961124,538,Acessar Gov-1,200,OK,Acessos 1-30,text,true,,153381,120,30,30,https://www.gov.br/pt-br,63,0,0
+1623180960692,993,Acessar Gov,200,OK,Acessos 1-27,text,true,,154157,235,30,30,https://www.gov.br/pt-br,330,0,226
+1623180960692,330,Acessar Gov-0,301,Moved Permanently,Acessos 1-27,,true,,776,115,30,30,https://www.gov.br/,330,0,226
+1623180961022,663,Acessar Gov-1,200,OK,Acessos 1-27,text,true,,153381,120,30,30,https://www.gov.br/pt-br,60,0,0
+1623180961353,398,Acessar Correios,200,OK,Acessos 1-1,text,true,,81265,124,30,30,https://www.correios.com.br/,228,0,150
+1623180960691,1074,Acessar Gov,200,OK,Acessos 1-13,text,true,,154163,235,29,29,https://www.gov.br/pt-br,341,0,233
+1623180960691,341,Acessar Gov-0,301,Moved Permanently,Acessos 1-13,,true,,776,115,29,29,https://www.gov.br/,341,0,233
+1623180961032,733,Acessar Gov-1,200,OK,Acessos 1-13,text,true,,153387,120,29,29,https://www.gov.br/pt-br,53,0,0
+1623180961307,481,Acessar Correios,200,OK,Acessos 1-8,text,true,,81265,124,29,29,https://www.correios.com.br/,265,0,184
+1623180960712,1079,Acessar Gov,200,OK,Acessos 1-5,text,true,,154163,235,28,28,https://www.gov.br/pt-br,362,0,257
+1623180960712,362,Acessar Gov-0,301,Moved Permanently,Acessos 1-5,,true,,776,115,28,28,https://www.gov.br/,362,0,257
+1623180961075,716,Acessar Gov-1,200,OK,Acessos 1-5,text,true,,153387,120,28,28,https://www.gov.br/pt-br,77,0,0
+1623180961361,445,Acessar Correios,200,OK,Acessos 1-18,text,true,,81265,124,28,28,https://www.correios.com.br/,231,0,169
+1623180960684,1142,Acessar Gov,200,OK,Acessos 1-23,text,true,,154163,235,27,27,https://www.gov.br/pt-br,386,0,283
+1623180960684,386,Acessar Gov-0,301,Moved Permanently,Acessos 1-23,,true,,776,115,27,27,https://www.gov.br/,386,0,283
+1623180961070,756,Acessar Gov-1,200,OK,Acessos 1-23,text,true,,153387,120,27,27,https://www.gov.br/pt-br,74,0,0
+1623180960807,1033,Acessar Gov,200,OK,Acessos 1-19,text,true,,154162,235,27,27,https://www.gov.br/pt-br,322,0,226
+1623180960807,322,Acessar Gov-0,301,Moved Permanently,Acessos 1-19,,true,,776,115,27,27,https://www.gov.br/,322,0,226
+1623180961130,710,Acessar Gov-1,200,OK,Acessos 1-19,text,true,,153386,120,27,27,https://www.gov.br/pt-br,83,0,0
+1623180960686,1157,Acessar Gov,200,OK,Acessos 1-15,text,true,,154162,235,27,27,https://www.gov.br/pt-br,335,0,235
+1623180960686,335,Acessar Gov-0,301,Moved Permanently,Acessos 1-15,,true,,776,115,27,27,https://www.gov.br/,335,0,235
+1623180961021,822,Acessar Gov-1,200,OK,Acessos 1-15,text,true,,153386,120,27,27,https://www.gov.br/pt-br,72,0,0
+1623180960694,1156,Acessar Gov,200,OK,Acessos 1-6,text,true,,154163,235,27,27,https://www.gov.br/pt-br,389,0,276
+1623180960694,389,Acessar Gov-0,301,Moved Permanently,Acessos 1-6,,true,,776,115,27,27,https://www.gov.br/,389,0,276
+1623180961083,767,Acessar Gov-1,200,OK,Acessos 1-6,text,true,,153387,120,27,27,https://www.gov.br/pt-br,85,0,0
+1623180961403,453,Acessar Correios,200,OK,Acessos 1-21,text,true,,81265,124,27,27,https://www.correios.com.br/,246,0,168
+1623180961401,458,Acessar Correios,200,OK,Acessos 1-7,text,true,,81265,124,26,26,https://www.correios.com.br/,230,0,166
+1623180961486,382,Acessar Correios,200,OK,Acessos 1-11,text,true,,81265,124,25,25,https://www.correios.com.br/,227,0,146
+1623180961451,434,Acessar Correios,200,OK,Acessos 1-29,text,true,,81265,124,24,24,https://www.correios.com.br/,232,0,157
+1623180961599,413,Acessar Correios,200,OK,Acessos 1-4,text,true,,81265,124,23,23,https://www.correios.com.br/,216,0,148
+1623180960686,1341,Acessar Gov,200,OK,Acessos 1-16,text,true,,154163,235,22,22,https://www.gov.br/pt-br,337,0,241
+1623180960686,337,Acessar Gov-0,301,Moved Permanently,Acessos 1-16,,true,,776,115,22,22,https://www.gov.br/,337,0,241
+1623180961023,1004,Acessar Gov-1,200,OK,Acessos 1-16,text,true,,153387,120,22,22,https://www.gov.br/pt-br,65,0,0
+1623180961575,465,Acessar Correios,200,OK,Acessos 1-12,text,true,,81265,124,22,22,https://www.correios.com.br/,234,0,157
+1623180961655,406,Acessar Correios,200,OK,Acessos 1-20,text,true,,81265,124,21,21,https://www.correios.com.br/,211,0,140
+1623180961660,415,Acessar Correios,200,OK,Acessos 1-24,text,true,,81265,124,20,20,https://www.correios.com.br/,218,0,139
+1623180960683,1394,Acessar Gov,200,OK,Acessos 1-25,text,true,,154162,235,19,19,https://www.gov.br/pt-br,386,0,285
+1623180960683,386,Acessar Gov-0,301,Moved Permanently,Acessos 1-25,,true,,776,115,19,19,https://www.gov.br/,386,0,285
+1623180961069,1008,Acessar Gov-1,200,OK,Acessos 1-25,text,true,,153386,120,19,19,https://www.gov.br/pt-br,51,0,0
+1623180961528,554,Acessar Correios,200,OK,Acessos 1-9,text,true,,81265,124,19,19,https://www.correios.com.br/,250,0,162
+1623180961358,725,Acessar Correios,200,OK,Acessos 1-17,text,true,,81265,124,18,18,https://www.correios.com.br/,260,0,171
+1623180961686,410,Acessar Correios,200,OK,Acessos 1-27,text,true,,81265,124,17,17,https://www.correios.com.br/,232,0,152
+1623180961604,521,Acessar Correios,200,OK,Acessos 1-26,text,true,,81265,124,16,16,https://www.correios.com.br/,231,0,157
+1623180960909,1220,Acessar Gov,200,OK,Acessos 1-3,text,true,,154162,235,15,15,https://www.gov.br/pt-br,290,0,194
+1623180960909,290,Acessar Gov-0,301,Moved Permanently,Acessos 1-3,,true,,776,115,15,15,https://www.gov.br/,290,0,194
+1623180961199,930,Acessar Gov-1,200,OK,Acessos 1-3,text,true,,153386,120,15,15,https://www.gov.br/pt-br,83,0,0
+1623180961792,383,Acessar Correios,200,OK,Acessos 1-5,text,true,,81265,124,15,15,https://www.correios.com.br/,222,0,144
+1623180961841,380,Acessar Correios,200,OK,Acessos 1-19,text,true,,81265,124,14,14,https://www.correios.com.br/,207,0,139
+1623180961766,466,Acessar Correios,200,OK,Acessos 1-13,text,true,,81265,124,13,13,https://www.correios.com.br/,249,0,160
+1623180961599,635,Acessar Correios,200,OK,Acessos 1-14,text,true,,81265,124,12,12,https://www.correios.com.br/,251,0,157
+1623180961851,416,Acessar Correios,200,OK,Acessos 1-6,text,true,,81265,124,11,11,https://www.correios.com.br/,231,0,153
+1623180961657,638,Acessar Correios,200,OK,Acessos 1-22,text,true,,81265,124,10,10,https://www.correios.com.br/,231,0,150
+1623180961663,703,Acessar Correios,200,OK,Acessos 1-30,text,true,,81265,124,9,9,https://www.correios.com.br/,268,0,172
+1623180962028,369,Acessar Correios,200,OK,Acessos 1-16,text,true,,81265,124,8,8,https://www.correios.com.br/,209,0,137
+1623180961827,585,Acessar Correios,200,OK,Acessos 1-23,text,true,,81265,124,7,7,https://www.correios.com.br/,208,0,137
+1623180962078,404,Acessar Correios,200,OK,Acessos 1-25,text,true,,81265,124,6,6,https://www.correios.com.br/,235,0,157
+1623180962130,353,Acessar Correios,200,OK,Acessos 1-3,text,true,,81265,124,6,6,https://www.correios.com.br/,208,0,134
+1623180961844,677,Acessar Correios,200,OK,Acessos 1-15,text,true,,81265,124,4,4,https://www.correios.com.br/,225,0,152
+1623180960685,1893,Acessar Gov,200,OK,Acessos 1-28,text,true,,154163,235,3,3,https://www.gov.br/pt-br,323,0,237
+1623180960685,323,Acessar Gov-0,301,Moved Permanently,Acessos 1-28,,true,,776,115,3,3,https://www.gov.br/,323,0,237
+1623180961008,1570,Acessar Gov-1,200,OK,Acessos 1-28,text,true,,153387,120,3,3,https://www.gov.br/pt-br,75,0,0
+1623180960690,1911,Acessar Gov,200,OK,Acessos 1-10,text,true,,154163,235,3,3,https://www.gov.br/pt-br,312,0,221
+1623180960690,312,Acessar Gov-0,301,Moved Permanently,Acessos 1-10,,true,,776,115,3,3,https://www.gov.br/,312,0,221
+1623180961003,1598,Acessar Gov-1,200,OK,Acessos 1-10,text,true,,153387,120,3,3,https://www.gov.br/pt-br,63,0,0
+1623180962580,390,Acessar Correios,200,OK,Acessos 1-28,text,true,,81265,124,3,3,https://www.correios.com.br/,204,0,131
+1623180962602,431,Acessar Correios,200,OK,Acessos 1-10,text,true,,81265,124,2,2,https://www.correios.com.br/,249,0,153
+1623180960692,2378,Acessar Gov,200,OK,Acessos 1-2,text,true,,154162,235,1,1,https://www.gov.br/pt-br,318,0,220
+1623180960692,318,Acessar Gov-0,301,Moved Permanently,Acessos 1-2,,true,,775,115,1,1,https://www.gov.br/,318,0,220
+1623180961010,2060,Acessar Gov-1,200,OK,Acessos 1-2,text,true,,153387,120,1,1,https://www.gov.br/pt-br,72,0,0
+1623180963071,610,Acessar Correios,200,OK,Acessos 1-2,text,true,,81265,124,1,1,https://www.correios.com.br/,241,0,153
+1623181006521,1153,Acessar Google,200,OK,Acessos 1-21,text,true,,15239,119,30,30,https://www.google.com/,1145,0,1045
+1623181006457,1230,Acessar Google,200,OK,Acessos 1-19,text,true,,15260,119,30,30,https://www.google.com/,1229,0,1113
+1623181006108,1581,Acessar Google,200,OK,Acessos 1-8,text,true,,15269,119,30,30,https://www.google.com/,1579,0,1461
+1623181006663,1028,Acessar Google,200,OK,Acessos 1-25,text,true,,15188,119,30,30,https://www.google.com/,1026,0,911
+1623181006780,912,Acessar Google,200,OK,Acessos 1-29,text,true,,15260,119,30,30,https://www.google.com/,911,0,788
+1623181005979,1715,Acessar Google,200,OK,Acessos 1-4,text,true,,15244,119,30,30,https://www.google.com/,1713,0,1599
+1623181006079,1615,Acessar Google,200,OK,Acessos 1-7,text,true,,15193,119,30,30,https://www.google.com/,1614,0,1492
+1623181006549,1146,Acessar Google,200,OK,Acessos 1-22,text,true,,15211,119,30,30,https://www.google.com/,1117,0,1017
+1623181006237,1458,Acessar Google,200,OK,Acessos 1-12,text,true,,15279,119,30,30,https://www.google.com/,1457,0,1337
+1623181006140,1557,Acessar Google,200,OK,Acessos 1-9,text,true,,15193,119,30,30,https://www.google.com/,1556,0,1437
+1623181006010,1687,Acessar Google,200,OK,Acessos 1-5,text,true,,15209,119,30,30,https://www.google.com/,1686,0,1562
+1623181005963,1721,Acessar Google,200,OK,Acessos 1-3,text,true,,15221,119,30,30,https://www.google.com/,1706,0,1609
+1623181006813,886,Acessar Google,200,OK,Acessos 1-30,text,true,,15259,119,30,30,https://www.google.com/,885,0,754
+1623181006271,1428,Acessar Google,200,OK,Acessos 1-13,text,true,,15181,119,30,30,https://www.google.com/,1427,0,1299
+1623181006714,987,Acessar Google,200,OK,Acessos 1-27,text,true,,15270,119,30,30,https://www.google.com/,986,0,859
+1623181006415,1286,Acessar Google,200,OK,Acessos 1-18,text,true,,15264,119,30,30,https://www.google.com/,1285,0,1163
+1623181006352,1331,Acessar Google,200,OK,Acessos 1-16,text,true,,15236,119,30,30,https://www.google.com/,1329,0,1224
+1623181006045,1659,Acessar Google,200,OK,Acessos 1-6,text,true,,15262,119,30,30,https://www.google.com/,1658,0,1530
+1623181006747,959,Acessar Google,200,OK,Acessos 1-28,text,true,,15237,119,30,30,https://www.google.com/,958,0,831
+1623181006304,1405,Acessar Google,200,OK,Acessos 1-14,text,true,,15228,119,30,30,https://www.google.com/,1404,0,1262
+1623181006335,1374,Acessar Google,200,OK,Acessos 1-15,text,true,,15270,119,30,30,https://www.google.com/,1373,0,1232
+1623181005962,1717,Acessar Google,200,OK,Acessos 1-1,text,true,,15290,119,30,30,https://www.google.com/,1711,0,1606
+1623181006484,1227,Acessar Google,200,OK,Acessos 1-20,text,true,,15209,119,30,30,https://www.google.com/,1217,0,1096
+1623181005962,1748,Acessar Google,200,OK,Acessos 1-2,text,true,,15186,119,30,30,https://www.google.com/,1747,0,1617
+1623181006586,1125,Acessar Google,200,OK,Acessos 1-23,text,true,,15292,119,30,30,https://www.google.com/,1118,0,994
+1623181006385,1327,Acessar Google,200,OK,Acessos 1-17,text,true,,15243,119,30,30,https://www.google.com/,1317,0,1190
+1623181006172,1546,Acessar Google,200,OK,Acessos 1-10,text,true,,15255,119,30,30,https://www.google.com/,1535,0,1409
+1623181006681,1096,Acessar Google,200,OK,Acessos 1-26,text,true,,15265,119,30,30,https://www.google.com/,1094,0,898
+1623181006661,1261,Acessar Google,200,OK,Acessos 1-24,text,true,,15243,119,30,30,https://www.google.com/,1048,0,916
+1623181006204,1758,Acessar Google,200,OK,Acessos 1-11,text,true,,15223,119,30,30,https://www.google.com/,1497,0,1372
+1623181007714,752,Acessar Gov,200,OK,Acessos 1-13,text,true,,154163,235,30,30,https://www.gov.br/pt-br,399,0,310
+1623181007714,399,Acessar Gov-0,301,Moved Permanently,Acessos 1-13,,true,,776,115,30,30,https://www.gov.br/,399,0,310
+1623181008114,352,Acessar Gov-1,200,OK,Acessos 1-13,text,true,,153387,120,30,30,https://www.gov.br/pt-br,61,0,0
+1623181007703,803,Acessar Gov,200,OK,Acessos 1-4,text,true,,154162,235,30,30,https://www.gov.br/pt-br,412,0,308
+1623181007703,412,Acessar Gov-0,301,Moved Permanently,Acessos 1-4,,true,,775,115,30,30,https://www.gov.br/,412,0,308
+1623181008115,391,Acessar Gov-1,200,OK,Acessos 1-4,text,true,,153387,120,30,30,https://www.gov.br/pt-br,80,0,0
+1623181007715,797,Acessar Gov,200,OK,Acessos 1-20,text,true,,154163,235,30,30,https://www.gov.br/pt-br,437,0,351
+1623181007715,437,Acessar Gov-0,301,Moved Permanently,Acessos 1-20,,true,,776,115,30,30,https://www.gov.br/,437,0,351
+1623181008152,360,Acessar Gov-1,200,OK,Acessos 1-20,text,true,,153387,120,30,30,https://www.gov.br/pt-br,53,0,0
+1623181007716,807,Acessar Gov,200,OK,Acessos 1-1,text,true,,154162,235,30,30,https://www.gov.br/pt-br,416,0,306
+1623181007716,416,Acessar Gov-0,301,Moved Permanently,Acessos 1-1,,true,,775,115,30,30,https://www.gov.br/,416,0,306
+1623181008132,391,Acessar Gov-1,200,OK,Acessos 1-1,text,true,,153387,120,30,30,https://www.gov.br/pt-br,74,0,0
+1623181007713,822,Acessar Gov,200,OK,Acessos 1-17,text,true,,154163,235,30,30,https://www.gov.br/pt-br,459,0,369
+1623181007713,459,Acessar Gov-0,301,Moved Permanently,Acessos 1-17,,true,,776,115,30,30,https://www.gov.br/,459,0,369
+1623181008172,363,Acessar Gov-1,200,OK,Acessos 1-17,text,true,,153387,120,30,30,https://www.gov.br/pt-br,64,0,0
+1623181007706,831,Acessar Gov,200,OK,Acessos 1-30,text,true,,154163,235,30,30,https://www.gov.br/pt-br,464,0,361
+1623181007706,464,Acessar Gov-0,301,Moved Permanently,Acessos 1-30,,true,,776,115,30,30,https://www.gov.br/,464,0,361
+1623181008170,367,Acessar Gov-1,200,OK,Acessos 1-30,text,true,,153387,120,30,30,https://www.gov.br/pt-br,61,0,0
+1623181007715,837,Acessar Gov,200,OK,Acessos 1-2,text,true,,154162,235,30,30,https://www.gov.br/pt-br,455,0,374
+1623181007715,455,Acessar Gov-0,301,Moved Permanently,Acessos 1-2,,true,,775,115,30,30,https://www.gov.br/,455,0,374
+1623181008170,382,Acessar Gov-1,200,OK,Acessos 1-2,text,true,,153387,120,30,30,https://www.gov.br/pt-br,82,0,0
+1623181007710,858,Acessar Gov,200,OK,Acessos 1-14,text,true,,154162,235,30,30,https://www.gov.br/pt-br,397,0,303
+1623181007710,397,Acessar Gov-0,301,Moved Permanently,Acessos 1-14,,true,,775,115,30,30,https://www.gov.br/,397,0,303
+1623181008107,461,Acessar Gov-1,200,OK,Acessos 1-14,text,true,,153387,120,30,30,https://www.gov.br/pt-br,63,0,0
+1623181007711,867,Acessar Gov,200,OK,Acessos 1-7,text,true,,154163,235,30,30,https://www.gov.br/pt-br,437,0,344
+1623181007711,437,Acessar Gov-0,301,Moved Permanently,Acessos 1-7,,true,,776,115,30,30,https://www.gov.br/,437,0,344
+1623181008148,430,Acessar Gov-1,200,OK,Acessos 1-7,text,true,,153387,120,30,30,https://www.gov.br/pt-br,79,0,0
+1623181007688,1024,Acessar Gov,200,OK,Acessos 1-21,text,true,,154162,235,30,30,https://www.gov.br/pt-br,465,0,378
+1623181007688,465,Acessar Gov-0,301,Moved Permanently,Acessos 1-21,,true,,775,115,30,30,https://www.gov.br/,465,0,378
+1623181008153,559,Acessar Gov-1,200,OK,Acessos 1-21,text,true,,153387,120,30,30,https://www.gov.br/pt-br,52,0,0
+1623181007716,1023,Acessar Gov,200,OK,Acessos 1-9,text,true,,154163,235,30,30,https://www.gov.br/pt-br,489,0,385
+1623181007716,489,Acessar Gov-0,301,Moved Permanently,Acessos 1-9,,true,,776,115,30,30,https://www.gov.br/,489,0,385
+1623181008205,534,Acessar Gov-1,200,OK,Acessos 1-9,text,true,,153387,120,30,30,https://www.gov.br/pt-br,142,0,0
+1623181007713,1041,Acessar Gov,200,OK,Acessos 1-16,text,true,,154163,235,30,30,https://www.gov.br/pt-br,436,0,335
+1623181007713,436,Acessar Gov-0,301,Moved Permanently,Acessos 1-16,,true,,776,115,30,30,https://www.gov.br/,436,0,335
+1623181008149,605,Acessar Gov-1,200,OK,Acessos 1-16,text,true,,153387,120,30,30,https://www.gov.br/pt-br,56,0,0
+1623181007708,1080,Acessar Gov,200,OK,Acessos 1-27,text,true,,154163,235,30,30,https://www.gov.br/pt-br,405,0,305
+1623181007708,405,Acessar Gov-0,301,Moved Permanently,Acessos 1-27,,true,,776,115,30,30,https://www.gov.br/,405,0,305
+1623181008113,675,Acessar Gov-1,200,OK,Acessos 1-27,text,true,,153387,120,30,30,https://www.gov.br/pt-br,70,0,0
+1623181007716,1164,Acessar Gov,200,OK,Acessos 1-12,text,true,,154163,235,30,30,https://www.gov.br/pt-br,372,0,280
+1623181007716,372,Acessar Gov-0,301,Moved Permanently,Acessos 1-12,,true,,776,115,30,30,https://www.gov.br/,372,0,280
+1623181008089,791,Acessar Gov-1,200,OK,Acessos 1-12,text,true,,153387,120,30,30,https://www.gov.br/pt-br,53,0,0
+1623181007714,1173,Acessar Gov,200,OK,Acessos 1-3,text,true,,154163,235,30,30,https://www.gov.br/pt-br,477,0,376
+1623181007714,477,Acessar Gov-0,301,Moved Permanently,Acessos 1-3,,true,,776,115,30,30,https://www.gov.br/,477,0,376
+1623181008191,696,Acessar Gov-1,200,OK,Acessos 1-3,text,true,,153387,120,30,30,https://www.gov.br/pt-br,141,0,0
+1623181007962,931,Acessar Gov,200,OK,Acessos 1-11,text,true,,154162,235,30,30,https://www.gov.br/pt-br,270,0,186
+1623181007962,270,Acessar Gov-0,301,Moved Permanently,Acessos 1-11,,true,,775,115,30,30,https://www.gov.br/,270,0,186
+1623181008232,661,Acessar Gov-1,200,OK,Acessos 1-11,text,true,,153387,120,30,30,https://www.gov.br/pt-br,128,0,0
+1623181007719,1183,Acessar Gov,200,OK,Acessos 1-10,text,true,,154163,235,30,30,https://www.gov.br/pt-br,463,0,380
+1623181007719,463,Acessar Gov-0,301,Moved Permanently,Acessos 1-10,,true,,776,115,30,30,https://www.gov.br/,463,0,380
+1623181008183,719,Acessar Gov-1,200,OK,Acessos 1-10,text,true,,153387,120,30,30,https://www.gov.br/pt-br,49,0,0
+1623181007716,1188,Acessar Gov,200,OK,Acessos 1-5,text,true,,154163,235,30,30,https://www.gov.br/pt-br,476,0,380
+1623181007716,476,Acessar Gov-0,301,Moved Permanently,Acessos 1-5,,true,,776,115,30,30,https://www.gov.br/,476,0,380
+1623181008192,712,Acessar Gov-1,200,OK,Acessos 1-5,text,true,,153387,120,30,30,https://www.gov.br/pt-br,129,0,0
+1623181008537,393,Acessar Correios,200,OK,Acessos 1-30,text,true,,81265,124,30,30,https://www.correios.com.br/,241,0,155
+1623181008467,475,Acessar Correios,200,OK,Acessos 1-13,text,true,,81265,124,29,29,https://www.correios.com.br/,254,0,175
+1623181008507,486,Acessar Correios,200,OK,Acessos 1-4,text,true,,81265,124,28,28,https://www.correios.com.br/,248,0,164
+1623181008554,439,Acessar Correios,200,OK,Acessos 1-2,text,true,,81265,124,28,28,https://www.correios.com.br/,226,0,145
+1623181008513,481,Acessar Correios,200,OK,Acessos 1-20,text,true,,81265,124,28,28,https://www.correios.com.br/,250,0,170
+1623181008570,438,Acessar Correios,200,OK,Acessos 1-14,text,true,,81265,124,25,25,https://www.correios.com.br/,230,0,152
+1623181008579,430,Acessar Correios,200,OK,Acessos 1-7,text,true,,81265,124,24,24,https://www.correios.com.br/,221,0,151
+1623181007710,1300,Acessar Gov,200,OK,Acessos 1-18,text,true,,154162,235,24,24,https://www.gov.br/pt-br,485,0,391
+1623181007710,486,Acessar Gov-0,301,Moved Permanently,Acessos 1-18,,true,,775,115,24,24,https://www.gov.br/,485,0,391
+1623181008196,814,Acessar Gov-1,200,OK,Acessos 1-18,text,true,,153387,120,24,24,https://www.gov.br/pt-br,136,0,0
+1623181007778,1234,Acessar Gov,200,OK,Acessos 1-26,text,true,,154162,235,23,23,https://www.gov.br/pt-br,310,0,208
+1623181007778,310,Acessar Gov-0,301,Moved Permanently,Acessos 1-26,,true,,775,115,23,23,https://www.gov.br/,310,0,208
+1623181008089,923,Acessar Gov-1,200,OK,Acessos 1-26,text,true,,153387,120,23,23,https://www.gov.br/pt-br,58,0,0
+1623181007717,1320,Acessar Gov,200,OK,Acessos 1-22,text,true,,154163,235,23,23,https://www.gov.br/pt-br,397,0,290
+1623181007717,397,Acessar Gov-0,301,Moved Permanently,Acessos 1-22,,true,,776,115,23,23,https://www.gov.br/,397,0,290
+1623181008114,923,Acessar Gov-1,200,OK,Acessos 1-22,text,true,,153387,120,23,23,https://www.gov.br/pt-br,77,0,0
+1623181007714,1325,Acessar Gov,200,OK,Acessos 1-23,text,true,,154162,235,23,23,https://www.gov.br/pt-br,431,0,352
+1623181007714,431,Acessar Gov-0,301,Moved Permanently,Acessos 1-23,,true,,775,115,23,23,https://www.gov.br/,431,0,352
+1623181008145,894,Acessar Gov-1,200,OK,Acessos 1-23,text,true,,153387,120,23,23,https://www.gov.br/pt-br,54,0,0
+1623181007712,1359,Acessar Gov,200,OK,Acessos 1-15,text,true,,154163,235,23,23,https://www.gov.br/pt-br,436,0,346
+1623181007712,436,Acessar Gov-0,301,Moved Permanently,Acessos 1-15,,true,,776,115,23,23,https://www.gov.br/,436,0,346
+1623181008148,923,Acessar Gov-1,200,OK,Acessos 1-15,text,true,,153387,120,23,23,https://www.gov.br/pt-br,53,0,0
+1623181007691,1430,Acessar Gov,200,OK,Acessos 1-25,text,true,,154157,235,23,23,https://www.gov.br/pt-br,419,0,321
+1623181007691,419,Acessar Gov-0,301,Moved Permanently,Acessos 1-25,,true,,776,115,23,23,https://www.gov.br/,419,0,321
+1623181008110,1011,Acessar Gov-1,200,OK,Acessos 1-25,text,true,,153381,120,23,23,https://www.gov.br/pt-br,62,0,0
+1623181008755,383,Acessar Correios,200,OK,Acessos 1-16,text,true,,81265,124,23,23,https://www.correios.com.br/,218,0,141
+1623181007923,1225,Acessar Gov,200,OK,Acessos 1-24,text,true,,154157,235,22,22,https://www.gov.br/pt-br,287,0,184
+1623181007923,287,Acessar Gov-0,301,Moved Permanently,Acessos 1-24,,true,,776,115,22,22,https://www.gov.br/,287,0,184
+1623181008210,938,Acessar Gov-1,200,OK,Acessos 1-24,text,true,,153381,120,22,22,https://www.gov.br/pt-br,137,0,0
+1623181008713,442,Acessar Correios,200,OK,Acessos 1-21,text,true,,81265,124,22,22,https://www.correios.com.br/,222,0,146
+1623181007690,1465,Acessar Gov,200,OK,Acessos 1-8,text,true,,154163,235,22,22,https://www.gov.br/pt-br,405,0,311
+1623181007690,405,Acessar Gov-0,301,Moved Permanently,Acessos 1-8,,true,,776,115,22,22,https://www.gov.br/,405,0,311
+1623181008095,1060,Acessar Gov-1,200,OK,Acessos 1-8,text,true,,153387,120,22,22,https://www.gov.br/pt-br,54,0,0
+1623181007693,1508,Acessar Gov,200,OK,Acessos 1-29,text,true,,154162,235,21,21,https://www.gov.br/pt-br,395,0,296
+1623181007693,395,Acessar Gov-0,301,Moved Permanently,Acessos 1-29,,true,,775,115,21,21,https://www.gov.br/,395,0,296
+1623181008089,1112,Acessar Gov-1,200,OK,Acessos 1-29,text,true,,153387,120,21,21,https://www.gov.br/pt-br,56,0,0
+1623181008789,426,Acessar Correios,200,OK,Acessos 1-27,text,true,,81265,124,21,21,https://www.correios.com.br/,242,0,162
+1623181008893,363,Acessar Correios,200,OK,Acessos 1-11,text,true,,81265,124,20,20,https://www.correios.com.br/,203,0,137
+1623181008881,397,Acessar Correios,200,OK,Acessos 1-12,text,true,,81265,124,19,19,https://www.correios.com.br/,226,0,150
+1623181008887,416,Acessar Correios,200,OK,Acessos 1-3,text,true,,81265,124,18,18,https://www.correios.com.br/,221,0,141
+1623181008903,410,Acessar Correios,200,OK,Acessos 1-10,text,true,,81265,124,17,17,https://www.correios.com.br/,238,0,157
+1623181008535,803,Acessar Correios,200,OK,Acessos 1-17,text,true,,81265,124,16,16,https://www.correios.com.br/,226,0,155
+1623181008905,449,Acessar Correios,200,OK,Acessos 1-5,text,true,,81265,124,15,15,https://www.correios.com.br/,276,0,156
+1623181008740,702,Acessar Correios,200,OK,Acessos 1-9,text,true,,81265,124,14,14,https://www.correios.com.br/,219,0,139
+1623181009011,450,Acessar Correios,200,OK,Acessos 1-18,text,true,,81265,124,13,13,https://www.correios.com.br/,212,0,139
+1623181009071,408,Acessar Correios,200,OK,Acessos 1-15,text,true,,81265,124,12,12,https://www.correios.com.br/,212,0,139
+1623181008525,977,Acessar Correios,200,OK,Acessos 1-1,text,true,,81265,124,11,11,https://www.correios.com.br/,240,0,158
+1623181009122,392,Acessar Correios,200,OK,Acessos 1-25,text,true,,81265,124,10,10,https://www.correios.com.br/,211,0,149
+1623181009157,419,Acessar Correios,200,OK,Acessos 1-8,text,true,,81265,124,9,9,https://www.correios.com.br/,242,0,155
+1623181009202,402,Acessar Correios,200,OK,Acessos 1-29,text,true,,81265,124,8,8,https://www.correios.com.br/,229,0,149
+1623181009013,645,Acessar Correios,200,OK,Acessos 1-26,text,true,,81265,124,7,7,https://www.correios.com.br/,206,0,134
+1623181009038,647,Acessar Correios,200,OK,Acessos 1-22,text,true,,81265,124,6,6,https://www.correios.com.br/,224,0,142
+1623181007706,2083,Acessar Gov,200,OK,Acessos 1-19,text,true,,154162,235,5,5,https://www.gov.br/pt-br,394,0,298
+1623181007706,394,Acessar Gov-0,301,Moved Permanently,Acessos 1-19,,true,,775,115,5,5,https://www.gov.br/,394,0,298
+1623181008101,1688,Acessar Gov-1,200,OK,Acessos 1-19,text,true,,153387,120,5,5,https://www.gov.br/pt-br,71,0,0
+1623181009149,704,Acessar Correios,200,OK,Acessos 1-24,text,true,,81265,124,5,5,https://www.correios.com.br/,225,0,147
+1623181009040,871,Acessar Correios,200,OK,Acessos 1-23,text,true,,81265,124,4,4,https://www.correios.com.br/,230,0,154
+1623181007707,2380,Acessar Gov,200,OK,Acessos 1-28,text,true,,154163,235,3,3,https://www.gov.br/pt-br,422,0,320
+1623181007707,422,Acessar Gov-0,301,Moved Permanently,Acessos 1-28,,true,,776,115,3,3,https://www.gov.br/,422,0,320
+1623181008129,1958,Acessar Gov-1,200,OK,Acessos 1-28,text,true,,153387,120,3,3,https://www.gov.br/pt-br,83,0,0
+1623181009789,443,Acessar Correios,200,OK,Acessos 1-19,text,true,,81265,124,3,3,https://www.correios.com.br/,228,0,150
+1623181007705,2527,Acessar Gov,200,OK,Acessos 1-6,text,true,,154163,235,3,3,https://www.gov.br/pt-br,406,0,311
+1623181007705,406,Acessar Gov-0,301,Moved Permanently,Acessos 1-6,,true,,776,115,3,3,https://www.gov.br/,406,0,311
+1623181008111,2121,Acessar Gov-1,200,OK,Acessos 1-6,text,true,,153387,120,3,3,https://www.gov.br/pt-br,59,0,0
+1623181010088,400,Acessar Correios,200,OK,Acessos 1-28,text,true,,81265,124,2,2,https://www.correios.com.br/,224,0,148
+1623181010233,382,Acessar Correios,200,OK,Acessos 1-6,text,true,,81265,124,1,1,https://www.correios.com.br/,217,0,139
